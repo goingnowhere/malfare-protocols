@@ -1,12 +1,12 @@
 <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
 	<button class="dl-trigger">Open Menu</button>
 	<ul class="dl-menu">
-		<li><a href="{{ site.url }}/">Home</a></li>
+		<li><a href="{{ site.baseurl }}/">Home</a></li>
 		<li>
 			<a href="#">About</a>
 			<ul class="dl-submenu">
 				<li>
-					<img src="{{ site.url }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
+					<img src="{{ site.baseurl }}/images/{{ site.owner.avatar }}" alt="{{ site.owner.name }} photo" class="author-photo">
 					<h4>{{ site.owner.name }}</h4>
 					<p>{{ site.owner.bio }}</p>
 				</li>
@@ -54,29 +54,29 @@
                         <a href="#">Protocols</a>
                         <ul class="dl-submenu">
                                 <li><a
-                                href="/protocols/en/adverse_weather/">Adverse weather</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/adverse_weather/">Adverse weather</a></li>
                                 <li><a
-                                href="/protocols/en/criminal_behaviour_or_activity_(non_sexual)/">Suspected criminal behaviour</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/criminal_behaviour_or_activity_(non_sexual)/">Suspected criminal behaviour</a></li>
                                 <li><a
-                                href="/protocols/en/death_on_site/">Death on site</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/death_on_site/">Death on site</a></li>
                                 <li><a
-                                href="/protocols/en/draft_sound_complaint_protocol/">Sound complaint protocol</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/draft_sound_complaint_protocol/">Sound complaint protocol</a></li>
                                 <li><a
-                                href="/protocols/en/eviction_process/">Eviction process</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/eviction_process/">Eviction process</a></li>
                                 <li><a
-                                href="/protocols/en/fire_emergency/">Fire emergency</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/fire_emergency/">Fire emergency</a></li>
                                 <li><a
-                                href="/protocols/en/found_child-unaccompanied_minor/">Found child/unaccompanied minor</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/found_child-unaccompanied_minor/">Found child/unaccompanied minor</a></li>
                                 <li><a
-                                href="/protocols/en/gate_closure_levels/">Gate closure levels</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/gate_closure_levels/">Gate closure levels</a></li>
                                 <li><a
-                                href="/protocols/en/health_outbreak/">Health outbreak</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/health_outbreak/">Health outbreak</a></li>
                                 <li><a
-                                href="/protocols/en/missing_child/">Missing child</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/missing_child/">Missing child</a></li>
                                 <li><a
-                                href="/protocols/en/multi-casualty_accident/">Multi-casualty accident</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/multi-casualty_accident/">Multi-casualty accident</a></li>
                                 <li><a
-                                href="/protocols/en/sexual_assault_or_rape/">Sexual assault/rape</a></li>
+                                href=ref="{{ site.baseurl }}/protocols/en/sexual_assault_or_rape/">Sexual assault/rape</a></li>
                         <ul>
                     </li>
 
