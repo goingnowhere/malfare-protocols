@@ -17,9 +17,9 @@ _ **Any health related outbreak – flu, mass food poisoning, swarm of insects, 
 - Privacy of all individuals involved in the incident is to be respected at all times, and the spread of rumours should be contained – all team members to actively assist in this!
 - 
 
-![Health Outbreak 1](img/ho-1.png Health Outbreak 1) 
-![Health Outbreak 2](img/ho-2.png Health Outbreak 1) 
-![Health Outbreak 3](img/ho-3.png Health Outbreak 1) 
-![Health Outbreak 4](img/ho-4.png Health Outbreak 1) 
-![Health Outbreak 5](img/ho-5.png Health Outbreak 1) 
+![Health Outbreak 1](img/ho-1.png "Health Outbreak 1") 
+![Health Outbreak 2](img/ho-2.png "Health Outbreak 2") 
+![Health Outbreak 3](img/ho-3.png "Health Outbreak 3") 
+![Health Outbreak 4](img/ho-4.png "Health Outbreak 4") 
+![Health Outbreak 5](img/ho-5.png "Health Outbreak 5") 
 ­­­

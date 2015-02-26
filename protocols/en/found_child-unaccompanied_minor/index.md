@@ -21,5 +21,5 @@ _ **Definition: The event of a minor (anyone under the age of 18) found lost (un
 - If you are related to, or close friends with, the child and/or guardians involved – remove yourself from any involvement in decisions, or discussions about decisions, or interviews with the guardians, regarding the case, including but not limited to the involvement of law enforcement, decisions regarding neglect, eviction, etc.
 - 
 
-![Found child](img/fc.png Found child protocol)
+![Found child](img/fc.png "Found child protocol")
 ­­­
