@@ -1,5 +1,7 @@
 ---
-
+layout: page
+title: Malfare Protocols README
+description: Readme for the Malfare Protocols Collection
 ---
 
 # Malfare Protocols README
