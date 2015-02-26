@@ -18,8 +18,8 @@ _Emergency Response Protocol:_
 - 
 
 ## Fire onsite
-![Fire onsite](img/fire-onsite.png Onsite fire)
+![Fire onsite](img/fire-onsite.png "Onsite fire")
 
 ## Fire offsite
-![Fire offsite](img/fire-offsite.png Offsite fire)
+![Fire offsite](img/fire-offsite.png "Offsite fire")
 ­­­
