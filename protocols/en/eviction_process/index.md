@@ -6,14 +6,14 @@ description: Nowhere's eviction process
 # **Nowhere Eviction Process:**
 
 - The following 3 people are needed to effect an eviction:
-   - Malfare Shift Lead
-   - Board Lead
-   - 1 Site Lead
+   - Malfare Shift Lead ("MSL")
+   - Board Lead ("BL")
+   - 1 Site Lead ("SL")
 
 - Must have involvement of all three of the above to effect and
     eviction.
 
-- NO ONE ELSE IS INVOLVED IN EVICTION DECISIONS.
+- No one else is involved in eviction decisions. 
 
 - None of the above individuals may be related to or close personal
     friends of the potential evictee, as this would constitute a
@@ -22,31 +22,34 @@ description: Nowhere's eviction process
 - If the Board or Site Lead has a conflict of interests, an
     alternative, sober Board Member or Lead must be found.
 
-- T&E Lead may step in for MSL if the latter has personal ties to the
-    potential evictee.
+- Tea & Empathy (T&E) Lead may step in for MSL if the latter has
+    personal ties to the potential evictee.
 
 ## Roles
 
  - MSL/T&E Lead &endash; represent the health and safety interests of
      the potential evictee;
-
  - SL/Board Lead &endash; represent the interests of the event.
 
 ## When can someone be evicted?
 
- - For criminal behaviour (theft, physical assault, sexual assault, rape);
-
+ - For (suspected) criminal behaviour (theft, physical assault, sexual
+    assault, rape);
  - For harmful or threatening behaviour toward other participants
     (preferably after receiving at least 1 warning if situation allows
     it).
-
  - Only if ALL 3 agree on eviction.
 
 ## Rules to follow
- - Eviction decisions are made behind closed doors, away from the general public;
- - Eviction decisions are made only by MSL, BL and SL (or their designated fill-ins, as outlined above), and only in unanimous agreement;
- - If there is no agreement, an alternative solution needs to be found;
- - The safety and welfare of the evictee should not be compromised by their eviction.
+ - Eviction decisions are made behind closed doors, away from the
+    general public;
+ - Eviction decisions are made only by MSL, BL and SL (or their
+     designated fill-ins, as outlined above), and only in unanimous
+     agreement; 
+ - If there is no agreement, an alternative solution needs
+    to be found; 
+ - The safety and welfare of the evictee should not be
+    compromised by their eviction.
 
 ## Possible alternative solutions to immediate eviction
  - the potential evictee sobers up at T&E or Malfare before eviction;
