@@ -11,19 +11,21 @@ missing, and their whereabouts are not known.
 - Gate should be immediately closed, and all traffic out of the event
     halted, until such time as the child is located.
 
-- Law enforcement must be called immediately (by SL).
+- Law enforcement must be called immediately (by Site Lead).
 
-- A Search and Rescue team should be assembled (by MSL).
+- A Search and Rescue team should be assembled (by Malfare Shift
+    Lead).
 
 - If severe neglect or (sexual) abuse/assault is suspected at any
     point during the incident response, law enforcement must be
-    informed &mdash; this could be child abuse (SL).
+    informed &mdash; this could be child abuse (Site Lead).
 
-- The Legal Guardians should be brought to Malfare/T&E and kept there
-    until the child is found. The guardian(s) do NOT help in search
-    and do not leave Malfare/T&E.
+- The Legal Guardians should be brought to Malfare/Tea & Empathy and
+    kept there until the child is found. The guardian(s) do NOT help
+    in search and do not leave Malfare/Tea & Empathy.
 
-- Member of crew (designated by MSL) stays with LGs at all times!
+- Member of crew (designated by Malfare Shift Lead) stays with Legal
+    Guardians at all times!
 
 - Name, nicknames, age, description and last known location of the
     child should be broadcast on the radio to the search and rescue
@@ -32,8 +34,8 @@ missing, and their whereabouts are not known.
 
 - Once child is found, identity of legal guardian(s) should be
     verified and the circumstances of the child having gone missing be
-    ascertained by MSL and Site Lead together before the child is
-    handed back to them.
+    ascertained by Malfare Shift Lead and Site Lead together before
+    the child is handed back to them.
 
 - If there is a suspect &mdash; do not apprehend. Point out to law
     enforcement. Keep away from legal guardian(s).
