@@ -13,8 +13,9 @@ insects, etc. with multiple casualties, or risk thereof.
 - Defer to Red Cross on all medical decisions, verdicts and
     directives.
 
-- If MSL or SL are themselves affected by the outbreak, next available
-    sober Leads should be found to take their places.
+- If Malefare Shift Lead or Site Leads are themselves affected by the
+    outbreak, next available sober Leads should be found to take their
+    places.
 
 - If there is serious hazard or health risk, no-mads and everyone else
     stays clear. Medical will call in appropriate support from
