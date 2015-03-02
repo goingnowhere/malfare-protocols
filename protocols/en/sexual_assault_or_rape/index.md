@@ -18,9 +18,10 @@ all. This is a very sensitive matter._
     sexual assault is reported they need to be brought somewhere
     private and safe where they can be cared for and law enforcement
     and medical can treat them.
-- Only MSL and/or SL, and/or no more than one Nomad or T&E volunteer
-    specifically designated by MSL, depending on genders and
-    qualifications, should be in the cabin with the victim. 
+- Only Malfare Shift Lead and/or Site Lead, and/or no more than one
+    Nomad or Tea & Empathy volunteer specifically designated by
+    Malfare Shift Lead, depending on genders and qualifications,
+    should be in the cabin with the victim. 
 - In addition, the victim should be asked if there is anybody at the
     event that they would like brought to them and that person should
     be found.
