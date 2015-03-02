@@ -22,8 +22,4 @@ _ **Bad storms, flooding, lightning strikes, high winds, wild fires, heat waves,
 - Privacy of all individuals involved in the incident is to be respected at all times, and the spread of rumours should be contained – all team members to actively assist in this!
 
 ![protocol1](img/aw-1.png "Adverse Weather 1")
-![protocol2](img/aw-2.png "Adverse Weather 2")
-![protocol3](img/aw-3.png "Adverse Weather 3")
-![protocol4](img/aw-4.png "Adverse Weather 4")
-![protocol5](img/aw-5.png "Adverse Weather 5")
 ­­­
