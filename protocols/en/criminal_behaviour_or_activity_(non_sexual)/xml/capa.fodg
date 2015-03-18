@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><dc:creator>alanl</dc:creator><dc:date>2012-06-21T05:26:03Z</dc:date><meta:creation-date>2012-06-21T05:26:03Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.0.3$MacOSX_X86_64 LibreOffice_project/de093506bcdc5fafd9023ee680b8c60e3e0645d7</meta:generator><meta:document-statistic meta:object-count="583"/></office:meta>
+ <office:meta><dc:creator>adam mxgreggor</dc:creator><dc:date>2015-03-18T14:28:15.636323000</dc:date><meta:creation-date>2012-06-21T05:26:03Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.0.3$MacOSX_X86_64 LibreOffice_project/de093506bcdc5fafd9023ee680b8c60e3e0645d7</meta:generator><meta:editing-duration>PT2M40S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:object-count="583"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">29699</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">80189</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-13755</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">571</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">30581</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">15793</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,21 +37,21 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-1191</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-68263</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">166093</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">89893</config:config-item>
-     <config:config-item config:name="GridCoarseWidth" config:type="int">1270</config:config-item>
-     <config:config-item config:name="GridCoarseHeight" config:type="int">1270</config:config-item>
-     <config:config-item config:name="GridFineWidth" config:type="int">127</config:config-item>
-     <config:config-item config:name="GridFineHeight" config:type="int">127</config:config-item>
-     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">127</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-13755</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">571</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">30582</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">15794</config:config-item>
+     <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
+     <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
+     <config:config-item config:name="GridFineHeight" config:type="int">100</config:config-item>
+     <config:config-item config:name="GridSnapWidthXNumerator" config:type="int">100</config:config-item>
      <config:config-item config:name="GridSnapWidthXDenominator" config:type="int">1</config:config-item>
-     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">127</config:config-item>
+     <config:config-item config:name="GridSnapWidthYNumerator" config:type="int">100</config:config-item>
      <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">1</config:config-item>
      <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
      <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
@@ -61,12 +61,12 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="ColorTableURL" config:type="string">$(user)/config/standard.soc</config:config-item>
    <config:config-item config:name="DashTableURL" config:type="string">$(user)/config/standard.sod</config:config-item>
-   <config:config-item config:name="DefaultTabStop" config:type="int">1270</config:config-item>
+   <config:config-item config:name="DefaultTabStop" config:type="int">1250</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
-     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Country" config:type="string">CA</config:config-item>
      <config:config-item config:name="Variant" config:type="string"/>
      <config:config-item config:name="BeginLine" config:type="string"/>
      <config:config-item config:name="EndLine" config:type="string"/>
@@ -86,7 +86,7 @@
    <config:config-item config:name="IsPrintTime" config:type="boolean">false</config:config-item>
    <config:config-item config:name="LineEndTableURL" config:type="string">$(user)/config/standard.soe</config:config-item>
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MeasureUnit" config:type="short">7</config:config-item>
+   <config:config-item config:name="MeasureUnit" config:type="short">3</config:config-item>
    <config:config-item config:name="PageNumberFormat" config:type="int">4</config:config-item>
    <config:config-item config:name="ParagraphSummation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
@@ -101,7 +101,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -125,7 +127,7 @@
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Tahoma" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="24pt" fo:language="en" fo:country="CA" style:font-name-asian="Tahoma" style:font-size-asian="24pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Tahoma" style:font-size-complex="24pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:style style:name="standard" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#3465a4" draw:marker-start-width="0.2cm" draw:marker-start-center="false" draw:marker-end-width="0.2cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#729fcf" draw:textarea-horizontal-align="justify" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.2cm" draw:shadow-offset-y="0.2cm" draw:shadow-color="#808080">
@@ -440,18 +442,26 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0.635cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="-0.635cm"/>
+   <loext:graphic-properties draw:fill="none"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="start" fo:text-indent="0cm"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P7" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" fo:line-height="120%" fo:text-align="justify" fo:text-indent="0cm"/>
+   <style:paragraph-properties fo:margin-left="0.635cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.353cm" fo:line-height="100%" fo:text-align="start" fo:text-indent="-0.635cm"/>
   </style:style>
   <style:style style:name="P8" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="start" fo:text-indent="0cm"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" fo:line-height="120%" fo:text-align="justify" fo:text-indent="0cm"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -679,7 +689,7 @@
      </draw:g>
      <draw:frame draw:style-name="gr8" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.883cm" svg:x="1.972cm" svg:y="43.486cm">
       <draw:text-box>
-       <text:p text:style-name="P3"><text:span text:style-name="T6">Oversee and give directions to NMs and TRANS </text:span></text:p>
+       <text:p text:style-name="P3"><text:span text:style-name="T6">Oversee and give directions to NMs and INTR </text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -842,9 +852,9 @@
        <text:p/>
       </draw:path>
      </draw:g>
-     <draw:frame draw:style-name="gr7" draw:text-style-name="P2" draw:layer="layout" svg:width="2.563cm" svg:height="1.977cm" svg:x="16.518cm" svg:y="41.467cm">
+     <draw:frame draw:style-name="gr7" draw:text-style-name="P5" draw:layer="layout" svg:width="2.563cm" svg:height="1.5cm" svg:x="16.518cm" svg:y="41.705cm">
       <draw:text-box>
-       <text:p text:style-name="P3"><text:span text:style-name="T8">OD-TRANS</text:span></text:p>
+       <text:p text:style-name="P4"><text:span text:style-name="T8">INTR</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -1204,7 +1214,7 @@
      </draw:g>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P2" draw:layer="layout" svg:width="4.965cm" svg:height="1.57cm" svg:x="18.359cm" svg:y="21.9cm">
       <draw:text-box>
-       <text:p text:style-name="P3"><text:span text:style-name="T5">OD-TRANS</text:span></text:p>
+       <text:p text:style-name="P3"><text:span text:style-name="T5">INTR</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -1399,7 +1409,7 @@
      </draw:polygon>
      <draw:frame draw:style-name="gr28" draw:text-style-name="P2" draw:layer="layout" svg:width="28cm" svg:height="2.593cm" svg:x="1cm" svg:y="15.414cm">
       <draw:text-box>
-       <text:p text:style-name="P4"><text:span text:style-name="T10">NOTE: If you are a family member or close friend of anyone involved, be it the victim(s) or the alleged suspect(s), </text:span><text:span text:style-name="T11">remove</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">yourself</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T12">immediately </text:span><text:span text:style-name="T10">from any official contact with the situation.</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">Call another NM or Lead to take your place. Do not interfere. Walk away.</text:span></text:p>
+       <text:p text:style-name="P6"><text:span text:style-name="T10">NOTE: If you are a family member or close friend of anyone involved, be it the victim(s) or the alleged suspect(s), </text:span><text:span text:style-name="T11">remove</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">yourself</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T12">immediately </text:span><text:span text:style-name="T10">from any official contact with the situation.</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">Call another NM or Lead to take your place. Do not interfere. Walk away.</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -1454,7 +1464,7 @@
      </draw:polygon>
      <draw:frame draw:style-name="gr31" draw:text-style-name="P2" draw:layer="layout" svg:width="27.972cm" svg:height="2.95cm" svg:x="1cm" svg:y="33.785cm">
       <draw:text-box>
-       <text:p text:style-name="P4"><text:span text:style-name="T10">NOTE: If you are a family member or close friend of anyone involved, be it the victim(s) or the alleged suspect(s), </text:span><text:span text:style-name="T11">remove</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">yourself</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T12">immediately </text:span><text:span text:style-name="T10">from any official contact with the situation.</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">Call another NM or Lead to take your place. Do not interfere. Walk away.</text:span></text:p>
+       <text:p text:style-name="P6"><text:span text:style-name="T10">NOTE: If you are a family member or close friend of anyone involved, be it the victim(s) or the alleged suspect(s), </text:span><text:span text:style-name="T11">remove</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T11">yourself</text:span><text:span text:style-name="T10"> </text:span><text:span text:style-name="T12">immediately </text:span><text:span text:style-name="T10">from any official contact with the situation.</text:span><text:span text:style-name="T10"><text:line-break/></text:span><text:span text:style-name="T10">Call another NM or Lead to take your place. Do not interfere. Walk away.</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -1464,8 +1474,8 @@
      </draw:polygon>
      <draw:frame draw:style-name="gr32" draw:text-style-name="P2" draw:layer="layout" svg:width="16cm" svg:height="5.714cm" svg:x="13.065cm" svg:y="53.253cm">
       <draw:text-box>
-       <text:p text:style-name="P4"><text:span text:style-name="T13">NOTES: </text:span></text:p>
-       <text:p text:style-name="P5"><text:span text:style-name="T14">If the alleged suspect is intoxicated or agitated, they should not be approached. No-Mads should consider their own and other participant&apos;s safety. If the alleged suspect is out of control - local law enforcement should be contacted by Site Lead to help contain the situation.</text:span><text:span text:style-name="T15"> We do not have the mandate to physically restrain people.</text:span><text:span text:style-name="T14"> Friends of the Alleged suspect may do so at their own volition and risk, </text:span><text:span text:style-name="T16">but never upon the instruction of Nowhere crew</text:span><text:span text:style-name="T14">.</text:span><text:span text:style-name="T14"><text:line-break/></text:span><text:span text:style-name="T14">Everyone will cooperate fully with local law enforcement at all times. Only Site Lead and MSL will interact with local law enforcement in criminal cases.</text:span><text:span text:style-name="T14"><text:line-break/></text:span><text:span text:style-name="T14">Same-gendered No-Mads should stay with the victim(s) whenever possible.</text:span></text:p>
+       <text:p text:style-name="P6"><text:span text:style-name="T13">NOTES: </text:span></text:p>
+       <text:p text:style-name="P7"><text:span text:style-name="T14">If the alleged suspect is intoxicated or agitated, they should not be approached. No-Mads should consider their own and other participant&apos;s safety. If the alleged suspect is out of control - local law enforcement should be contacted by Site Lead to help contain the situation.</text:span><text:span text:style-name="T15"> We do not have the mandate to physically restrain people.</text:span><text:span text:style-name="T14"> Friends of the Alleged suspect may do so at their own volition and risk, </text:span><text:span text:style-name="T16">but never upon the instruction of Nowhere crew</text:span><text:span text:style-name="T14">.</text:span><text:span text:style-name="T14"><text:line-break/></text:span><text:span text:style-name="T14">Everyone will cooperate fully with local law enforcement at all times. Only Site Lead and MSL will interact with local law enforcement in criminal cases.</text:span><text:span text:style-name="T14"><text:line-break/></text:span><text:span text:style-name="T14">Same-gendered No-Mads should stay with the victim(s) whenever possible.</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -1906,7 +1916,7 @@
      </draw:g>
      <draw:frame draw:style-name="gr15" draw:text-style-name="P2" draw:layer="layout" svg:width="3.101cm" svg:height="1.883cm" svg:x="6.314cm" svg:y="68.298cm">
       <draw:text-box>
-       <text:p text:style-name="P6"><text:span text:style-name="T6">Proper disposal of Biohazardous materials</text:span></text:p>
+       <text:p text:style-name="P8"><text:span text:style-name="T6">Proper disposal of Biohazardous materials</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -1915,7 +1925,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr48" draw:text-style-name="P2" draw:layer="layout" svg:width="10.2cm" svg:height="5.21cm" svg:x="17.5cm" svg:y="73.743cm">
      <draw:text-box>
-      <text:p text:style-name="P7"><text:span text:style-name="T19">** NOTE: If it is time for a new shift to come on, the new shift will quietly take up regular shift activities, while the previous shift continues with emergency response, until there is an appropriate moment to calmly and orderly make the shift change or hand over duties to the fresh team coming on.</text:span></text:p>
+      <text:p text:style-name="P9"><text:span text:style-name="T19">** NOTE: If it is time for a new shift to come on, the new shift will quietly take up regular shift activities, while the previous shift continues with emergency response, until there is an appropriate moment to calmly and orderly make the shift change or hand over duties to the fresh team coming on.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -1959,7 +1969,7 @@
      </draw:g>
      <draw:frame draw:style-name="gr50" draw:text-style-name="P2" draw:layer="layout" svg:width="3.101cm" svg:height="1.883cm" svg:x="10.485cm" svg:y="72.645cm">
       <draw:text-box>
-       <text:p text:style-name="P6"><text:span text:style-name="T6">Possible Newsletter/flyer at No-Info</text:span></text:p>
+       <text:p text:style-name="P8"><text:span text:style-name="T6">Possible Newsletter/flyer at No-Info</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -2022,7 +2032,7 @@
      </draw:g>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P2" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.635cm" svg:y="61.46cm">
       <draw:text-box>
-       <text:p text:style-name="P3"><text:span text:style-name="T20">TRANS</text:span></text:p>
+       <text:p text:style-name="P3"><text:span text:style-name="T20">INTR</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -2073,7 +2083,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr54" draw:text-style-name="P2" draw:layer="layout" svg:width="10.47cm" svg:height="2.646cm" svg:x="17.4cm" svg:y="71.014cm">
      <draw:text-box>
-      <text:p text:style-name="P8"><text:span text:style-name="T22">REMEMBER: Stay professional. Respect participants’ privacy and DO NOT TELL STORIES. Do not be a part of the rumor mill!</text:span></text:p>
+      <text:p text:style-name="P10"><text:span text:style-name="T22">REMEMBER: Stay professional. Respect participants’ privacy and DO NOT TELL STORIES. Do not be a part of the rumor mill!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -2303,7 +2313,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr60" draw:text-style-name="P2" draw:layer="layout" svg:width="7.3cm" svg:height="1.224cm" svg:x="22.35cm" svg:y="0.921cm">
      <draw:text-box>
-      <text:p text:style-name="P6"><text:span text:style-name="T25">* Not counting sexual assault cases – see separate protocol for sexual assault</text:span></text:p>
+      <text:p text:style-name="P8"><text:span text:style-name="T25">* Not counting sexual assault cases – see separate protocol for sexual assault</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -2356,7 +2366,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr60" draw:text-style-name="P2" draw:layer="layout" svg:width="7.3cm" svg:height="1.224cm" svg:x="0.95cm" svg:y="0.941cm">
      <draw:text-box>
-      <text:p text:style-name="P6"><text:span text:style-name="T25">* Not counting sexual assault cases – see separate protocol for sexual assault</text:span></text:p>
+      <text:p text:style-name="P8"><text:span text:style-name="T25">* Not counting sexual assault cases – see separate protocol for sexual assault</text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </draw:page>
