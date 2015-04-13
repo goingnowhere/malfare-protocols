@@ -7,8 +7,8 @@ description: Readme for the Malfare Protocols Collection
 ## Contents
  - [Contributing](#contributing)
  - [How to use me](#how-to-use-me)
+ - [Normal people](#im-a-normal-person)
  - [Translators](#im-a-translator)
- - [Normal people](#im-a-normal-person-not-a-geek)
  - [Geeks](#im-a-geek)
  - [Directory Structure](#directory-structure)
  - [Colophon](#colophon)
@@ -32,15 +32,24 @@ Amazing! You might find the [Styleguide](styleguide/) useful.
 
 ## How to use me 
 
-The repo has been built to consider multiple languages from the start
-(ish) (hence English-language content living in en/)
+ - The project has been built to consider multiple languages from the
+ start (ish) (hence English-language content living in en/)
 
-In case of any dispute though, for Nowhere (at least), the **English**
-language version is **canonical**.
+ - In case of any dispute though, for Nowhere (at least), the
+ **English** language version is **canonical**.
 
-Translations are provided to aid those with English as a Second
-Language.
+ - Translations are provided to aid those with English as a Second
+ Language.
 
+### I'm a normal person
+
+#### (not a geek or a translator)
+
+The protocols and procedures are available through that little menu
+thing in the top. Hit it, then "Protocols".
+
+As you might have guessed, this is available at
+[malfare.goingnowhere.org](malfare.goingnowhere.org).
 
 ### I'm a translator
 
@@ -62,7 +71,8 @@ open in a tab useful, too.
 #### Get going
 First, a quick crash-course in GitHub, which is where the content lives.
 
-(This has been adapted from [another introduction](https://github.com/melodykramer/melodykramer.github.io/edit/master/_posts/2015-04-06-learning-github-without-one-line-of-code.md))
+(This has been adapted from [another
+introduction](https://github.com/melodykramer/melodykramer.github.io/edit/master/_posts/2015-04-06-learning-github-without-one-line-of-code.md))
 
 
  - Create a [GitHub account](https://github.com/)
@@ -75,17 +85,17 @@ First, a quick crash-course in GitHub, which is where the content lives.
   to
     - create, if needed, a new directory for the language (use the
     two letters column on [language
-    codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes))
+    codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes));
     - create, within the language directory, a translation for the
     protocol. Also create the 'img' directory there, and a 'visio'
-    directory.
+    directory;
     - translate the 'index.md' file, saving that in the language
-    directory also as 'index.md'
-    - translate the 'visio' chart (use Open Office Draw for this)
+    directory also as 'index.md';
+    - translate the 'visio' chart (use Open Office Draw for this);
     - update the navigation menu file, by creating a new section
     similar to 
         [_includes/navigation.html](https://github.com/goingnowhere/malfare-protocols/blob/gh-pages/_includes/navigation.html#L6-L24)
-        (e.g. change ```en/adverse_weather/">Adverse weather```)
+        (e.g. change ```en/adverse_weather/">Adverse weather```).
 
  - Submit a pull request &mdash; which is a fancy way of telling us
  you want to make a change &mdash; by clicking on the button marked
@@ -97,7 +107,7 @@ And all of this is public, which is what public media should be (and
 why it should all be collected together, by the public and for the
 public.)
 
-#### Want more GitHub instructions? 
+#### Want more GitHub instructions?
 [See this tutorial](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 which is more advanced than necessary for this project but will be
 useful should you decide to use it in the future.
@@ -105,34 +115,30 @@ useful should you decide to use it in the future.
 #### Updating translations
 See [updating translations](updating-translations.html)
 
-### I'm a normal person, not a geek 
-
-Head to build/ and navigate through the directory structure. 
-
-Content can be viewed at [TBA; goingnowhere.github.io/protos/...].
-
 ### I'm a geek 
 
 Awesomes!
 
-First: check you have a [global
-gitignore](https://help.github.com/articles/ignoring-files/#create-a-global-gitignore)
-to not add OS guff. Check that's sourced, too. Thanks 👍
+ - First: check you have a [global
+ gitignore](https://help.github.com/articles/ignoring-files/#create-a-global-gitignore)
+ to not add OS guff. Check that's sourced, too. Thanks 👍
 
-Then fork the repo, clone your copy, and work from there. 
+ - Then fork the repo, clone your copy, and work from there. 
 
-In your fork, you might find using git-flow helpful &#8212; we'd
-appreciate it! (especially features)
+ - In your fork, you might find using git-flow helpful &#8212; we'd
+ appreciate it! (especially features)
 
-When you're ready, send a PR, and we'll consider merging it :)
+ - When you're ready, send a PR, and we'll consider merging it :)
 
 We *like* doing things via PRs.
 
+#### Bundle
 On the first time run, something like this might be useful:
 
     cd malfare-protocols
     bundle || gem install bundle && bundle
-    
+
+#### Testing
 Running a local copy of the protocols (e.g., if you're updating
 things, or translating)
 
@@ -152,10 +158,14 @@ xml; export for the (png) images.)
 
 ## Colophon
 
-The protocols have been written and edited by various members of the
-Malfare Team (malfare@goingnowhere.org) over the years.
+ - The protocols have been written and edited by various members of
+ the Malfare Team (malfare@goingnowhere.org) over the years. Thank you
+ everyone involved.
 
-Converting existing MS Word documents to MarkDown was done using [Ben
-Balter's *Word to Markdown*
-repo](https://github.com/benbalter/word-to-markdown).
+ - Converting existing MS Word documents to MarkDown was done using
+ [Ben Balter's *Word to Markdown*
+ repo](https://github.com/benbalter/word-to-markdown).
 
+ - This site uses [Jekyll](https://github.com/jekyll/jekyll)
+
+ - The theme is from [Jekyll themes](http://jekyllthemes.org/)
