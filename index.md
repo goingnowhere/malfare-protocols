@@ -1,12 +1,11 @@
 ---
-layout: page
+layout: page 
 title: Malfare Protocols README
-description: Readme for the Malfare Protocols Collection
+description: Readme for the Malfare Protocols Collection 
 ---
 
-# Malfare Protocols README
+## Overview 
 
-## Overview
 This repository contains the protocols used by Malfare at:
 
  * [Nowhere](http://goingnowhere.org)
@@ -14,31 +13,107 @@ This repository contains the protocols used by Malfare at:
 It aims to:
 
  * Make it easier to record/view changes to the protocols;
- * Ease translation burdens;
- * Allow others to use our protocols;
+ * Ease translation burdens; 
+ * Allow others to use our protocols; 
  * Share others' work, to reduce reinventing the wheel.
 
-## Contributing
-Amazing! You might find the [Styleguide](styleguide.md) useful.
+## Contributing 
 
-## How to use me
-The repo has been built to consider multiple languages from the start (ish) (hence English-language content living in en/)
+Amazing! You might find the [Styleguide](styleguide/) useful.
 
-In case of any dispute though, for Nowhere (at least), the **English** language version is **canonical**.
+## How to use me 
 
-Translations are provided to aid those with English as a Second Language.
+The repo has been built to consider multiple languages from the start
+(ish) (hence English-language content living in en/)
 
-### I'm a normal person, not a geek
-Head to build/ and navigate through the directory structure. Content can be viewed at [TBA; goingnowhere.github.io/protos/...].
+In case of any dispute though, for Nowhere (at least), the **English**
+language version is **canonical**.
 
-### I'm a geek
+Translations are provided to aid those with English as a Second
+Language.
+
+
+### I'm a translator
+
+#### Setup
+
+You might find it useful to install the following free software, if you've
+not got them already:
+
+ - [OpenOffice](https://www.openoffice.org/download/)
+ - GitHub for [Mac](http://mac.github.com/) or
+ [Windows](http://windows.github.com/)
+ - A [Text Editor](http://en.wikipedia.org/wiki/Text_editor) you find
+ acceptable (some of you may like [Atom](https://atom.io/))
+
+You might find having the [MarkDown
+Cheat-Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+open in a tab useful, too.
+
+#### Get going
+First, a quick crash-course in GitHub, which is where the content lives.
+
+(This has been adapted from [another introduction](https://github.com/melodykramer/melodykramer.github.io/edit/master/_posts/2015-04-06-learning-github-without-one-line-of-code.md))
+
+
+ - Create a [GitHub account](https://github.com/)
+
+ - Click on the FORK button in the upper right hand corner of
+ [https://github.com/goingnowhere/malfare-protocols](https://github.com/goingnowhere/malfare-protocols).
+
+ - In either a text editor you're comfortable with, or using the web
+  interface, make the changes you want, for translations, you'll want
+  to
+    - create, if needed, a new directory for the language (use the
+    two letters column on [language
+    codes](http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes))
+    - create, within the language directory, a translation for the
+    protocol. Also create the 'img' directory there, and a 'visio'
+    directory.
+    - translate the 'index.md' file, saving that in the language
+    directory also as 'index.md'
+    - translate the 'visio' chart (use Open Office Draw for this)
+    - update the navigation menu file, by creating a new section
+    similar to 
+        [_includes/navigation.html](https://github.com/goingnowhere/malfare-protocols/blob/gh-pages/_includes/navigation.html#L6-L24)
+        (e.g. change ```en/adverse_weather/">Adverse weather```)
+
+ - Submit a pull request &mdash; which is a fancy way of telling us
+ you want to make a change &mdash; by clicking on the button marked
+ "Create a new branch for this commit and start a pull request."
+
+ - Wait for the changes to be incorporated.
+
+And all of this is public, which is what public media should be (and
+why it should all be collected together, by the public and for the
+public.)
+
+#### Want more GitHub instructions? 
+[See this tutorial](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+which is more advanced than necessary for this project but will be
+useful should you decide to use it in the future.
+
+#### Updating translations
+See [updating translations](updating-translations.html)
+
+### I'm a normal person, not a geek 
+
+Head to build/ and navigate through the directory structure. 
+
+Content can be viewed at [TBA; goingnowhere.github.io/protos/...].
+
+### I'm a geek 
+
 Awesomes!
 
-First: check you have a [global gitignore](https://help.github.com/articles/ignoring-files/#create-a-global-gitignore) to not add OS guff. Check that's sourced, too. Thanks 👍
+First: check you have a [global
+gitignore](https://help.github.com/articles/ignoring-files/#create-a-global-gitignore)
+to not add OS guff. Check that's sourced, too. Thanks 👍
 
 Then fork the repo, clone your copy, and work from there. 
 
-In your fork, you might find using git-flow helpful &#8212; we'd appreciate it! (especially features)
+In your fork, you might find using git-flow helpful &#8212; we'd
+appreciate it! (especially features)
 
 When you're ready, send a PR, and we'll consider merging it :)
 
@@ -46,27 +121,32 @@ We *like* doing things via PRs.
 
 On the first time run, something like this might be useful:
 
-	cd malfare-protocols
-	bundle || gem install bundle && bundle
-	
-Building the html pages can be done using:
+    cd malfare-protocols
+    bundle || gem install bundle && bundle
+    
+Running a local copy of the protocols (e.g., if you're updating
+things, or translating)
 
-	bundle exec ./compile
+    bundle exec jekyll serve
 
-## Directory structure
-We have protocols in the form of:
-(*foo* is the individual protocol)
+## Directory structure 
 
- * Overview document: `foo/index.md`
- * A visio-style flowchart (these open in LibreOffice):`foo/visio/shortname.vsd`
+We have protocols in the form of: (*foo* is the individual protocol)
+
+ * Overview document: `foo/index.md` 
+ * A visio-style flowchart (these open in LibreOffice):`foo/visio/shortname.vsd` 
  * The XML for the visio document, as generated by LibreOffice: `foo/xml/shortname.fodg`
  * The diagram exported as image(s): `foo/img/shortname-n.png`
 
-(once changes are made in a Visio document, export it: save-as has the xml; export for the (png) images.)
+(once changes are made in a Visio document, export it: save-as has the
+xml; export for the (png) images.)
 
 ## Colophon
-The protocols have been written and edited by various members of the Malfare Team (malfare@goingnowhere.org) over the years.
 
-Converting existing MS Word documents to MarkDown was done using [Ben Balter's *Word to Markdown* repo](https://github.com/benbalter/word-to-markdown).
+The protocols have been written and edited by various members of the
+Malfare Team (malfare@goingnowhere.org) over the years.
 
-The build script comes from [dxw/contracts](https://github.com/dxw/contracts).
+Converting existing MS Word documents to MarkDown was done using [Ben
+Balter's *Word to Markdown*
+repo](https://github.com/benbalter/word-to-markdown).
+
