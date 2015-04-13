@@ -4,6 +4,15 @@ title: Malfare Protocols README
 description: Readme for the Malfare Protocols Collection 
 ---
 
+## Contents
+ - [Contributing](#contributing)
+ - [How to use me](#how-to-use-me)
+ - [Translators](#im-a-translator)
+ - [Normal people](#im-a-normal-person-not-a-geek)
+ - [Geeks](#im-a-geek)
+ - [Directory Structure](#directory-structure)
+ - [Colophon](#colophon)
+
 ## Overview 
 
 This repository contains the protocols used by Malfare at:
