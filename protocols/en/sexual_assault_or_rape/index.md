@@ -2,6 +2,7 @@
 layout: page
 title: Sexual Assault/Rape
 description: Malfare protocol for reports of Sexual Assaults/Rape
+comments: true
 ---
 # Sexual Assault / Rape
 

@@ -2,6 +2,7 @@
 layout: page
 title: Multiple person casualty incident
 description: Malfare protocol for multiple-person casualties
+comments: true
 ---
 # Multiple-person casualties
 

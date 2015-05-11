@@ -2,6 +2,7 @@
 layout: page
 title: Eviction Process
 description: Nowhere's eviction process
+comments: true
 ---
 # **Nowhere Eviction Process:**
 

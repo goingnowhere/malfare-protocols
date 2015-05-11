@@ -2,6 +2,7 @@
 layout: page
 title: Health outbreak
 description: Malfare protocol for Health incident outbreaks
+comments: true
 ---
 # Health Outbreak
 

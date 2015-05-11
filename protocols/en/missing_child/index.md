@@ -2,6 +2,7 @@
 layout: page
 title: Missing child
 description: Malfare protocol for a missing child
+comments: true
 ---
 # Missing Child
 

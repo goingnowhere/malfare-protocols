@@ -2,6 +2,7 @@
 layout: page
 title: Evacuation Procedure
 description: Malfare protocol for evacuations
+comments: true
 ---
 
 # Fire Evacuation Procedure
