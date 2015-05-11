@@ -2,6 +2,7 @@
 layout: {{ layout }}
 title: {{ title }}
 date: {{ date }}
+comment: true
 modified:
 description:
 image:
