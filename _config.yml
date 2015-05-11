@@ -17,7 +17,7 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         goingnowhere
+  github:        goingnowhere
   stackexchange:  
   linkedin:       
   instagram:      
@@ -30,7 +30,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-62846000-1 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
