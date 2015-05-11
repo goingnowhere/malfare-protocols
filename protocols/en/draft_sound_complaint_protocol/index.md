@@ -2,6 +2,7 @@
 layout: page
 title: Sound complaints
 description: Malfare protocol for sound complaints
+comments: true
 ---
 **Sound Complaint**
 

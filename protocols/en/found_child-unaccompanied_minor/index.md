@@ -2,6 +2,7 @@
 layout: page
 title: Found child protocol
 description: Malfare protocol for a found child/unaccompanied juvenile
+comments: true
 ---
 # Found Child &mdash; Unaccompanied Minor
 

@@ -2,6 +2,7 @@
 layout: page
 title: Driving on site protocol
 description: Malfare protocol for a vehicles/driving on site
+comments: true
 ---
 
 # Traffic management, driving on-site, and parking permits

@@ -2,6 +2,7 @@
 layout: page
 title: Vehicular accidents protocol
 description: Malfare protocol for vehicular accidents
+comments: true
 ---
 
 #Vehicular accidents protocol

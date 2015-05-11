@@ -2,6 +2,7 @@
 layout: page
 title: Suspected criminal behaviour
 description: Malfare protocol for suspected criminal behaviour
+comments: true
 ---
 _Emergency Response Protocol:_
 
