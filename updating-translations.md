@@ -26,5 +26,9 @@ If you're all set, then:
    - e.g. in
    [68e875a](https://github.com/goingnowhere/malfare-protocols/commit/68e875a6fb55c8297fcbc3f7cb49c37f84f0ee2a#diff-3d1113c29462b5307478c162b0686416L772) we replaced 'TRANS' with 'INTR' in the diagram)
 
-  - Once you've made the updates in the translations, commit it, and
-  make a Pull Request, so we can review and hopefully merge it in.
+  - Once you've made the updates in the translations (in the
+  translated `fodg` file)
+    - save the fodg;
+    - update the PNG;
+    - commit the pair of files; and
+    - make a Pull Request (so we can review and hopefully merge it in)
