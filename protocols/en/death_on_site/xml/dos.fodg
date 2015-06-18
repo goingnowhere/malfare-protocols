@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><dc:creator>adam mxgreggor</dc:creator><dc:date>2015-05-31T19:44:06.824056000</dc:date><meta:creation-date>2012-06-20T21:01:18Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:editing-duration>PT46M34S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:document-statistic meta:object-count="218"/></office:meta>
+ <office:meta><dc:creator>adam mxgreggor</dc:creator><dc:date>2015-06-18T13:41:25.010854000</dc:date><meta:creation-date>2012-06-20T21:01:18Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:editing-duration>PT1H16M5S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:document-statistic meta:object-count="210"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">3874</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">126</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">31192</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21390</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">56329</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-8434</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">43746</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">24083</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">3874</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">126</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">27499</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">16821</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">56329</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-8434</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">43747</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">24084</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -313,66 +313,78 @@
   </style:style>
   <style:style style:name="dp2" style:family="drawing-page"/>
   <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="2.063cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
-  </style:style>
-  <style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="50%" draw:fit-to-size="shrink-to-fit" draw:shadow="hidden"/>
   </style:style>
-  <style:style style:name="gr3" style:family="graphic" style:parent-style-name="Follow-ups">
-   <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="0.513cm" fo:min-width="2.54cm"/>
+  <style:style style:name="gr2" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="2.063cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
   </style:style>
-  <style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="0.34cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
-  </style:style>
-  <style:style style:name="gr5" style:family="graphic" style:parent-style-name="Instruction_20_Box">
+  <style:style style:name="gr3" style:family="graphic" style:parent-style-name="Instruction_20_Box">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="7.881cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr4" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="1.741cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr5" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="2.355cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="1.127cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr9" style:family="graphic" style:parent-style-name="Role_20_Name">
+  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="Role_20_Name">
    <style:graphic-properties draw:opacity="50%"/>
   </style:style>
-  <style:style style:name="gr10" style:family="graphic" style:parent-style-name="Role_20_Name">
+  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="Role_20_Name">
    <style:graphic-properties draw:opacity="50%" fo:min-height="2.063cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr11" style:family="graphic" style:parent-style-name="InfoBox">
+  <style:style style:name="gr9" style:family="graphic" style:parent-style-name="InfoBox">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="2.355cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr12" style:family="graphic" style:parent-style-name="InfoBox">
+  <style:style style:name="gr10" style:family="graphic" style:parent-style-name="InfoBox">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="1.203cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="Instruction_20_Box">
+  <style:style style:name="gr11" style:family="graphic" style:parent-style-name="Instruction_20_Box">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="0.611cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" svg:stroke-opacity="100%" draw:stroke-linejoin="round" draw:fill="none" draw:opacity="50%" draw:fit-to-size="shrink-to-fit" fo:padding-top="0.139cm" fo:padding-bottom="0.139cm" fo:padding-left="0.264cm" fo:padding-right="0.264cm" draw:shadow="hidden"/>
   </style:style>
-  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="Critical_20_Info">
+  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="Critical_20_Info">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="5.044cm" fo:min-width="2.54cm"/>
   </style:style>
-  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr14" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="2.969cm" fo:min-width="2.54cm"/>
   </style:style>
+  <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="0.771cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
+  </style:style>
+  <style:style style:name="gr16" style:family="graphic" style:parent-style-name="Follow-ups">
+   <style:graphic-properties draw:opacity="50%" fo:min-height="1.288cm" fo:min-width="2.54cm"/>
+  </style:style>
+  <style:style style:name="gr17" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="50%" draw:fit-to-size="shrink-to-fit" draw:shadow="hidden"/>
+  </style:style>
+  <style:style style:name="gr18" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start="Marker_5f_0" draw:marker-start-width="0.231cm" draw:marker-end="Marker_5f_0" draw:marker-end-width="0.231cm" svg:stroke-opacity="100%" draw:stroke-linejoin="round" draw:fill="none" draw:opacity="50%" draw:fit-to-size="shrink-to-fit" fo:padding-top="0.139cm" fo:padding-bottom="0.139cm" fo:padding-left="0.264cm" fo:padding-right="0.264cm" draw:shadow="hidden"/>
+  </style:style>
+  <style:style style:name="gr19" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="0.771cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
+  </style:style>
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="title">
+   <style:graphic-properties draw:opacity="50%" fo:min-height="2.063cm" fo:min-width="2.54cm"/>
+  </style:style>
   <style:style style:name="P1" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="50%"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:opacity="50%"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="50%"/>
-  </style:style>
   <style:style style:name="P3" style:family="paragraph">
    <loext:graphic-properties draw:opacity="50%"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph">
    <loext:graphic-properties draw:opacity="50%"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
@@ -380,23 +392,38 @@
   <style:style style:name="P6" style:family="paragraph">
    <style:text-properties fo:font-style="normal"/>
   </style:style>
-  <style:style style:name="T1" style:family="text">
-   <style:text-properties fo:color="#000000" style:font-name="Calibri2" style:font-name-asian="Calibri2" style:font-size-asian="22pt" style:font-name-complex="Calibri2" style:font-size-complex="22pt"/>
+  <style:style style:name="P7" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:opacity="50%"/>
   </style:style>
-  <style:style style:name="T2" style:family="text">
+  <style:style style:name="P8" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ffffff" draw:opacity="50%"/>
+   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph">
+   <loext:graphic-properties draw:fill="none" draw:opacity="50%"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-size="46pt" style:font-size-asian="46pt" style:font-size-complex="46pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Calibri2" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Calibri2" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="T3" style:family="text">
+  <style:style style:name="T2" style:family="text">
    <style:text-properties fo:color="#000000" style:font-name="Calibri2" style:font-name-asian="Calibri2" style:font-size-asian="30pt" style:font-name-complex="Calibri2" style:font-size-complex="30pt"/>
   </style:style>
-  <style:style style:name="T4" style:family="text">
+  <style:style style:name="T3" style:family="text">
    <style:text-properties fo:color="#000000" style:font-name="Calibri2" style:font-name-asian="Calibri2" style:font-size-asian="24pt" style:font-name-complex="Calibri2" style:font-size-complex="24pt"/>
   </style:style>
-  <style:style style:name="T5" style:family="text">
+  <style:style style:name="T4" style:family="text">
    <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="48pt" style:font-name-asian="Calibri2" style:font-size-asian="48pt" style:font-name-complex="Calibri2" style:font-size-complex="48pt"/>
   </style:style>
-  <style:style style:name="T6" style:family="text">
+  <style:style style:name="T5" style:family="text">
    <style:text-properties fo:font-style="normal" style:font-style-asian="normal" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-style="normal"/>
   </style:style>
   <style:style style:name="T7" style:family="text">
    <style:text-properties style:font-name="Calibri2" fo:font-size="48pt" style:font-name-asian="Calibri2" style:font-size-asian="48pt" style:font-name-complex="Calibri2" style:font-size-complex="48pt"/>
@@ -409,6 +436,15 @@
   </style:style>
   <style:style style:name="T10" style:family="text">
    <style:text-properties style:font-name="Calibri2" fo:font-weight="bold" style:font-name-asian="Calibri2" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="46pt" fo:font-weight="bold" fo:background-color="#ffffff" style:font-name-asian="Calibri2" style:font-size-asian="46pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="46pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="28pt" fo:font-weight="bold" style:font-name-asian="Calibri2" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -470,48 +506,6 @@
  <office:body>
   <office:drawing>
    <draw:page draw:name="Page-1" draw:style-name="dp2" draw:master-page-name="PM0">
-    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="28.262cm" svg:height="0.5cm" svg:x="0.7cm" svg:y="2.5cm">
-     <draw:text-box>
-      <text:p>Incident reported to Malfare via radio from a No-Mad or via a participant at Malfare—never mention death or other sensitive information over the radio!</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="28.35cm" svg:height="1.565cm" svg:x="0.56cm" svg:y="0.778cm" svg:viewBox="0 0 28351 1566" draw:points="0,1566 28351,1566 28351,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="title" draw:layer="layout" svg:width="28.35cm" svg:height="1.485cm" svg:x="0.59cm" svg:y="0.686cm">
-     <draw:text-box>
-      <text:p>Death on Site</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="0.5cm" svg:height="1cm" svg:x="0.4cm" svg:y="3.198cm" svg:viewBox="0 0 501 1001" draw:points="0,1001 501,1001 501,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="0.9cm" svg:height="1.074cm" svg:x="0.7cm" svg:y="3.126cm">
-     <draw:text-box>
-      <text:p>1</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="26cm" svg:height="0.841cm" svg:x="3cm" svg:y="3.159cm">
-     <draw:text-box>
-      <text:p>Immediate actions</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.91cm" svg:y="40.713cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.91cm" svg:y="40.652cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T1">Death on Site </text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:line draw:style-name="gr4" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.96cm" svg:y1="41.224cm" svg:x2="28.921cm" svg:y2="41.198cm">
-     <text:p/>
-    </draw:line>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="20.6cm" svg:height="1.1cm" svg:x="2.9cm" svg:y="40cm">
-     <draw:text-box>
-      <text:p>Roles at Incident Site</text:p>
-     </draw:text-box>
-    </draw:frame>
     <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="1.81cm" svg:y="41.638cm">
      <draw:text-box>
       <text:p>MSL</text:p>
@@ -592,86 +586,62 @@
       <text:p>Exclusively under direction of MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.9cm" svg:y="60.368cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.9cm" svg:y="60.307cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T1">Death on Site </text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="0.5cm" svg:height="1cm" svg:x="0.4cm" svg:y="60.378cm" svg:viewBox="0 0 501 1001" draw:points="0,1001 501,1001 501,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="1.6cm" svg:height="0.794cm" svg:x="1cm" svg:y="60.206cm">
-     <draw:text-box>
-      <text:p>4</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:line draw:style-name="gr4" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.95cm" svg:y1="60.879cm" svg:x2="28.911cm" svg:y2="60.853cm">
-     <text:p/>
-    </draw:line>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="20.6cm" svg:height="1.053cm" svg:x="3cm" svg:y="60.139cm">
-     <draw:text-box>
-      <text:p>Post-Event</text:p>
-     </draw:text-box>
-    </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="1.904cm" svg:y="61.473cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="1.904cm" svg:y="62.173cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="1.904cm" svg:y="61.473cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="1.904cm" svg:y="62.173cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.57cm" svg:x="1.904cm" svg:y="61.438cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.57cm" svg:x="1.904cm" svg:y="62.138cm">
      <draw:text-box>
       <text:p>MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="6.075cm" svg:y="61.473cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="6.075cm" svg:y="62.173cm">
      <draw:text-box>
       <text:p>NOMAD</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.137cm" svg:x="1.904cm" svg:y="66.063cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.137cm" svg:x="1.904cm" svg:y="66.763cm">
      <draw:text-box>
       <text:p>Photograph site for incident reports</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.896cm" svg:x="1.904cm" svg:y="67.504cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.896cm" svg:x="1.904cm" svg:y="68.204cm">
      <draw:text-box>
       <text:p>Liaise with Welfare Enough and LS—assess needs for further actions together</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.198cm" svg:x="10.145cm" svg:y="66.102cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.198cm" svg:x="10.145cm" svg:y="66.802cm">
      <draw:text-box>
       <text:p>Coordinate assistance to next of kin/friends during ongoing post-death period. </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="0.42cm" svg:x="1.875cm" svg:y="69.98cm">
+    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="0.42cm" svg:x="1.875cm" svg:y="70.68cm">
      <draw:text-box>
       <text:p>Follow-ups </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="0.843cm" svg:x="1.989cm" svg:y="70.757cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="0.843cm" svg:x="1.989cm" svg:y="71.457cm">
      <draw:text-box>
       <text:p>Injured/Traumatized participants</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.466cm" svg:x="6.075cm" svg:y="66.034cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.466cm" svg:x="6.075cm" svg:y="66.734cm">
      <draw:text-box>
       <text:p>Clean-up/cordon hazardous materials (blood, etc.)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="1.591cm" svg:x="6.189cm" svg:y="67.909cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="1.591cm" svg:x="6.189cm" svg:y="68.609cm">
      <draw:text-box>
       <text:p>Proper disposal of Biohazardous materials (once <text:s/>MSL approves)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="10.2cm" svg:height="4.071cm" svg:x="17.1cm" svg:y="74.9cm">
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="10.2cm" svg:height="4.071cm" svg:x="17.1cm" svg:y="75.6cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">** NOTE: If it is time for a new shift to come on, the new shift will quietly take up regular shift activities, while the previous shift continues with emergency response, until there is an appropriate moment to calmly and orderly make the shift change or hand over duties to the fresh team coming on.</text:span></text:p>
+      <text:p><text:span text:style-name="T1">** NOTE: If it is time for a new shift to come on, the new shift will quietly take up regular shift activities, while the previous shift continues with emergency response, until there is an appropriate moment to calmly and orderly make the shift change or hand over duties to the fresh team coming on.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.392cm" svg:height="1.163cm" svg:x="15.323cm" svg:y="47.137cm">
@@ -685,112 +655,55 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="1.41cm" svg:y="4.273cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="1.41cm" svg:y="4.273cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-    </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.55cm" svg:height="1.49cm" svg:x="1.41cm" svg:y="4.018cm">
-     <draw:text-box>
-      <text:p>MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1cm" svg:x="1.41cm" svg:y="6.275cm" svg:viewBox="0 0 3551 1001" draw:points="0,1001 3551,1001 3551,0 0,0">
-      <text:p/>
-     </draw:polygon>
      <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1cm" svg:x="1.41cm" svg:y="6.275cm" svg:viewBox="0 0 3551 1001" draw:points="0,1001 3551,1001 3551,0 0,0">
       <text:p/>
      </draw:polygon>
-    </draw:g>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P3" draw:layer="layout" svg:width="3.55cm" svg:height="1.269cm" svg:x="1.41cm" svg:y="6.141cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Declare &quot;Radio Priority&quot; </text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="2.025cm" svg:x="1.41cm" svg:y="7.776cm" svg:viewBox="0 0 3551 2026" draw:points="0,2026 3551,2026 3551,0 0,0">
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1cm" svg:x="1.41cm" svg:y="6.275cm" svg:viewBox="0 0 3551 1001" draw:points="0,1001 3551,1001 3551,0 0,0">
       <text:p/>
      </draw:polygon>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="2.025cm" svg:x="1.41cm" svg:y="7.776cm" svg:viewBox="0 0 3551 2026" svg:d="M0 2026h3551v-2026h-3551zM160 2026v-2026M3391 2026v-2026">
-      <text:p/>
-     </draw:path>
     </draw:g>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.425cm" svg:height="1.878cm" svg:x="1.475cm" svg:y="7.74cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="3.55cm" svg:height="1.269cm" svg:x="1.41cm" svg:y="6.141cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">All personnel with radios switch to earpieces until incident is over</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Declare &quot;Radio Priority&quot; </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="5.493cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="5.493cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-    </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.55cm" svg:height="1.57cm" svg:x="5.374cm" svg:y="4.059cm">
-     <draw:text-box>
-      <text:p>GATE </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="2.2cm" svg:x="13.69cm" svg:y="6.273cm" svg:viewBox="0 0 3551 2201" draw:points="0,2201 3551,2201 3551,0 0,0">
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="2.025cm" svg:x="1.41cm" svg:y="7.776cm" svg:viewBox="0 0 3551 2026" draw:points="0,2026 3551,2026 3551,0 0,0">
       <text:p/>
      </draw:polygon>
+     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="2.025cm" svg:x="1.41cm" svg:y="7.776cm" svg:viewBox="0 0 3551 2026" svg:d="M0 2026h3551v-2026h-3551zM160 2026v-2026M3391 2026v-2026">
+      <text:p/>
+     </draw:path>
+    </draw:g>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="3.425cm" svg:height="1.878cm" svg:x="1.475cm" svg:y="7.74cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2">All personnel with radios switch to earpieces until incident is over</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
      <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="2.2cm" svg:x="13.69cm" svg:y="6.273cm" svg:viewBox="0 0 3551 2201" draw:points="0,2201 3551,2201 3551,0 0,0">
       <text:p/>
      </draw:polygon>
-    </draw:g>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.55cm" svg:height="1.893cm" svg:x="13.69cm" svg:y="6.025cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">If a NM is already at the incident site, begin onsite role per step 3</text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="9.576cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="9.576cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-    </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.55cm" svg:height="1.57cm" svg:x="9.576cm" svg:y="4.04cm">
-     <draw:text-box>
-      <text:p>SL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="2.205cm" svg:x="9.56cm" svg:y="6.273cm" svg:viewBox="0 0 3551 2206" draw:points="0,2206 3551,2206 3551,0 0,0">
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="2.2cm" svg:x="13.69cm" svg:y="6.273cm" svg:viewBox="0 0 3551 2201" draw:points="0,2201 3551,2201 3551,0 0,0">
       <text:p/>
      </draw:polygon>
+    </draw:g>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="3.55cm" svg:height="1.893cm" svg:x="13.69cm" svg:y="6.025cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T2">If a NM is already at the incident site, begin onsite role per step 3</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
      <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="2.205cm" svg:x="9.56cm" svg:y="6.273cm" svg:viewBox="0 0 3551 2206" draw:points="0,2206 3551,2206 3551,0 0,0">
       <text:p/>
      </draw:polygon>
-    </draw:g>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.55cm" svg:height="2.191cm" svg:x="9.66cm" svg:y="6.027cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Responsible for notifying local Law Enforcement (LE) </text:span><text:span text:style-name="T4">immediately</text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="17.742cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="2.205cm" svg:x="9.56cm" svg:y="6.273cm" svg:viewBox="0 0 3551 2206" draw:points="0,2206 3551,2206 3551,0 0,0">
       <text:p/>
-     </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="17.742cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
+     </draw:polygon>
     </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.55cm" svg:height="1.783cm" svg:x="17.85cm" svg:y="4.017cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="3.55cm" svg:height="2.191cm" svg:x="9.66cm" svg:y="6.027cm">
      <draw:text-box>
-      <text:p>Welfare Enough</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.835cm" svg:height="1.5cm" svg:x="25.74cm" svg:y="4.075cm">
-     <draw:text-box>
-      <text:p>DRIVER</text:p>
+      <text:p><text:span text:style-name="T2">Responsible for notifying local Law Enforcement (LE) </text:span><text:span text:style-name="T3">immediately</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="21.925cm" svg:y="9.575cm">
@@ -798,14 +711,14 @@
       <text:p>Prep WE <text:s/>for incident response</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="3.405cm" svg:height="1.847cm" svg:x="1.47cm" svg:y="10.071cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:width="3.405cm" svg:height="1.847cm" svg:x="1.47cm" svg:y="10.071cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">MSL directs all radio communications for duration of event</text:span></text:p>
+      <text:p><text:span text:style-name="T2">MSL directs all radio communications for duration of event</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="3.23cm" svg:height="2.411cm" svg:x="9.745cm" svg:y="8.707cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:width="3.23cm" svg:height="2.411cm" svg:x="9.745cm" svg:y="8.707cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Move to Gate and wait for LE to arrive and take them directly to the scene. </text:span></text:p>
+      <text:p><text:span text:style-name="T2">Move to Gate and wait for LE to arrive and take them directly to the scene. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.64cm" svg:height="2.497cm" svg:x="21.875cm" svg:y="11.527cm">
@@ -818,27 +731,11 @@
       <text:p>2x Welfaeries continue normal WE operations</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="0.5cm" svg:height="1cm" svg:x="0.51cm" svg:y="22.478cm" svg:viewBox="0 0 501 1001" draw:points="0,1001 501,1001 501,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="1.4cm" svg:height="0.9cm" svg:x="1cm" svg:y="22.6cm">
-     <draw:text-box>
-      <text:p>2</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:line draw:style-name="gr4" draw:text-style-name="P1" draw:layer="layout" svg:x1="2.06cm" svg:y1="22.979cm" svg:x2="29.021cm" svg:y2="22.953cm">
-     <text:p/>
-    </draw:line>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="20.9cm" svg:height="1.053cm" svg:x="3cm" svg:y="22.5cm">
-     <draw:text-box>
-      <text:p>Get Into Positions</text:p>
-     </draw:text-box>
-    </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="3.216cm" svg:height="1.5cm" svg:x="1.872cm" svg:y="23.908cm" svg:viewBox="0 0 3217 1501" svg:d="M2717 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2218c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.216cm" svg:height="1.5cm" svg:x="1.872cm" svg:y="23.908cm" svg:viewBox="0 0 3217 1501" svg:d="M2717 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2218c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr10" draw:text-style-name="P4" draw:layer="layout" svg:width="3.216cm" svg:height="1.5cm" svg:x="1.872cm" svg:y="23.908cm" svg:viewBox="0 0 3217 1501" svg:d="M2717 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2218c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="3.216cm" svg:height="1.5cm" svg:x="1.872cm" svg:y="23.908cm" svg:viewBox="0 0 3217 1501" svg:d="M2717 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2218c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
@@ -848,10 +745,10 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="3.992cm" svg:height="1.5cm" svg:x="5.691cm" svg:y="23.908cm" svg:viewBox="0 0 3993 1501" svg:d="M3493 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2994c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.992cm" svg:height="1.5cm" svg:x="5.691cm" svg:y="23.908cm" svg:viewBox="0 0 3993 1501" svg:d="M3493 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2994c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr10" draw:text-style-name="P4" draw:layer="layout" svg:width="3.992cm" svg:height="1.5cm" svg:x="5.691cm" svg:y="23.908cm" svg:viewBox="0 0 3993 1501" svg:d="M3493 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2994c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="3.992cm" svg:height="1.5cm" svg:x="5.691cm" svg:y="23.908cm" svg:viewBox="0 0 3993 1501" svg:d="M3493 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2994c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
@@ -876,10 +773,10 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="3.344cm" svg:height="1.5cm" svg:x="18.88cm" svg:y="23.908cm" svg:viewBox="0 0 3345 1501" svg:d="M2845 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2346c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:path draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.344cm" svg:height="1.5cm" svg:x="18.88cm" svg:y="23.908cm" svg:viewBox="0 0 3345 1501" svg:d="M2845 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2346c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr10" draw:text-style-name="P4" draw:layer="layout" svg:width="3.344cm" svg:height="1.5cm" svg:x="18.88cm" svg:y="23.908cm" svg:viewBox="0 0 3345 1501" svg:d="M2845 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2346c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:path draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="3.344cm" svg:height="1.5cm" svg:x="18.88cm" svg:y="23.908cm" svg:viewBox="0 0 3345 1501" svg:d="M2845 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2346c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
@@ -891,14 +788,6 @@
     <draw:frame draw:style-name="Instruction_20_Box" draw:layer="layout" svg:width="2.896cm" svg:height="2.2cm" svg:x="19.104cm" svg:y="27.3cm">
      <draw:text-box>
       <text:p>If in hours of darkness: park so that headlights can illuminate scene</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="24.1cm" svg:y="22.418cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
-     <text:p/>
-    </draw:polygon>
-    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="24.1cm" svg:y="22.357cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T1">Death on Site </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.216cm" svg:height="2.173cm" svg:x="1.673cm" svg:y="30.527cm">
@@ -926,11 +815,6 @@
       <text:p>Drive to incident site</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="13.659cm" svg:y="4.075cm">
-     <draw:text-box>
-      <text:p>NOMAD</text:p>
-     </draw:text-box>
-    </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.55cm" svg:height="1.836cm" svg:x="17.857cm" svg:y="9.582cm">
      <draw:text-box>
       <text:p>Instruct Welfaeries to prep WE for incident response</text:p>
@@ -941,9 +825,9 @@
       <text:p>Take up position outside of Welfare Centre </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="3.55cm" svg:height="2.2cm" svg:x="13.69cm" svg:y="8.418cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="3.55cm" svg:height="2.2cm" svg:x="13.69cm" svg:y="8.418cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">All other NMs stand by and await orders from MSL per &quot;Radio Priority&quot; </text:span></text:p>
+      <text:p><text:span text:style-name="T2">All other NMs stand by and await orders from MSL per &quot;Radio Priority&quot; </text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.558cm" svg:height="3.023cm" svg:x="17.917cm" svg:y="13.895cm">
@@ -951,35 +835,35 @@
       <text:p>Oversee and manage incoming participants traumatized by the death – priority to next of kin and friends/camp mates.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="3.75cm" svg:height="2.3cm" svg:x="17.825cm" svg:y="17.318cm">
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P4" draw:layer="layout" svg:width="3.75cm" svg:height="2.3cm" svg:x="17.825cm" svg:y="17.318cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Oversee Malfare Complex for duration of the emergency/incident/event</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Oversee Malfare Complex for duration of the emergency/incident/event</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="7.587cm" svg:height="2.203cm" svg:x="17.788cm" svg:y="6.275cm" svg:viewBox="0 0 7588 2204" draw:points="0,2204 7588,2204 7588,0 0,0">
-      <text:p/>
-     </draw:polygon>
      <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="7.587cm" svg:height="2.203cm" svg:x="17.788cm" svg:y="6.275cm" svg:viewBox="0 0 7588 2204" draw:points="0,2204 7588,2204 7588,0 0,0">
       <text:p/>
      </draw:polygon>
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="7.587cm" svg:height="2.203cm" svg:x="17.788cm" svg:y="6.275cm" svg:viewBox="0 0 7588 2204" draw:points="0,2204 7588,2204 7588,0 0,0">
+      <text:p/>
+     </draw:polygon>
     </draw:g>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P4" draw:layer="layout" svg:width="7.587cm" svg:height="3.111cm" svg:x="17.888cm" svg:y="6.021cm">
+    <draw:frame draw:style-name="gr9" draw:text-style-name="P3" draw:layer="layout" svg:width="7.587cm" svg:height="3.111cm" svg:x="17.888cm" svg:y="6.021cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T5">Welfare Enough plays key role in managing rumours. Information given only to next of kin or close friends/campmates, and only per instruction from MSL and SL!</text:span></text:p>
+      <text:p><text:span text:style-name="T4">Welfare Enough plays key role in managing rumours. Information given only to next of kin or close friends/campmates, and only per instruction from MSL and SL!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="InfoBox" draw:text-style-name="P5" draw:layer="layout" svg:width="14.165cm" svg:height="3.4cm" svg:x="2.01cm" svg:y="16.678cm">
      <draw:text-box>
-      <text:p text:style-name="P5"><text:span text:style-name="T6"><text:s/></text:span><text:span text:style-name="T6">IMPORTANT:</text:span></text:p>
-      <text:p text:style-name="P5"><text:span text:style-name="T6">The body is not to be touched or moved</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">The area must be cordoned off</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">No one is allowed in</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">The body must be covered with a sheet, tarp, or cloth for privacy</text:span></text:p>
+      <text:p><text:span text:style-name="T5"><text:s/></text:span><text:span text:style-name="T5">IMPORTANT:</text:span></text:p>
+      <text:p><text:span text:style-name="T5">The body is not to be touched or moved</text:span><text:span text:style-name="T5"><text:line-break/></text:span><text:span text:style-name="T5">The area must be cordoned off</text:span><text:span text:style-name="T5"><text:line-break/></text:span><text:span text:style-name="T5">No one is allowed in</text:span><text:span text:style-name="T5"><text:line-break/></text:span><text:span text:style-name="T5">The body must be covered with a sheet, tarp, or cloth for privacy</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="22.738cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:path draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="22.738cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr10" draw:text-style-name="P4" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="22.738cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:path draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="22.738cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
@@ -1023,85 +907,72 @@
       <text:p>Direct NOMADs to help identify the individual and/or find next of kin, campmates, friends. and accompany them to Welfare Enough </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="14.165cm" svg:height="6.281cm" svg:x="13.71cm" svg:y="53.481cm" svg:viewBox="0 0 14166 6282" draw:points="0,6282 14166,6282 14166,0 0,0">
+    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="14.165cm" svg:height="6.281cm" svg:x="13.71cm" svg:y="53.481cm" svg:viewBox="0 0 14166 6282" draw:points="0,6282 14166,6282 14166,0 0,0">
      <text:p/>
     </draw:polygon>
     <draw:frame draw:style-name="InfoBox" draw:text-style-name="P6" draw:layer="layout" svg:width="14.165cm" svg:height="6.394cm" svg:x="13.71cm" svg:y="53.424cm">
      <draw:text-box>
-      <text:p text:style-name="P6"><text:s text:c="2"/>IMPORTANT!!</text:p>
-      <text:p text:style-name="P6">When interacting with next of kin/friends/campmates, DO NOT BREAK THE NEWS TO THEM IN PUBLIC. A NOMAD should accompany them in person to Welfare Enough where Welfare Enough will break the news and give support.<text:line-break/>Everyone is to cooperate fully with Law Enforcement at all times – MSL and SL in charge of contact with LE.</text:p>
-      <text:p text:style-name="P6">The body is not to be touched or moved<text:line-break/>The area shall be cordoned off<text:line-break/>No one is allowed in<text:line-break/>The body Is to be covered with a sheet, tarp, or cloth<text:line-break/></text:p>
+      <text:p><text:span text:style-name="T6"><text:s text:c="2"/></text:span><text:span text:style-name="T6">IMPORTANT!!</text:span></text:p>
+      <text:p><text:span text:style-name="T6">When interacting with next of kin/friends/campmates, DO NOT BREAK THE NEWS TO THEM IN PUBLIC. A NOMAD should accompany them in person to Welfare Enough where Welfare Enough will break the news and give support.</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">Everyone is to cooperate fully with Law Enforcement at all times – MSL and SL in charge of contact with LE.</text:span></text:p>
+      <text:p><text:span text:style-name="T6">The body is not to be touched or moved</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">The area shall be cordoned off</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">No one is allowed in</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">The body Is to be covered with a sheet, tarp, or cloth</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6"/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="10.245cm" svg:y="61.473cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="10.245cm" svg:y="62.173cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="10.245cm" svg:y="61.473cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="10.245cm" svg:y="62.173cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.57cm" svg:x="10.245cm" svg:y="61.438cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.57cm" svg:x="10.245cm" svg:y="62.138cm">
      <draw:text-box>
       <text:p>SL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.946cm" svg:x="10.2cm" svg:y="67.654cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.946cm" svg:x="10.2cm" svg:y="68.354cm">
      <draw:text-box>
       <text:p>With Board: Coordinate follow-up including PR response</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.44cm" svg:height="1.137cm" svg:x="10.16cm" svg:y="69.963cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.44cm" svg:height="1.137cm" svg:x="10.16cm" svg:y="70.663cm">
      <draw:text-box>
       <text:p>Possible Newsletter/flyer at No-Info</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="14.165cm" svg:height="3.4cm" svg:x="12.936cm" svg:y="35.778cm" svg:viewBox="0 0 14166 3401" draw:points="0,3401 14166,3401 14166,0 0,0">
+    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="14.165cm" svg:height="3.4cm" svg:x="12.936cm" svg:y="35.778cm" svg:viewBox="0 0 14166 3401" draw:points="0,3401 14166,3401 14166,0 0,0">
      <text:p/>
     </draw:polygon>
     <draw:frame draw:style-name="InfoBox" draw:text-style-name="P6" draw:layer="layout" svg:width="14.165cm" svg:height="3.4cm" svg:x="12.836cm" svg:y="30.878cm">
      <draw:text-box>
-      <text:p text:style-name="P6"><text:s/>IMPORTANT:</text:p>
-      <text:p text:style-name="P6">The body is not to be touched or moved<text:line-break/>The area must be cordoned off<text:line-break/>No one is allowed in<text:line-break/>The body must be covered with a sheet, tarp, or cloth for privacy</text:p>
+      <text:p><text:span text:style-name="T6"><text:s/></text:span><text:span text:style-name="T6">IMPORTANT:</text:span></text:p>
+      <text:p><text:span text:style-name="T6">The body is not to be touched or moved</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">The area must be cordoned off</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">No one is allowed in</text:span><text:span text:style-name="T6"><text:line-break/></text:span><text:span text:style-name="T6">The body must be covered with a sheet, tarp, or cloth for privacy</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="28.345cm" svg:height="0.641cm" svg:x="0.53cm" svg:y="21.337cm" svg:viewBox="0 0 28346 642" draw:points="0,642 28346,642 28346,0 0,0">
+    <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="28.345cm" svg:height="0.641cm" svg:x="0.53cm" svg:y="21.337cm" svg:viewBox="0 0 28346 642" draw:points="0,642 28346,642 28346,0 0,0">
      <text:p/>
     </draw:polygon>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P4" draw:layer="layout" svg:width="28.345cm" svg:height="0.655cm" svg:x="0.53cm" svg:y="20.93cm">
+    <draw:frame draw:style-name="gr10" draw:text-style-name="P3" draw:layer="layout" svg:width="28.345cm" svg:height="0.655cm" svg:x="0.53cm" svg:y="20.93cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T7">NOTE: Never mention death or other sensitive information over the radio! Prevent the spread of rumours.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1cm" svg:x="1.41cm" svg:y="14.678cm" svg:viewBox="0 0 3551 1001" draw:points="0,1001 3551,1001 3551,0 0,0">
-      <text:p/>
-     </draw:polygon>
      <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1cm" svg:x="1.41cm" svg:y="14.678cm" svg:viewBox="0 0 3551 1001" draw:points="0,1001 3551,1001 3551,0 0,0">
       <text:p/>
      </draw:polygon>
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1cm" svg:x="1.41cm" svg:y="14.678cm" svg:viewBox="0 0 3551 1001" draw:points="0,1001 3551,1001 3551,0 0,0">
+      <text:p/>
+     </draw:polygon>
     </draw:g>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P3" draw:layer="layout" svg:width="3.55cm" svg:height="1.269cm" svg:x="1.41cm" svg:y="13.944cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="3.55cm" svg:height="1.269cm" svg:x="1.41cm" svg:y="13.944cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Calls Designated Driver(s) to Malfare</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Calls Designated Driver(s) to Malfare</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="21.825cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.55cm" svg:height="1.5cm" svg:x="21.825cm" svg:y="4.275cm" svg:viewBox="0 0 3551 1501" svg:d="M3051 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2552c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
-      <text:p/>
-     </draw:path>
-    </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.55cm" svg:height="1.57cm" svg:x="21.825cm" svg:y="4.04cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="2.7cm" svg:height="1.69cm" svg:x="25.875cm" svg:y="6.028cm">
      <draw:text-box>
-      <text:p>Welfaeries</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="2.7cm" svg:height="1.69cm" svg:x="25.875cm" svg:y="6.028cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Moves to Malfare to await instruction</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Moves to Malfare to await instruction</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.296cm" svg:height="1.5cm" svg:x="10.427cm" svg:y="23.991cm">
@@ -1115,10 +986,10 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr9" draw:text-style-name="P4" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="26.007cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:path draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="26.007cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr10" draw:text-style-name="P4" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="26.007cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
+     <draw:path draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="26.007cm" svg:y="23.908cm" svg:viewBox="0 0 2738 1501" svg:d="M2238 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-1739c-92 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 157 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
@@ -1163,105 +1034,105 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="14.045cm" svg:y="61.478cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="14.045cm" svg:y="62.178cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="14.045cm" svg:y="61.478cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="14.045cm" svg:y="62.178cm" svg:viewBox="0 0 3331 1501" svg:d="M2831 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2332c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.783cm" svg:x="14.045cm" svg:y="61.336cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="14.045cm" svg:y="62.1cm">
      <draw:text-box>
       <text:p>Welfare Enough</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="17.91cm" svg:y="61.478cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="17.91cm" svg:y="62.178cm">
      <draw:text-box>
       <text:p>DRIVER</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="21.745cm" svg:y="61.478cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="21.745cm" svg:y="62.178cm">
      <draw:text-box>
       <text:p>MEDICAL</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.51cm" svg:y="61.478cm" svg:viewBox="0 0 3166 1501" svg:d="M2666 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2167c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.51cm" svg:y="62.178cm" svg:viewBox="0 0 3166 1501" svg:d="M2666 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2167c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
-     <draw:path draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.51cm" svg:y="61.478cm" svg:viewBox="0 0 3166 1501" svg:d="M2666 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2167c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
+     <draw:path draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.51cm" svg:y="62.178cm" svg:viewBox="0 0 3166 1501" svg:d="M2666 1501c92 0 170-21 250-67s137-103 183-183 67-158 67-250v-502c0-91-21-169-67-249s-103-137-183-183-158-67-250-67h-2167c-91 0-169 21-249 67s-137 103-183 183-67 158-67 249v502c0 92 21 170 67 250s103 137 183 183 158 67 249 67z">
       <text:p/>
      </draw:path>
     </draw:g>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.51cm" svg:y="61.478cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.51cm" svg:y="62.178cm">
      <draw:text-box>
       <text:p>INTR</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.205cm" svg:x="6.075cm" svg:y="69.895cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.205cm" svg:x="6.075cm" svg:y="70.595cm">
      <draw:text-box>
       <text:p>Help disseminate post-incident information + prevention and diffusion of rumours + privacy</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.4cm" svg:x="10.2cm" svg:y="71.5cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.4cm" svg:x="10.2cm" svg:y="72.2cm">
      <draw:text-box>
       <text:p>Collects all incident reports for safe keeping and follow-up</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="0.915cm" svg:x="18.115cm" svg:y="67.585cm">
+    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="0.915cm" svg:x="18.115cm" svg:y="68.285cm">
      <draw:text-box>
       <text:p>Re-stock grab <text:s/>bag upon return</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P4" draw:layer="layout" svg:width="10.47cm" svg:height="2.146cm" svg:x="17.03cm" svg:y="72.3cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P3" draw:layer="layout" svg:width="10.47cm" svg:height="2.146cm" svg:x="17.03cm" svg:y="73cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T8">REMEMBER: Stay professional. Respect participants’ privacy and DO NOT TELL STORIES. Do not be a part of the rumour mill!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.423cm" svg:x="1.904cm" svg:y="71.977cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.423cm" svg:x="1.904cm" svg:y="72.677cm">
      <draw:text-box>
       <text:p>Together with SL, lead post-incident debrief + staff support</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.137cm" svg:x="5.984cm" svg:y="72.463cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.137cm" svg:x="5.984cm" svg:y="73.163cm">
      <draw:text-box>
       <text:p>Participate in post-incident debrief</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.237cm" svg:x="14.11cm" svg:y="66.063cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.237cm" svg:x="14.11cm" svg:y="66.763cm">
      <draw:text-box>
       <text:p>Participate in post-incident debrief</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.063cm" svg:x="21.78cm" svg:y="66.137cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.063cm" svg:x="21.78cm" svg:y="66.837cm">
      <draw:text-box>
       <text:p>Participate in post-incident debrief</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.163cm" svg:x="25.545cm" svg:y="66.137cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.163cm" svg:x="25.545cm" svg:y="66.837cm">
      <draw:text-box>
       <text:p>Participate in post-incident debrief</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.597cm" svg:x="10.1cm" svg:y="73.2cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.597cm" svg:x="10.1cm" svg:y="73.9cm">
      <draw:text-box>
       <text:p>Together with MSL, lead post-incident debrief + staff support</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="26.971cm" svg:height="0.753cm" svg:x="1.904cm" svg:y="63.426cm" svg:viewBox="0 0 26972 754" draw:points="0,754 26972,754 26972,0 0,0">
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="26.971cm" svg:height="0.753cm" svg:x="1.904cm" svg:y="64.126cm" svg:viewBox="0 0 26972 754" draw:points="0,754 26972,754 26972,0 0,0">
       <text:p/>
      </draw:polygon>
-     <draw:polygon draw:style-name="gr14" draw:text-style-name="P1" draw:layer="layout" svg:width="26.971cm" svg:height="0.753cm" svg:x="1.904cm" svg:y="63.426cm" svg:viewBox="0 0 26972 754" draw:points="0,754 26972,754 26972,0 0,0">
+     <draw:polygon draw:style-name="gr12" draw:text-style-name="P2" draw:layer="layout" svg:width="26.971cm" svg:height="0.753cm" svg:x="1.904cm" svg:y="64.126cm" svg:viewBox="0 0 26972 754" draw:points="0,754 26972,754 26972,0 0,0">
       <text:p/>
      </draw:polygon>
     </draw:g>
-    <draw:frame draw:style-name="gr15" draw:text-style-name="P4" draw:layer="layout" svg:width="26.971cm" svg:height="0.753cm" svg:x="1.904cm" svg:y="63.426cm">
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P3" draw:layer="layout" svg:width="26.971cm" svg:height="0.753cm" svg:x="1.904cm" svg:y="64.126cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T9">Everyone involved participates in a post-incident de-brief and is given post-incident trauma/emotional support as needed.</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.137cm" svg:x="18.01cm" svg:y="66.063cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.137cm" svg:x="18.01cm" svg:y="66.763cm">
      <draw:text-box>
       <text:p>Participate in post-incident debrief</text:p>
      </draw:text-box>
@@ -1271,7 +1142,7 @@
       <text:p>Help find next of kin/friends/campmates + accompany them to Welfare Enough. (Do not break news to them!) <text:s/></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.977cm" svg:x="21.875cm" svg:y="41.689cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.511cm" svg:x="21.875cm" svg:y="41.689cm">
      <draw:text-box>
       <text:p>Welfare Enough</text:p>
      </draw:text-box>
@@ -1282,10 +1153,10 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.065cm" svg:x="21.875cm" svg:y="51.82cm" svg:viewBox="0 0 4001 1066" draw:points="0,1066 4001,1066 4001,0 0,0">
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="4cm" svg:height="1.065cm" svg:x="21.875cm" svg:y="51.82cm" svg:viewBox="0 0 4001 1066" draw:points="0,1066 4001,1066 4001,0 0,0">
       <text:p/>
      </draw:polygon>
-     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="4cm" svg:height="1.065cm" svg:x="21.875cm" svg:y="51.82cm" svg:viewBox="0 0 4001 1066" draw:points="0,1066 4001,1066 4001,0 0,0">
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="4cm" svg:height="1.065cm" svg:x="21.875cm" svg:y="51.82cm" svg:viewBox="0 0 4001 1066" draw:points="0,1066 4001,1066 4001,0 0,0">
       <text:p/>
      </draw:polygon>
     </draw:g>
@@ -1304,62 +1175,62 @@
       <text:p>Follow MSL instructions at all times</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.875cm" svg:x="1.904cm" svg:y="64.825cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.875cm" svg:x="1.904cm" svg:y="65.525cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.405cm" svg:height="0.875cm" svg:x="6cm" svg:y="64.825cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.405cm" svg:height="0.875cm" svg:x="6cm" svg:y="65.525cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.33cm" svg:height="1.505cm" svg:x="10.125cm" svg:y="64.625cm" svg:viewBox="0 0 3331 1506" draw:points="0,1506 3331,1506 3331,0 0,0">
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.33cm" svg:height="1.505cm" svg:x="10.125cm" svg:y="65.325cm" svg:viewBox="0 0 3331 1506" draw:points="0,1506 3331,1506 3331,0 0,0">
       <text:p/>
      </draw:polygon>
     </draw:g>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.875cm" svg:x="10.125cm" svg:y="64.825cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.875cm" svg:x="10.125cm" svg:y="65.525cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.775cm" svg:x="14.11cm" svg:y="64.925cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.775cm" svg:x="14.11cm" svg:y="65.625cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.927cm" svg:x="18.025cm" svg:y="64.873cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.927cm" svg:x="18.025cm" svg:y="65.573cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.927cm" svg:x="21.81cm" svg:y="64.873cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.927cm" svg:x="21.81cm" svg:y="65.573cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.827cm" svg:x="25.51cm" svg:y="64.873cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="0.827cm" svg:x="25.51cm" svg:y="65.573cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr6" draw:text-style-name="P3" draw:layer="layout" svg:width="3.56cm" svg:height="1.269cm" svg:x="1.375cm" svg:y="12.256cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="3.56cm" svg:height="1.269cm" svg:x="1.375cm" svg:y="12.256cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Instruct GATE re closure if needed</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Instruct GATE re closure if needed</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.56cm" svg:height="1.513cm" svg:x="5.469cm" svg:y="6.178cm" svg:viewBox="0 0 3561 1514" draw:points="0,1514 3561,1514 3561,0 0,0">
-      <text:p/>
-     </draw:polygon>
      <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="3.56cm" svg:height="1.513cm" svg:x="5.469cm" svg:y="6.178cm" svg:viewBox="0 0 3561 1514" draw:points="0,1514 3561,1514 3561,0 0,0">
       <text:p/>
      </draw:polygon>
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="3.56cm" svg:height="1.513cm" svg:x="5.469cm" svg:y="6.178cm" svg:viewBox="0 0 3561 1514" draw:points="0,1514 3561,1514 3561,0 0,0">
+      <text:p/>
+     </draw:polygon>
     </draw:g>
-    <draw:frame draw:style-name="gr16" draw:text-style-name="P3" draw:layer="layout" svg:width="3.56cm" svg:height="1.525cm" svg:x="5.469cm" svg:y="5.993cm">
+    <draw:frame draw:style-name="gr14" draw:text-style-name="P4" draw:layer="layout" svg:width="3.56cm" svg:height="1.525cm" svg:x="5.469cm" svg:y="5.993cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Gate monitors or halts traffic as per MSL instructions</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Gate monitors or halts traffic as per MSL instructions</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="Instruction_20_Box" draw:layer="layout" svg:width="3.56cm" svg:height="4.008cm" svg:x="5.469cm" svg:y="7.91cm">
@@ -1367,11 +1238,147 @@
       <text:p><text:span text:style-name="T10">NOTE: Do not attempt to forcibly or physically stop anyone from leaving – take down plate numbers or relevant description and report to MSL. </text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Stage" draw:layer="layout" svg:width="1.5cm" svg:height="0.9cm" svg:x="1cm" svg:y="39.9cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.521cm" svg:height="1.402cm" svg:x="1.68cm" svg:y="4.013cm">
      <draw:text-box>
-      <text:p>3</text:p>
+      <text:p>MSL</text:p>
      </draw:text-box>
     </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.518cm" svg:height="1.402cm" svg:x="5.728cm" svg:y="4.015cm">
+     <draw:text-box>
+      <text:p>GATE </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.52cm" svg:height="1.402cm" svg:x="9.774cm" svg:y="4.015cm">
+     <draw:text-box>
+      <text:p>SL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.519cm" svg:height="1.356cm" svg:x="17.866cm" svg:y="4cm">
+     <draw:text-box>
+      <text:p>Welfare Enough</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.519cm" svg:height="1.402cm" svg:x="21.915cm" svg:y="4.015cm">
+     <draw:text-box>
+      <text:p>Welfæries</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.52cm" svg:height="1.338cm" svg:x="13.821cm" svg:y="4.047cm">
+     <draw:text-box>
+      <text:p>NOMAD</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.749cm" svg:height="1.339cm" svg:x="25.851cm" svg:y="4.045cm">
+     <draw:text-box>
+      <text:p>DRIVER</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:line draw:style-name="gr15" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.271cm" svg:y1="3.585cm" svg:x2="29.345cm" svg:y2="3.559cm">
+      <text:p/>
+     </draw:line>
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="5.207cm" svg:height="0.497cm" svg:x="24.222cm" svg:y="3.028cm" svg:viewBox="0 0 5208 498" draw:points="0,498 5208,498 5208,0 0,0">
+      <text:p/>
+     </draw:polygon>
+     <draw:frame draw:style-name="gr16" draw:text-style-name="P3" draw:layer="layout" svg:width="5.207cm" svg:height="0.619cm" svg:x="24.221cm" svg:y="2.967cm">
+      <draw:text-box>
+       <text:p>Death on site</text:p>
+      </draw:text-box>
+     </draw:frame>
+     <draw:polygon draw:style-name="gr17" draw:text-style-name="P8" draw:layer="layout" svg:width="1.468cm" svg:height="0.994cm" svg:x="0cm" svg:y="2.455cm" svg:viewBox="0 0 1469 995" draw:points="0,995 1469,995 1469,0 0,0">
+      <text:p><text:span text:style-name="T11">1</text:span></text:p>
+     </draw:polygon>
+     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.625cm" svg:y1="2.964cm" svg:x2="29.699cm" svg:y2="2.938cm">
+      <text:p/>
+     </draw:line>
+     <draw:frame draw:style-name="gr19" draw:text-style-name="P10" draw:layer="layout" svg:width="26.136cm" svg:height="1.046cm" svg:x="2.835cm" svg:y="2.428cm">
+      <draw:text-box>
+       <text:p text:style-name="P9"><text:span text:style-name="T12">Immediate actions</text:span></text:p>
+      </draw:text-box>
+     </draw:frame>
+    </draw:g>
+    <draw:frame draw:style-name="gr20" draw:text-style-name="P3" draw:layer="layout" svg:width="27.658cm" svg:height="1.475cm" svg:x="0.842cm" svg:y="0.2cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T13">Death on site</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr10" draw:text-style-name="P3" draw:layer="layout" svg:width="28cm" svg:height="0.655cm" svg:x="1cm" svg:y="1.7cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T7">NOTE: Never mention death or other sensitive information over the radio! Prevent the spread of rumours.</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:g>
+     <draw:line draw:style-name="gr15" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.463cm" svg:y1="23.53cm" svg:x2="29.348cm" svg:y2="23.507cm">
+      <text:p/>
+     </draw:line>
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="5.171cm" svg:height="0.442cm" svg:x="24.259cm" svg:y="23.034cm" svg:viewBox="0 0 5172 443" draw:points="0,443 5172,443 5172,0 0,0">
+      <text:p/>
+     </draw:polygon>
+     <draw:frame draw:style-name="gr16" draw:text-style-name="P3" draw:layer="layout" svg:width="5.174cm" svg:height="0.55cm" svg:x="24.258cm" svg:y="22.98cm">
+      <draw:text-box>
+       <text:p>Death on site</text:p>
+      </draw:text-box>
+     </draw:frame>
+     <draw:polygon draw:style-name="gr17" draw:text-style-name="P8" draw:layer="layout" svg:width="1.458cm" svg:height="0.884cm" svg:x="0.2cm" svg:y="22.525cm" svg:viewBox="0 0 1459 885" draw:points="0,885 1459,885 1459,0 0,0">
+      <text:p><text:span text:style-name="T11">2</text:span></text:p>
+     </draw:polygon>
+     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.815cm" svg:y1="22.977cm" svg:x2="29.7cm" svg:y2="22.954cm">
+      <text:p/>
+     </draw:line>
+     <draw:frame draw:style-name="gr19" draw:text-style-name="P10" draw:layer="layout" svg:width="25.938cm" svg:height="0.961cm" svg:x="3.015cm" svg:y="22.5cm">
+      <draw:text-box>
+       <text:p text:style-name="P9"><text:span text:style-name="T12">Get into position</text:span></text:p>
+      </draw:text-box>
+     </draw:frame>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr15" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.259cm" svg:y1="40.6cm" svg:x2="29.05cm" svg:y2="40.577cm">
+      <text:p/>
+     </draw:line>
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="5.154cm" svg:height="0.435cm" svg:x="23.977cm" svg:y="40.111cm" svg:viewBox="0 0 5155 436" draw:points="0,436 5155,436 5155,0 0,0">
+      <text:p/>
+     </draw:polygon>
+     <draw:frame draw:style-name="gr16" draw:text-style-name="P3" draw:layer="layout" svg:width="5.154cm" svg:height="0.542cm" svg:x="23.978cm" svg:y="40.058cm">
+      <draw:text-box>
+       <text:p>Death on site</text:p>
+      </draw:text-box>
+     </draw:frame>
+     <draw:polygon draw:style-name="gr17" draw:text-style-name="P8" draw:layer="layout" svg:width="1.453cm" svg:height="0.87cm" svg:x="0cm" svg:y="39.61cm" svg:viewBox="0 0 1454 871" draw:points="0,871 1454,871 1454,0 0,0">
+      <text:p><text:span text:style-name="T11">3</text:span></text:p>
+     </draw:polygon>
+     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.609cm" svg:y1="40.056cm" svg:x2="29.4cm" svg:y2="40.033cm">
+      <text:p/>
+     </draw:line>
+     <draw:frame draw:style-name="gr19" draw:text-style-name="P10" draw:layer="layout" svg:width="25.872cm" svg:height="0.916cm" svg:x="2.807cm" svg:y="39.586cm">
+      <draw:text-box>
+       <text:p text:style-name="P9"><text:span text:style-name="T12">Roles at incident</text:span></text:p>
+      </draw:text-box>
+     </draw:frame>
+    </draw:g>
+    <draw:g>
+     <draw:line draw:style-name="gr15" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.271cm" svg:y1="61.6cm" svg:x2="29.345cm" svg:y2="61.577cm">
+      <text:p/>
+     </draw:line>
+     <draw:polygon draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="5.206cm" svg:height="0.446cm" svg:x="24.221cm" svg:y="61.1cm" svg:viewBox="0 0 5207 447" draw:points="0,447 5207,447 5207,0 0,0">
+      <text:p/>
+     </draw:polygon>
+     <draw:frame draw:style-name="gr16" draw:text-style-name="P3" draw:layer="layout" svg:width="5.205cm" svg:height="0.555cm" svg:x="24.222cm" svg:y="61.045cm">
+      <draw:text-box>
+       <text:p>Death on site</text:p>
+      </draw:text-box>
+     </draw:frame>
+     <draw:polygon draw:style-name="gr17" draw:text-style-name="P8" draw:layer="layout" svg:width="1.468cm" svg:height="0.892cm" svg:x="0cm" svg:y="60.586cm" svg:viewBox="0 0 1469 893" draw:points="0,893 1469,893 1469,0 0,0">
+      <text:p><text:span text:style-name="T11">4</text:span></text:p>
+     </draw:polygon>
+     <draw:line draw:style-name="gr18" draw:text-style-name="P7" draw:layer="layout" svg:x1="1.625cm" svg:y1="61.042cm" svg:x2="29.699cm" svg:y2="61.019cm">
+      <text:p/>
+     </draw:line>
+     <draw:frame draw:style-name="gr19" draw:text-style-name="P10" draw:layer="layout" svg:width="26.137cm" svg:height="0.939cm" svg:x="2.834cm" svg:y="60.561cm">
+      <draw:text-box>
+       <text:p text:style-name="P9"><text:span text:style-name="T12">Post event</text:span></text:p>
+      </draw:text-box>
+     </draw:frame>
+    </draw:g>
    </draw:page>
   </office:drawing>
  </office:body>
