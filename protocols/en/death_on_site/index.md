@@ -2,6 +2,7 @@
 layout: page
 title: Death on site protocol
 description: Malfare protocol for a death on site
+comments: true
 ---
 _Emergency Response Protocol:_
 

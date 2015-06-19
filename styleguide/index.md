@@ -1,7 +1,7 @@
 ---
 layout: page
-title: some title
-description: blurb
+title: Styleguide
+description: Guidance on how protocols should be styled
 ---
 #Styleguide
 

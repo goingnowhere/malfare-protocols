@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><dc:creator>adam mxgreggor</dc:creator><dc:date>2015-05-31T16:15:19.621303000</dc:date><meta:creation-date>2012-06-20T21:01:18Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:editing-duration>PT47M24S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:document-statistic meta:object-count="144"/></office:meta>
+ <office:meta><dc:creator>adam mxgreggor</dc:creator><dc:date>2015-05-30T20:44:17.451803000</dc:date><meta:creation-date>2012-06-20T21:01:18Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:editing-duration>PT1H14M34S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:document-statistic meta:object-count="142"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-886</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-709</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">32033</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">20730</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">41864</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-288</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">29766</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">18532</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-886</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-709</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">32034</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">20731</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">41864</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-288</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">29767</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">18533</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -124,27 +124,6 @@
   <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
-  <draw:gradient draw:name="Gradient_20_7" draw:display-name="Gradient 7" draw:style="linear" draw:start-color="#3465a4" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0" draw:border="0%"/>
-  <draw:hatch draw:name="Hatching_20_1" draw:display-name="Hatching 1" draw:style="single" draw:color="#3465a4" draw:distance="0.02cm" draw:rotation="0"/>
-  <draw:fill-image draw:name="Bitmap_20_1" draw:display-name="Bitmap 1">
-   <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAADAFBMVEUAAAAAAIAAgAAAgICA
-    AACAAICAgACAgIDAwMAAAP8A/wAA////AAD/AP///wD///8AAAAzAABmAACZAADMAAD/AAAA
-    MwAzMwBmMwCZMwDMMwD/MwAAZgAzZgBmZgCZZgDMZgD/ZgAAmQAzmQBmmQCZmQDMmQD/mQAA
-    zAAzzABmzACZzADMzAD/zAAA/wAz/wBm/wCZ/wDM/wD//wAAADMzADNmADOZADPMADP/ADMA
-    MzMzMzNmMzOZMzPMMzP/MzMAZjMzZjNmZjOZZjPMZjP/ZjMAmTMzmTNmmTOZmTPMmTP/mTMA
-    zDMzzDNmzDOZzDPMzDP/zDMA/zMz/zNm/zOZ/zPM/zP//zMAAGYzAGZmAGaZAGbMAGb/AGYA
-    M2YzM2ZmM2aZM2bMM2b/M2YAZmYzZmZmZmaZZmbMZmb/ZmYAmWYzmWZmmWaZmWbMmWb/mWYA
-    zGYzzGZmzGaZzGbMzGb/zGYA/2Yz/2Zm/2aZ/2bM/2b//2YAAJkzAJlmAJmZAJnMAJn/AJkA
-    M5kzM5lmM5mZM5nMM5n/M5kAZpkzZplmZpmZZpnMZpn/ZpkAmZkzmZlmmZmZmZnMmZn/mZkA
-    zJkzzJlmzJmZzJnMzJn/zJkA/5kz/5lm/5mZ/5nM/5n//5kAAMwzAMxmAMyZAMzMAMz/AMwA
-    M8wzM8xmM8yZM8zMM8z/M8wAZswzZsxmZsyZZszMZsz/ZswAmcwzmcxmmcyZmczMmcz/mcwA
-    zMwzzMxmzMyZzMzMzMz/zMwA/8wz/8xm/8yZ/8zM/8z//8wAAP8zAP9mAP+ZAP/MAP//AP8A
-    M/8zM/9mM/+ZM//MM///M/8AZv8zZv9mZv+ZZv/MZv//Zv8Amf8zmf9mmf+Zmf/Mmf//mf8A
-    zP8zzP9mzP+ZzP/MzP//zP8A//8z//9m//+Z///M//////8AuP8AAAAAAAAAAAAAAAAAAAAA
-    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4
-    0k8YAAAAFklEQVR4nGPgJwAYRhWMKhhVMFIVAADLVTwBNA/g8AAAAABJRU5ErkJggg==
-   </office:binary-data>
-  </draw:fill-image>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
   <draw:marker draw:name="Circle" svg:viewBox="0 0 1131 1131" svg:d="M462 1118l-102-29-102-51-93-72-72-93-51-102-29-102-13-105 13-102 29-106 51-102 72-89 93-72 102-50 102-34 106-9 101 9 106 34 98 50 93 72 72 89 51 102 29 106 13 102-13 105-29 102-51 102-72 93-93 72-98 51-106 29-101 13z"/>
   <draw:marker draw:name="Marker_5f_0" draw:display-name="Marker_0" svg:viewBox="0 0 1131 1131" svg:d="M462 1118l-102-29-102-51-93-72-72-93-51-102-29-102-13-105 13-102 29-106 51-102 72-89 93-72 102-50 102-34 106-9 101 9 106 34 98 50 93 72 72 89 51 102 29 106 13 102-13 105-29 102-51 102-72 93-93 72-98 51-106 29-101 13z"/>
@@ -236,7 +215,7 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0.6cm"/>
   </style:style>
   <style:style style:name="title" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="none" draw:stroke-linejoin="miter" draw:fill="none"/>
+   <style:graphic-properties draw:stroke="solid" draw:stroke-linejoin="miter" draw:fill="none"/>
    <style:text-properties fo:color="#000000" fo:font-size="48pt" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="title1" style:family="graphic" style:parent-style-name="standard">
@@ -273,7 +252,6 @@
    <style:text-properties fo:font-size="32pt"/>
   </style:style>
   <style:style style:name="Critical_20_Info" style:display-name="Critical Info" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:fill-gradient-name="Gradient_20_7" draw:fill-hatch-name="Hatching_20_1" draw:fill-image-name="Bitmap_20_1"/>
    <style:text-properties fo:color="#ff3333"/>
   </style:style>
   <style:style style:name="InfoBox" style:family="graphic" style:parent-style-name="standard">
@@ -322,14 +300,11 @@
   <style:style style:name="gr6" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="0.771cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
   </style:style>
-  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="title">
-   <style:graphic-properties draw:opacity="50%"/>
+  <style:style style:name="gr7" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0.028cm" svg:stroke-color="#000000" draw:marker-start-width="0.242cm" draw:marker-end-width="0.242cm" draw:fill="none" draw:opacity="50%" draw:textarea-vertical-align="middle" draw:fit-to-size="shrink-to-fit" fo:min-height="2.063cm" fo:min-width="2.54cm" fo:padding-top="0.141cm" fo:padding-bottom="0.141cm" fo:padding-left="0.141cm" fo:padding-right="0.141cm"/>
   </style:style>
-  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="title">
-   <style:graphic-properties draw:opacity="50%" fo:min-height="1.203cm" fo:min-width="2.54cm"/>
-  </style:style>
-  <style:style style:name="gr9" style:family="graphic" style:parent-style-name="title">
-   <style:graphic-properties draw:opacity="50%" fo:min-height="2.063cm" fo:min-width="2.54cm"/>
+  <style:style style:name="gr8" style:family="graphic" style:parent-style-name="Bullets">
+   <style:graphic-properties draw:opacity="50%" draw:textarea-vertical-align="middle" fo:min-height="2.858cm" fo:min-width="2.54cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:opacity="50%"/>
@@ -346,11 +321,20 @@
   </style:style>
   <style:style style:name="P5" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-size="46pt" style:font-size-asian="46pt" style:font-size-complex="46pt"/>
   </style:style>
   <style:style style:name="P6" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:opacity="50%"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
    <style:text-properties fo:font-size="46pt" style:font-size-asian="46pt" style:font-size-complex="46pt"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.25cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="start" fo:text-indent="0cm">
+    <style:tab-stops/>
+   </style:paragraph-properties>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
@@ -359,7 +343,10 @@
    <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="46pt" fo:font-weight="bold" fo:background-color="#ffffff" style:font-name-asian="Calibri2" style:font-size-asian="46pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="46pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
-   <style:text-properties style:font-name="Calibri2" style:font-name-asian="Calibri2" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="28pt" fo:font-weight="bold" style:font-name-asian="Calibri2" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="24pt" style:font-name-asian="Calibri2" style:font-size-asian="24pt" style:font-name-complex="Calibri2" style:font-size-complex="24pt"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -413,10 +400,6 @@
    <draw:layer draw:name="measurelines"/>
   </draw:layer-set>
   <style:master-page style:name="PM0" style:page-layout-name="PM0" draw:style-name="dp1"/>
-  <style:master-page style:name="PM1" style:page-layout-name="PM0" draw:style-name="dp1"/>
-  <style:master-page style:name="PM2" style:page-layout-name="PM0" draw:style-name="dp1"/>
-  <style:master-page style:name="PM3" style:page-layout-name="PM0" draw:style-name="dp1"/>
-  <style:master-page style:name="PM4" style:page-layout-name="PM0" draw:style-name="dp1"/>
  </office:master-styles>
  <office:body>
   <office:drawing>
@@ -426,680 +409,676 @@
       <text:p>MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.084cm" svg:x="2cm" svg:y="44.316cm">
-     <draw:text-box>
-      <text:p>Oversee NMs, INTR and Drivers </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.134cm" svg:x="2cm" svg:y="47.466cm">
-     <draw:text-box>
-      <text:p>Keep record of all involved/evacuated</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.174cm" svg:x="2cm" svg:y="45.926cm">
-     <draw:text-box>
-      <text:p>Coordinate with MEDTEAM</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.907cm" svg:x="2cm" svg:y="50.993cm">
-     <draw:text-box>
-      <text:p>Coordinate transport off-site to medical facilities with Red Cross (including gate permissions and log of designated drivers and destinations)</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="7cm" svg:y="41.995cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="6.7cm" svg:y="41.995cm">
      <draw:text-box>
       <text:p>NOMAD</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="7cm" svg:y="43.996cm">
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="4cm" svg:height="1.945cm" svg:x="6.7cm" svg:y="44.055cm">
      <draw:text-box>
-      <text:p>Create a <text:s/>perimeter barrier (per MSL instructions)</text:p>
+      <text:p>EVACUATE AREA/Set up fire perimeter—Assess if there are people inside the evacuated area </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.682cm" svg:x="7cm" svg:y="45.818cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.915cm" svg:x="6.7cm" svg:y="46.285cm">
      <draw:text-box>
-      <text:p>Take all those affected to Malfare or T&amp;E (depending on quarantine needs) (per Red Cross/ MSL instructions)</text:p>
+      <text:p>Without endangering yourselves: Clear flammables from area or expand perimeter as needed</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.27cm" svg:x="7cm" svg:y="48.93cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.2cm" svg:height="2.816cm" svg:x="6.6cm" svg:y="55.784cm">
      <draw:text-box>
-      <text:p>Identify witnesses who can help to identify what happened/identify source of outbreak</text:p>
+      <text:p>Identify (sober) witnesses who can help to identify what happened (prioritize <text:s/>maintaining perimeter and keeping people away from danger)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.611cm" svg:x="7cm" svg:y="51.589cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.251cm" svg:x="6.7cm" svg:y="50.3cm">
      <draw:text-box>
-      <text:p>Maintain perimeter; keep curious visitors clear </text:p>
+      <text:p>Maintain perimeter; direct curious participants to WE</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.691cm" svg:x="7cm" svg:y="53.509cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.1cm" svg:height="1.558cm" svg:x="6.6cm" svg:y="51.9cm">
      <draw:text-box>
-      <text:p>(per MSL instructions)<text:line-break/>Help identify others who may be affected</text:p>
+      <text:p>In the event of a fire-related death, follow Death on Site protocol.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.9cm" svg:height="1.57cm" svg:x="12cm" svg:y="42.095cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.837cm" svg:height="1.5cm" svg:x="11.5cm" svg:y="42.03cm">
      <draw:text-box>
-      <text:p>MED TEAM</text:p>
+      <text:p>MEDTEAM</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.711cm" svg:x="12.083cm" svg:y="43.989cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.737cm" svg:height="0.67cm" svg:x="11.463cm" svg:y="44.03cm">
      <draw:text-box>
-      <text:p>Take lead on identifying medical nature of outbreak</text:p>
+      <text:p>Triage</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="0.9cm" svg:x="12cm" svg:y="49.9cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.737cm" svg:height="0.57cm" svg:x="11.463cm" svg:y="45.13cm">
      <draw:text-box>
-      <text:p>Triage and treatment</text:p>
+      <text:p>Treatment</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="3.2cm" svg:x="12cm" svg:y="46.2cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.737cm" svg:height="1.161cm" svg:x="11.463cm" svg:y="46.039cm">
      <draw:text-box>
-      <text:p>Inform MSL if mass evacuation and/or additional medical teams on site will be needed, and will call <text:s/>for the latter via local channels</text:p>
+      <text:p>Coordinate evacuation(s) with MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.535cm" svg:height="1.605cm" svg:x="17.065cm" svg:y="41.995cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.273cm" svg:height="1.505cm" svg:x="16.064cm" svg:y="41.995cm">
      <draw:text-box>
       <text:p>INTR</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.526cm" svg:height="1.511cm" svg:x="17.074cm" svg:y="43.989cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.131cm" svg:x="16cm" svg:y="44.1cm">
      <draw:text-box>
-      <text:p>Exclusively under direction of MSL</text:p>
+      <text:p>Under direction of MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.2cm" svg:height="1.57cm" svg:x="1.9cm" svg:y="3.995cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.538cm" svg:x="16cm" svg:y="45.662cm">
+     <draw:text-box>
+      <text:p>Translate for FD or as directed by MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.589cm" svg:height="1.57cm" svg:x="1.5cm" svg:y="3.995cm">
      <draw:text-box>
       <text:p>MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.502cm" svg:x="2cm" svg:y="5.998cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.589cm" svg:height="0.902cm" svg:x="1.4cm" svg:y="6.298cm">
      <draw:text-box>
       <text:p>Declare &quot;Radio Priority&quot; </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="2.103cm" svg:x="2cm" svg:y="7.897cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.628cm" svg:height="1.803cm" svg:x="1.4cm" svg:y="7.597cm">
      <draw:text-box>
       <text:p>All personnel with radios switch to earpieces until incident is over</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.9cm" svg:height="1.57cm" svg:x="6cm" svg:y="3.997cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.589cm" svg:height="1.57cm" svg:x="5.627cm" svg:y="3.997cm">
      <draw:text-box>
       <text:p>GATE </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.3cm" svg:height="1.57cm" svg:x="9.4cm" svg:y="3.997cm">
-     <draw:text-box>
-      <text:p>SL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.317cm" svg:height="1.269cm" svg:x="9.383cm" svg:y="6cm">
-     <draw:text-box>
-      <text:p>Join MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.967cm" svg:height="1.512cm" svg:x="19.412cm" svg:y="3.988cm">
-     <draw:text-box>
-      <text:p>Welfare Enough</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.176cm" svg:height="1.405cm" svg:x="22.824cm" svg:y="4.095cm">
-     <draw:text-box>
-      <text:p>Welfaeries</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.897cm" svg:x="2cm" svg:y="10.403cm">
-     <draw:text-box>
-      <text:p>MSL directs all radio communications for duration of event</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="1.885cm" svg:y="22.025cm">
-     <draw:text-box>
-      <text:p>MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4.083cm" svg:height="1.57cm" svg:x="7cm" svg:y="22.025cm">
-     <draw:text-box>
-      <text:p>MED TEAM</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.085cm" svg:height="1.57cm" svg:x="11.915cm" svg:y="22.025cm">
-     <draw:text-box>
-      <text:p>INTR</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.115cm" svg:height="0.948cm" svg:x="1.885cm" svg:y="24.052cm">
-     <draw:text-box>
-      <text:p>Move to incident site</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.05cm" svg:height="1.953cm" svg:x="1.95cm" svg:y="25.347cm">
-     <draw:text-box>
-      <text:p>Receive update from NM at incident site (en-route via radio)</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="1.886cm" svg:y="27.703cm">
-     <draw:text-box>
-      <text:p>Direct NMs to positions as needed</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.264cm" svg:x="6.9cm" svg:y="24.036cm">
-     <draw:text-box>
-      <text:p>Goes with MSL to incident site and/or ready to receive patients at Red Cross complex</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.943cm" svg:height="1.269cm" svg:x="11.986cm" svg:y="24.018cm">
-     <draw:text-box>
-      <text:p>Move with MSL to incident site</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.967cm" svg:height="1.5cm" svg:x="16cm" svg:y="4.03cm">
-     <draw:text-box>
-      <text:p>NOMAD</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.867cm" svg:height="2cm" svg:x="19.433cm" svg:y="6cm">
-     <draw:text-box>
-      <text:p>Instruct Welfaeries to prep WE for incident response</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.967cm" svg:height="1.85cm" svg:x="19.5cm" svg:y="8.35cm">
-     <draw:text-box>
-      <text:p>Take up position outside of Welfare Centre</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3cm" svg:height="1.57cm" svg:x="16cm" svg:y="22.025cm">
-     <draw:text-box>
-      <text:p>SL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.158cm" svg:height="1.918cm" svg:x="15.942cm" svg:y="29.482cm">
-     <draw:text-box>
-      <text:p>Otherwise, remain at Malfare ready to support MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="21.4cm" svg:y="41.995cm">
-     <draw:text-box>
-      <text:p>SL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.558cm" svg:x="21.5cm" svg:y="44.042cm">
-     <draw:text-box>
-      <text:p>Coordinate with MSL to make all non-medical decisions</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.222cm" svg:x="21.5cm" svg:y="45.978cm">
-     <draw:text-box>
-      <text:p>Coordinate with MSL to help with dissemination of information to general population</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.43cm" svg:x="2cm" svg:y="14.77cm">
-     <draw:text-box>
-      <text:p>Call Designated Drivers to Malfare</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.11cm" svg:x="2cm" svg:y="54.29cm">
-     <draw:text-box>
-      <text:p>Coordinate with MSL to help with dissemination of information to general population</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.794cm" svg:x="7.01cm" svg:y="55.5cm">
-     <draw:text-box>
-      <text:p>(per MSL instructions)<text:line-break/>Help spread information about outbreak </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="InfoBox" draw:layer="layout" svg:width="13.99cm" svg:height="3.245cm" svg:x="14.01cm" svg:y="55.76cm">
-     <draw:text-box>
-      <text:p>If there is serious hazard or health risk, NoMads and everyone else stays clear and medical will call in appropriate support from surrounding hospitals.<text:line-break/>We will all defer to the Red Cross on all medical decisions.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.967cm" svg:height="2.088cm" svg:x="16.005cm" svg:y="6.012cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.589cm" svg:height="1.518cm" svg:x="13.912cm" svg:y="6.282cm">
      <draw:text-box>
       <text:p>If a NM is already at the incident site, begin onsite role per step 3</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.967cm" svg:height="2.325cm" svg:x="16cm" svg:y="8.5cm">
-     <draw:text-box>
-      <text:p>All other NMs stand by and await orders from MSL per &quot;Radio Priority&quot; </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.2cm" svg:height="1.5cm" svg:x="22.8cm" svg:y="6cm">
-     <draw:text-box>
-      <text:p>Prep Welfare Enough for incident response </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.147cm" svg:height="2.2cm" svg:x="22.853cm" svg:y="7.9cm">
-     <draw:text-box>
-      <text:p>2x Welfaeries: prepare to take in incident-related cases</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.147cm" svg:height="1.8cm" svg:x="22.853cm" svg:y="10.4cm">
-     <draw:text-box>
-      <text:p>2x Welfaeries continue normal WE operations</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.77cm" svg:height="1.5cm" svg:x="26.23cm" svg:y="4.03cm">
-     <draw:text-box>
-      <text:p>DRIVER</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.635cm" svg:height="1.717cm" svg:x="26.365cm" svg:y="5.983cm">
-     <draw:text-box>
-      <text:p>Moves to Malfare to await instruction</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.555cm" svg:height="1.5cm" svg:x="12cm" svg:y="4.032cm">
-     <draw:text-box>
-      <text:p>MED TEAM</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.6cm" svg:height="2.4cm" svg:x="12cm" svg:y="6cm">
-     <draw:text-box>
-      <text:p>Prepares to go with MSL to incident site and/or receive patients at Red Cross complex</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="20cm" svg:y="22.033cm">
-     <draw:text-box>
-      <text:p>NOMAD</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.615cm" svg:x="20cm" svg:y="23.985cm">
-     <draw:text-box>
-      <text:p>As per instructions from MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.937cm" svg:height="1.5cm" svg:x="25.063cm" svg:y="22.01cm">
-     <draw:text-box>
-      <text:p>DRIVER</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.8cm" svg:height="1.002cm" svg:x="25.1cm" svg:y="23.998cm">
-     <draw:text-box>
-      <text:p>Wait at Malfare </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.9cm" svg:height="1.033cm" svg:x="25.1cm" svg:y="25.5cm">
-     <draw:text-box>
-      <text:p>Prep Grab Bag and Car</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.448cm" svg:x="2cm" svg:y="49.052cm">
-     <draw:text-box>
-      <text:p>Coordinate with SL to make all non-medical decisions</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.9cm" svg:height="1.5cm" svg:x="26.1cm" svg:y="42.06cm">
-     <draw:text-box>
-      <text:p>DRIVER</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.7cm" svg:height="1.788cm" svg:x="26.2cm" svg:y="44.1cm">
-     <draw:text-box>
-      <text:p>Drives if instructed to do so by MSL only</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="2cm" svg:y="56.796cm">
-     <draw:text-box>
-      <text:p>Full cooperation with Medical Teams</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="21.5cm" svg:y="48.596cm">
-     <draw:text-box>
-      <text:p>Full cooperation with Medical Teams</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.332cm" svg:x="21.5cm" svg:y="50.168cm">
-     <draw:text-box>
-      <text:p>If outside Medical Teams have been called in by Red Cross – go to Gate to meet them and bring them to Red Cross.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.158cm" svg:height="3.231cm" svg:x="15.942cm" svg:y="25.969cm">
-     <draw:text-box>
-      <text:p>If outside Medical Teams have been called in by Red Cross – go to Gate to meet them and bring them to Red Cross.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="14.9cm" svg:height="2.958cm" svg:x="13.1cm" svg:y="33.942cm">
-     <draw:text-box>
-      <text:p>Defer to Red Cross on all medical decisions, verdicts and directives.</text:p>
-      <text:p/>
-      <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Board member shall find the next available/most appropriate alternatives to take their places.</text:p>
-      <text:p/>
-      <text:p>If there is serious hazard or health risk, no-mads and everyone else stays clear – medical handles</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.604cm" svg:x="2cm" svg:y="12.696cm">
-     <draw:text-box>
-      <text:p>Instruct GATE re closure if needed</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.935cm" svg:height="1.717cm" svg:x="6cm" svg:y="5.983cm">
-     <draw:text-box>
-      <text:p>Gate monitors or halts traffic as per MSL instructions</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Instruction_20_Box" draw:layer="layout" svg:width="2.935cm" svg:height="4.8cm" svg:x="6.1cm" svg:y="8cm">
-     <draw:text-box>
-      <text:p>NOTE: Do not attempt to forcibly or physically stop anyone from leaving – take down plate numbers or relevant description and report to MSL. </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.25cm" svg:x="1.829cm" svg:y="62.05cm">
-     <draw:text-box>
-      <text:p>MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.315cm" svg:x="6cm" svg:y="62.085cm">
-     <draw:text-box>
-      <text:p>NOMAD</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.225cm" svg:x="1.729cm" svg:y="66.675cm">
-     <draw:text-box>
-      <text:p>Photograph site/damage for incident reports</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.7cm" svg:x="1.729cm" svg:y="68.3cm">
-     <draw:text-box>
-      <text:p>Liaise with WE and SL —assess needs for further actions together</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.6cm" svg:x="10.17cm" svg:y="66.6cm">
-     <draw:text-box>
-      <text:p>Coordinate assistance to victim(s)/next of kin/friends during ongoing post-incident period. </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="0.655cm" svg:x="1.7cm" svg:y="72.992cm">
-     <draw:text-box>
-      <text:p>Follow-ups </text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="1.451cm" svg:x="1.814cm" svg:y="73.849cm">
-     <draw:text-box>
-      <text:p>Victim(s)/Injured/Traumatized participants</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.741cm" svg:x="5.67cm" svg:y="66.588cm">
-     <draw:text-box>
-      <text:p>Clean-up of hazardous materials (blood, etc.) when instructed by MSL</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.4cm" svg:height="2.1cm" svg:x="5.7cm" svg:y="68.8cm">
-     <draw:text-box>
-      <text:p>Proper disposal of Bio-hazardous materials in accordance with instructions from MSL/Red Cross</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="InfoBox" draw:layer="layout" svg:width="14cm" svg:height="3.227cm" svg:x="14cm" svg:y="75.3cm">
-     <draw:text-box>
-      <text:p>If it is time for a new shift to come on, the new shift will quietly take up regular shift activities, while the previous shift continues with emergency response, until there is an appropriate moment to calmly and orderly make the shift change or hand over duties to the fresh team coming on.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.25cm" svg:x="10.17cm" svg:y="62.05cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.589cm" svg:height="1.57cm" svg:x="9.753cm" svg:y="3.997cm">
      <draw:text-box>
       <text:p>SL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.334cm" svg:x="10.17cm" svg:y="69.5cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.528cm" svg:height="1.944cm" svg:x="1.4cm" svg:y="9.856cm">
      <draw:text-box>
-      <text:p>With Board: Coordinate follow-up including PR response</text:p>
+      <text:p>MSL directs all radio communications for duration of event</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.401cm" svg:height="1.625cm" svg:x="10.099cm" svg:y="72.075cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.589cm" svg:height="1.5cm" svg:x="13.88cm" svg:y="4.032cm">
      <draw:text-box>
-      <text:p>Possible Newsletter/flyer at No-Info</text:p>
+      <text:p>NOMAD</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.345cm" svg:x="13.97cm" svg:y="62.055cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.589cm" svg:height="1.87cm" svg:x="13.912cm" svg:y="8.23cm">
      <draw:text-box>
-      <text:p>WE</text:p>
+      <text:p>All other NMs stand by and await orders from MSL per “Radio Priority&quot; </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="17.835cm" svg:y="61.99cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.589cm" svg:height="1.616cm" svg:x="9.753cm" svg:y="6.284cm">
+     <draw:text-box>
+      <text:p>Responsible for notifying local Fire Department (FD) immediately</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.637cm" svg:height="1.57cm" svg:x="19.964cm" svg:y="41.98cm">
+     <draw:text-box>
+      <text:p>SL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.637cm" svg:height="1.1cm" svg:x="19.863cm" svg:y="44.1cm">
+     <draw:text-box>
+      <text:p>Introduce FD to MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.637cm" svg:height="2.5cm" svg:x="19.9cm" svg:y="45.5cm">
+     <draw:text-box>
+      <text:p>Make all non-medical/non-fire related decisions together with MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.558cm" svg:x="6.7cm" svg:y="48.442cm">
+     <draw:text-box>
+      <text:p>Clear area of those not directly-involved. Send non-medical attention to WE</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.835cm" svg:height="1.5cm" svg:x="25.965cm" svg:y="3.986cm">
      <draw:text-box>
       <text:p>DRIVER</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.5cm" svg:x="21.9cm" svg:y="62cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.65cm" svg:height="1.461cm" svg:x="26.15cm" svg:y="6.239cm">
      <draw:text-box>
-      <text:p>MEDICAL</text:p>
+      <text:p>Moves to Malfare to await instruction</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.165cm" svg:height="1.5cm" svg:x="25.735cm" svg:y="61.89cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.358cm" svg:height="2.168cm" svg:x="9.869cm" svg:y="8.232cm">
+     <draw:text-box>
+      <text:p>Move to Gate and wait for FD to arrive and take them directly to the scene. </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.63cm" svg:height="1.783cm" svg:x="17.9cm" svg:y="3.899cm">
+     <draw:text-box>
+      <text:p>Welfare Enough</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.63cm" svg:height="1.57cm" svg:x="22.074cm" svg:y="4.006cm">
+     <draw:text-box>
+      <text:p>Welfaeries</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.63cm" svg:height="2.59cm" svg:x="22.074cm" svg:y="6.21cm">
+     <draw:text-box>
+      <text:p>Prepare Welfare Enough to take in participants In need of non-medical care, or for evacuation</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.63cm" svg:height="1.559cm" svg:x="17.916cm" svg:y="6.241cm">
+     <draw:text-box>
+      <text:p>Instruct Welfaeries to prep Welfare Enough for incident response</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.63cm" svg:height="1.352cm" svg:x="17.916cm" svg:y="8.248cm">
+     <draw:text-box>
+      <text:p>Take up position outside of Welfare Centre</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.5cm" svg:height="1.966cm" svg:x="18.029cm" svg:y="9.934cm">
+     <draw:text-box>
+      <text:p>Oversee Malfare Complex for duration of the emergency/incident/event</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="1.692cm" svg:y="21.985cm">
+     <draw:text-box>
+      <text:p>MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4.965cm" svg:height="1.57cm" svg:x="6.425cm" svg:y="21.985cm">
+     <draw:text-box>
+      <text:p>MEDTEAM</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.285cm" svg:height="1.57cm" svg:x="12.008cm" svg:y="21.985cm">
      <draw:text-box>
       <text:p>INTR</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.493cm" svg:x="5.67cm" svg:y="71.2cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="0.588cm" svg:x="1.692cm" svg:y="24.012cm">
      <draw:text-box>
-      <text:p>Help disseminate post-incident information + prevention and diffusion of rumours + privacy</text:p>
+      <text:p>Move to incident site</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.559cm" svg:x="10.07cm" svg:y="74cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.593cm" svg:x="1.7cm" svg:y="25cm">
      <draw:text-box>
-      <text:p>Collects all incident reports for safe keeping and follow-up</text:p>
+      <text:p>Receive update from NM at incident site (en-route via radio)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="1.505cm" svg:x="17.97cm" svg:y="68.395cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.737cm" svg:x="1.7cm" svg:y="28.863cm">
      <draw:text-box>
-      <text:p>Re-stock grab <text:s/>bag upon return</text:p>
+      <text:p>Understand current locations, and then direct NMs to positions as needed</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="13.9cm" svg:height="1.756cm" svg:x="14.1cm" svg:y="73.244cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.9cm" svg:height="1.191cm" svg:x="6.4cm" svg:y="24cm">
      <draw:text-box>
-      <text:p>REMEMBER: Stay professional. Respect participants’ privacy and DO NOT TELL STORIES. Do not be a part of the rumour mill!</text:p>
+      <text:p>Move with MSL to incident site as needed.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.611cm" svg:x="1.67cm" svg:y="70.3cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.943cm" svg:height="1cm" svg:x="12.057cm" svg:y="24.1cm">
      <draw:text-box>
-      <text:p>Together with SL, lead post-incident debrief + staff support</text:p>
+      <text:p>With MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.6cm" svg:x="5.579cm" svg:y="74.1cm">
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.895cm" svg:height="1.57cm" svg:x="21.913cm" svg:y="21.985cm">
      <draw:text-box>
-      <text:p>Participate in post-incident debrief</text:p>
+      <text:p>SL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="25.7cm" svg:y="66.615cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.895cm" svg:height="1.955cm" svg:x="21.913cm" svg:y="24.045cm">
      <draw:text-box>
-      <text:p>Participate in post-incident debrief</text:p>
+      <text:p>Move to Gate to meet Fire Department and take them to incident site.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.5cm" svg:height="1.7cm" svg:x="10cm" svg:y="75.9cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.301cm" svg:x="1.7cm" svg:y="31cm">
+     <draw:text-box>
+      <text:p>Direct NMs to maintain regular patrol as needed.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4.965cm" svg:height="1.57cm" svg:x="16.125cm" svg:y="21.992cm">
+     <draw:text-box>
+      <text:p>NOMAD</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.9cm" svg:height="0.88cm" svg:x="16.1cm" svg:y="24.02cm">
+     <draw:text-box>
+      <text:p>Await instructions from MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.737cm" svg:height="1.5cm" svg:x="25.57cm" svg:y="21.99cm">
+     <draw:text-box>
+      <text:p>DRIVER</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.737cm" svg:height="0.822cm" svg:x="25.57cm" svg:y="24.078cm">
+     <draw:text-box>
+      <text:p>Wait at Malfare </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.737cm" svg:height="0.953cm" svg:x="25.57cm" svg:y="25.347cm">
+     <draw:text-box>
+      <text:p>Prep Grab Bag and Car</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.214cm" svg:x="1.972cm" svg:y="44.086cm">
+     <draw:text-box>
+      <text:p>Oversee and give directions to NMs and INTR </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.231cm" svg:x="1.972cm" svg:y="47.169cm">
+     <draw:text-box>
+      <text:p>Keep record of all involved &amp; who was evacuated to where</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="1.972cm" svg:y="45.626cm">
+     <draw:text-box>
+      <text:p>Coordinate with MEDTEAM ,if relevant</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.895cm" svg:x="1.972cm" svg:y="48.805cm">
+     <draw:text-box>
+      <text:p>Coordinate transport off-site to medical facilities (including gate permissions and designated drivers)</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="0.917cm" svg:x="2cm" svg:y="51.1cm">
+     <draw:text-box>
+      <text:p>Coordinate Gate permissions with SL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.9cm" svg:height="1.843cm" svg:x="2cm" svg:y="52.4cm">
+     <draw:text-box>
+      <text:p>Coordinate with SL to make all non-medical, non-fire decisions related to the event</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.945cm" svg:height="0.535cm" svg:x="1.955cm" svg:y="54.7cm">
+     <draw:text-box>
+      <text:p>Cooperate with FD</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.5cm" svg:height="0.892cm" svg:x="19.9cm" svg:y="48.308cm">
+     <draw:text-box>
+      <text:p>Cooperate with FD</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.5cm" svg:height="1.57cm" svg:x="23.05cm" svg:y="41.984cm">
+     <draw:text-box>
+      <text:p>WE</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.5cm" svg:height="1.2cm" svg:x="23cm" svg:y="46.6cm">
+     <draw:text-box>
+      <text:p>Keep record of all involved </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.5cm" svg:height="2.192cm" svg:x="23.1cm" svg:y="44.1cm">
+     <draw:text-box>
+      <text:p>Emotional support for any non-medically affected individuals</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.9cm" svg:height="1.5cm" svg:x="26cm" svg:y="41.969cm">
+     <draw:text-box>
+      <text:p>DRIVER</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.9cm" svg:height="1.479cm" svg:x="26cm" svg:y="44.021cm">
+     <draw:text-box>
+      <text:p>Drives only if instructed by MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.685cm" svg:x="10.17cm" svg:y="78.015cm">
      <draw:text-box>
       <text:p>Together with MSL, lead post-incident debrief + staff support</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="26.971cm" svg:height="0.462cm" svg:x="1.829cm" svg:y="64.138cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.56cm" svg:height="1.144cm" svg:x="1.4cm" svg:y="12.256cm">
      <draw:text-box>
-      <text:p>Everyone involved participates in a post-incident de-brief and is given post-incident trauma/emotional support as needed.</text:p>
+      <text:p>Instruct GATE re closure if needed</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="25.7cm" svg:y="65.1cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.56cm" svg:height="1.208cm" svg:x="5.5cm" svg:y="6.3cm">
      <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
+      <text:p>Gate monitors or halts traffic as per MSL instructions</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Instruction_20_Box" draw:layer="layout" svg:width="3.56cm" svg:height="3.59cm" svg:x="5.594cm" svg:y="7.91cm">
+     <draw:text-box>
+      <text:p>NOTE: Do not attempt to forcibly or physically stop anyone from leaving – take down plate numbers or relevant description and report to SL. </text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.599cm" svg:y1="61.2cm" svg:x2="28.56cm" svg:y2="61.174cm">
+     <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.6cm" svg:y1="61.213cm" svg:x2="28.561cm" svg:y2="61.187cm">
       <text:p/>
      </draw:line>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.639cm" svg:y="60.639cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.64cm" svg:y="60.652cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
       <text:p/>
      </draw:polygon>
-     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.639cm" svg:y="60.578cm">
+     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.64cm" svg:y="60.591cm">
       <draw:text-box>
-       <text:p>Health Outbreak</text:p>
+       <text:p>On-site fire</text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.378cm" svg:y="60.063cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
+     <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.379cm" svg:y="60.076cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
       <text:p><text:span text:style-name="T1">4</text:span></text:p>
      </draw:polygon>
-     <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.939cm" svg:y1="60.575cm" svg:x2="28.9cm" svg:y2="60.549cm">
+     <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.94cm" svg:y1="60.588cm" svg:x2="28.901cm" svg:y2="60.562cm">
       <text:p/>
      </draw:line>
-     <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.1cm" svg:y="60.035cm">
+     <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.101cm" svg:y="60.048cm">
       <draw:text-box>
        <text:p text:style-name="P5"><text:span text:style-name="T2">Post event</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="14.1cm" svg:y="66.615cm">
+    <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.511cm" svg:y1="41.25cm" svg:x2="28.472cm" svg:y2="41.224cm">
+     <text:p/>
+    </draw:line>
+    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.551cm" svg:y="40.689cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.551cm" svg:y="40.628cm">
      <draw:text-box>
-      <text:p>Participate in post-incident debrief</text:p>
+      <text:p>On-site fire</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="14.1cm" svg:y="65cm">
+    <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.29cm" svg:y="40.113cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
+     <text:p><text:span text:style-name="T1">3</text:span></text:p>
+    </draw:polygon>
+    <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.851cm" svg:y1="40.625cm" svg:x2="28.812cm" svg:y2="40.599cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.012cm" svg:y="40.085cm">
      <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
+      <text:p text:style-name="P5"><text:span text:style-name="T2">Roles at incident</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="18cm" svg:y="66.515cm">
+    <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.722cm" svg:y1="21.578cm" svg:x2="28.683cm" svg:y2="21.552cm">
+     <text:p/>
+    </draw:line>
+    <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.762cm" svg:y="21.017cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
+     <text:p/>
+    </draw:polygon>
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.762cm" svg:y="20.956cm">
      <draw:text-box>
-      <text:p>Participate in post-incident debrief</text:p>
+      <text:p>On-site fire</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="18cm" svg:y="65cm">
+    <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.501cm" svg:y="20.441cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
+     <text:p><text:span text:style-name="T1">2</text:span></text:p>
+    </draw:polygon>
+    <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="2.062cm" svg:y1="20.953cm" svg:x2="29.023cm" svg:y2="20.927cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.223cm" svg:y="20.413cm">
      <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="22cm" svg:y="66.548cm">
-     <draw:text-box>
-      <text:p>Participate in post-incident debrief</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="22cm" svg:y="65.033cm">
-     <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="1.8cm" svg:y="65.052cm">
-     <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="5.7cm" svg:y="65.052cm">
-     <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="10.2cm" svg:y="65.085cm">
-     <draw:text-box>
-      <text:p>Fills out an incident report.</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="1.15cm" svg:x="1.815cm" svg:y="75.65cm">
-     <draw:text-box>
-      <text:p>Those taken off-site</text:p>
+      <text:p text:style-name="P5"><text:span text:style-name="T2">Get into position</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.512cm" svg:y1="41.663cm" svg:x2="28.473cm" svg:y2="41.637cm">
+     <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.722cm" svg:y1="3.678cm" svg:x2="28.683cm" svg:y2="3.652cm">
       <text:p/>
      </draw:line>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.552cm" svg:y="41.102cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
+     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.762cm" svg:y="3.117cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
       <text:p/>
      </draw:polygon>
-     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.552cm" svg:y="41.041cm">
+     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.762cm" svg:y="3.056cm">
       <draw:text-box>
-       <text:p>Health outbreak</text:p>
+       <text:p>On-site fire</text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.291cm" svg:y="40.526cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
-      <text:p><text:span text:style-name="T1">3</text:span></text:p>
-     </draw:polygon>
-     <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.852cm" svg:y1="41.038cm" svg:x2="28.813cm" svg:y2="41.012cm">
-      <text:p/>
-     </draw:line>
-     <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.013cm" svg:y="40.498cm">
-      <draw:text-box>
-       <text:p text:style-name="P5"><text:span text:style-name="T2">Roles at incident</text:span></text:p>
-      </draw:text-box>
-     </draw:frame>
-    </draw:g>
-    <draw:frame draw:style-name="Bullets" draw:layer="layout" svg:width="14.954cm" svg:height="1.931cm" svg:x="13.1cm" svg:y="37.269cm">
-     <draw:text-box>
-      <text:p>In case of death due to a health outbreak - follow protocols for &apos;Death on Site&apos;<text:line-break/></text:p>
-      <text:p>If an evacuation or containment area is needed <text:s/>- follow protocols for Evacuation</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.158cm" svg:height="1.73cm" svg:x="15.942cm" svg:y="23.97cm">
-     <draw:text-box>
-      <text:p>If appropriate second an additional interpreter</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.723cm" svg:y1="21.591cm" svg:x2="28.684cm" svg:y2="21.565cm">
-      <text:p/>
-     </draw:line>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.763cm" svg:y="21.03cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
-      <text:p/>
-     </draw:polygon>
-     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.763cm" svg:y="20.969cm">
-      <draw:text-box>
-       <text:p>Health outbreak</text:p>
-      </draw:text-box>
-     </draw:frame>
-     <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.502cm" svg:y="20.454cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
-      <text:p><text:span text:style-name="T1">2</text:span></text:p>
-     </draw:polygon>
-     <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="2.063cm" svg:y1="20.966cm" svg:x2="29.024cm" svg:y2="20.94cm">
-      <text:p/>
-     </draw:line>
-     <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.077cm" svg:height="1.087cm" svg:x="3.224cm" svg:y="20.426cm">
-      <draw:text-box>
-       <text:p text:style-name="P5"><text:span text:style-name="T2">Get into position</text:span></text:p>
-      </draw:text-box>
-     </draw:frame>
-    </draw:g>
-    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="14.9cm" svg:height="2.958cm" svg:x="13cm" svg:y="14cm">
-     <draw:text-box>
-      <text:p>Defer to Red Cross on all medical decisions, verdicts and directives.</text:p>
-      <text:p/>
-      <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Board member shall find the next available/most appropriate alternatives to take their places.</text:p>
-      <text:p/>
-      <text:p>If there is serious hazard or health risk, no-mads and everyone else stays clear – medical handles</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="Bullets" draw:layer="layout" svg:width="14.954cm" svg:height="1.931cm" svg:x="13cm" svg:y="17.327cm">
-     <draw:text-box>
-      <text:p>In case of death due to a health outbreak - follow protocols for &apos;Death on Site&apos;<text:line-break/></text:p>
-      <text:p>If an evacuation or containment area is needed <text:s/>- follow protocols for Evacuation</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:polygon draw:style-name="gr7" draw:text-style-name="P3" draw:layer="layout" svg:width="28.35cm" svg:height="1.565cm" svg:x="0.652cm" svg:y="0.648cm" svg:viewBox="0 0 28351 1566" draw:points="0,1566 28351,1566 28351,0 0,0">
-      <text:p/>
-     </draw:polygon>
-     <draw:polygon draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="28.35cm" svg:height="1.565cm" svg:x="0.652cm" svg:y="0.648cm" svg:viewBox="0 0 28351 1566" draw:points="0,1566 28351,1566 28351,0 0,0">
-      <text:p/>
-     </draw:polygon>
-    </draw:g>
-    <draw:frame draw:style-name="gr9" draw:text-style-name="P3" draw:layer="layout" svg:width="28.35cm" svg:height="1.485cm" svg:x="0.652cm" svg:y="0.721cm">
-     <draw:text-box>
-      <text:p><text:span text:style-name="T3">Health Outbreak</text:span></text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:g>
-     <draw:line draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:x1="1.723cm" svg:y1="3.691cm" svg:x2="28.684cm" svg:y2="3.665cm">
-      <text:p/>
-     </draw:line>
-     <draw:polygon draw:style-name="gr2" draw:text-style-name="P2" draw:layer="layout" svg:width="5cm" svg:height="0.5cm" svg:x="23.763cm" svg:y="3.13cm" svg:viewBox="0 0 5001 501" draw:points="0,501 5001,501 5001,0 0,0">
-      <text:p/>
-     </draw:polygon>
-     <draw:frame draw:style-name="gr3" draw:text-style-name="P3" draw:layer="layout" svg:width="5cm" svg:height="0.622cm" svg:x="23.763cm" svg:y="3.069cm">
-      <draw:text-box>
-       <text:p>Health Outbreak</text:p>
-      </draw:text-box>
-     </draw:frame>
-     <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.502cm" svg:y="2.554cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
+     <draw:polygon draw:style-name="gr4" draw:text-style-name="P4" draw:layer="layout" svg:width="1.41cm" svg:height="1cm" svg:x="0.501cm" svg:y="2.541cm" svg:viewBox="0 0 1411 1001" draw:points="0,1001 1411,1001 1411,0 0,0">
       <text:p><text:span text:style-name="T1">1</text:span></text:p>
      </draw:polygon>
-     <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="2.063cm" svg:y1="3.066cm" svg:x2="29.024cm" svg:y2="3.04cm">
+     <draw:line draw:style-name="gr5" draw:text-style-name="P1" draw:layer="layout" svg:x1="2.062cm" svg:y1="3.053cm" svg:x2="29.023cm" svg:y2="3.027cm">
       <text:p/>
      </draw:line>
-     <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.224cm" svg:y="2.526cm">
+     <draw:frame draw:style-name="gr6" draw:text-style-name="P6" draw:layer="layout" svg:width="25.1cm" svg:height="1.053cm" svg:x="3.223cm" svg:y="2.513cm">
       <draw:text-box>
        <text:p text:style-name="P5"><text:span text:style-name="T2">Immediate actions</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P1" draw:layer="layout" svg:width="28.35cm" svg:height="1.485cm" svg:x="0.651cm" svg:y="0.709cm">
+     <draw:text-box>
+      <text:p text:style-name="P7"><text:span text:style-name="T3">On-site fire emergency</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="15.935cm" svg:height="1.72cm" svg:x="13.1cm" svg:y="12.9cm">
+     <draw:text-box>
+      <text:p>NO HEROICS!</text:p>
+      <text:p>Do not become a part of the problem by getting trapped or injured yourself! <text:s/></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="16cm" svg:height="3.595cm" svg:x="13.1cm" svg:y="15.005cm">
+     <draw:text-box>
+      <text:p text:style-name="P8"><text:span text:style-name="T4">1. Focus on keeping everyone out of harm&apos;s way.</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">2. Do not try to rescue property at the risk of life!</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">3. You cannot help anyone if you get in trouble yourself. Don&apos;t be a hero.</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">4. Defer to the Fire Department.</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="15.935cm" svg:height="1.72cm" svg:x="13cm" svg:y="31.3cm">
+     <draw:text-box>
+      <text:p>NO HEROICS!</text:p>
+      <text:p>Do not become a part of the problem by getting trapped or injured yourself! <text:s/></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="16cm" svg:height="3.595cm" svg:x="13cm" svg:y="33.405cm">
+     <draw:text-box>
+      <text:p text:style-name="P8"><text:span text:style-name="T4">1. Focus on keeping everyone out of harm&apos;s way.</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">2. Do not try to rescue property at the risk of life!</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">3. You cannot help anyone if you get in trouble yourself. Don&apos;t be a hero.</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">4. Defer to the Fire Department.</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="15.935cm" svg:height="1.72cm" svg:x="13cm" svg:y="53.3cm">
+     <draw:text-box>
+      <text:p>NO HEROICS!</text:p>
+      <text:p>Do not become a part of the problem by getting trapped or injured yourself! <text:s/></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr8" draw:text-style-name="P3" draw:layer="layout" svg:width="16cm" svg:height="3.595cm" svg:x="13cm" svg:y="55.405cm">
+     <draw:text-box>
+      <text:p text:style-name="P8"><text:span text:style-name="T4">1. Focus on keeping everyone out of harm&apos;s way.</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">2. Do not try to rescue property at the risk of life!</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">3. You cannot help anyone if you get in trouble yourself. Don&apos;t be a hero.</text:span><text:span text:style-name="T4"><text:line-break/></text:span><text:span text:style-name="T4">4. Defer to the Fire Department.</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.25cm" svg:x="1.817cm" svg:y="62.051cm">
+     <draw:text-box>
+      <text:p>MSL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.315cm" svg:x="5.988cm" svg:y="62.086cm">
+     <draw:text-box>
+      <text:p>NOMAD</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.225cm" svg:x="1.717cm" svg:y="66.576cm">
+     <draw:text-box>
+      <text:p>Photograph site/damage for incident reports</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.7cm" svg:x="1.717cm" svg:y="68.201cm">
+     <draw:text-box>
+      <text:p>Liaise with WE and SL —assess needs for further actions together</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.6cm" svg:x="10.158cm" svg:y="66.601cm">
+     <draw:text-box>
+      <text:p>Coordinate assistance to victim(s)/next of kin/friends during ongoing post-incident period. </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="0.655cm" svg:x="1.588cm" svg:y="72.293cm">
+     <draw:text-box>
+      <text:p>Follow-ups </text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.101cm" svg:height="1.451cm" svg:x="1.702cm" svg:y="73.15cm">
+     <draw:text-box>
+      <text:p>Victim(s)/Injured/Traumatized participants</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.741cm" svg:x="5.658cm" svg:y="66.589cm">
+     <draw:text-box>
+      <text:p>Clean-up of hazardous materials (blood, etc.)</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.4cm" svg:height="1.5cm" svg:x="5.688cm" svg:y="68.601cm">
+     <draw:text-box>
+      <text:p>Proper disposal of Bio-hazardous materials</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="InfoBox" draw:layer="layout" svg:width="15.1cm" svg:height="3.227cm" svg:x="13.988cm" svg:y="75.201cm">
+     <draw:text-box>
+      <text:p>If it is time for a new shift to come on, the new shift will quietly take up regular shift activities, while the previous shift continues with emergency response, until there is an appropriate moment to calmly and orderly make the shift change or hand over duties to the fresh team coming on.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.25cm" svg:x="10.158cm" svg:y="62.051cm">
+     <draw:text-box>
+      <text:p>SL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.334cm" svg:x="10.158cm" svg:y="69.501cm">
+     <draw:text-box>
+      <text:p>With Board: Coordinate follow-up including PR response</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.401cm" svg:height="1.625cm" svg:x="10.087cm" svg:y="72.076cm">
+     <draw:text-box>
+      <text:p>Possible Newsletter/flyer at No-Info</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.345cm" svg:x="13.958cm" svg:y="62.056cm">
+     <draw:text-box>
+      <text:p>WE</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.409cm" svg:x="17.823cm" svg:y="61.991cm">
+     <draw:text-box>
+      <text:p>DRIVER</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.33cm" svg:height="1.399cm" svg:x="21.888cm" svg:y="62.001cm">
+     <draw:text-box>
+      <text:p>MEDICAL</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.493cm" svg:x="5.658cm" svg:y="70.401cm">
+     <draw:text-box>
+      <text:p>Help disseminate post-incident information + prevention and diffusion of rumours + privacy</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.559cm" svg:x="10.058cm" svg:y="74.001cm">
+     <draw:text-box>
+      <text:p>Collects all incident reports for safe keeping and follow-up</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Follow-ups" draw:layer="layout" svg:width="3.33cm" svg:height="1.505cm" svg:x="17.958cm" svg:y="68.396cm">
+     <draw:text-box>
+      <text:p>Re-stock grab <text:s/>bag upon return</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="15cm" svg:height="1.756cm" svg:x="13.988cm" svg:y="73.245cm">
+     <draw:text-box>
+      <text:p>REMEMBER: Stay professional. Respect participants’ privacy and DO NOT TELL STORIES. Do not be a part of the rumour mill!</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.611cm" svg:x="1.658cm" svg:y="70.201cm">
+     <draw:text-box>
+      <text:p>Together with SL, lead post-incident debrief + staff support</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.6cm" svg:x="5.567cm" svg:y="73.201cm">
+     <draw:text-box>
+      <text:p>Participate in post-incident debrief</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="25.688cm" svg:y="66.616cm">
+     <draw:text-box>
+      <text:p>Participate in post-incident debrief</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.5cm" svg:height="1.7cm" svg:x="9.988cm" svg:y="75.901cm">
+     <draw:text-box>
+      <text:p>Together with MSL, lead post-incident debrief + staff support</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="26.971cm" svg:height="0.762cm" svg:x="1.817cm" svg:y="63.939cm">
+     <draw:text-box>
+      <text:p>Everyone involved participates in a post-incident de-brief and is given post-incident trauma/emotional support as needed.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="25.688cm" svg:y="65.101cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="14.088cm" svg:y="66.616cm">
+     <draw:text-box>
+      <text:p>Participate in post-incident debrief</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="14.088cm" svg:y="65.001cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="17.988cm" svg:y="66.516cm">
+     <draw:text-box>
+      <text:p>Participate in post-incident debrief</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="17.988cm" svg:y="65.001cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.218cm" svg:height="1.452cm" svg:x="21.988cm" svg:y="66.549cm">
+     <draw:text-box>
+      <text:p>Participate in post-incident debrief</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="21.988cm" svg:y="65.034cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="1.788cm" svg:y="65.053cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="5.688cm" svg:y="65.053cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="10.188cm" svg:y="65.086cm">
+     <draw:text-box>
+      <text:p>Fills out an incident report.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="4cm" svg:height="1.593cm" svg:x="1.7cm" svg:y="26.901cm">
+     <draw:text-box>
+      <text:p>Cause the Fire Alarms to sound if necessary/site is at risk</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.1cm" svg:height="1.558cm" svg:x="6.6cm" svg:y="53.8cm">
+     <draw:text-box>
+      <text:p>In the event of a vehicular accident, see <text:s/>Vehicular accident protocol.</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.273cm" svg:height="1.505cm" svg:x="25.7cm" svg:y="61.995cm">
+     <draw:text-box>
+      <text:p>INTR</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="3.56cm" svg:height="2.044cm" svg:x="1.4cm" svg:y="13.856cm">
+     <draw:text-box>
+      <text:p>Discover threat levels of fire, and if necessary move to Evacuation Protocol</text:p>
+     </draw:text-box>
+    </draw:frame>
    </draw:page>
   </office:drawing>
  </office:body>

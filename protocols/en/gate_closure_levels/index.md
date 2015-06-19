@@ -2,6 +2,7 @@
 layout: page
 title: Gate closure levels/codes
 description: Malfare/Gate codes for gate closures
+comments: true
 ---
 # Gate Closure Levels & Codes
 

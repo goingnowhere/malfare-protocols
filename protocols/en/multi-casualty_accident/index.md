@@ -2,6 +2,7 @@
 layout: page
 title: Multiple person casualty incident
 description: Malfare protocol for multiple-person casualties
+comments: true
 ---
 # Multiple-person casualties
 
@@ -29,10 +30,6 @@ to varying degrees of multiple participants
     contained &ndash; all team members to actively assist in this.
 
 
-![Multi casualty incident](img/mcic-1.png "multi-person casualty incident 1")
-![Multi casualty incident](img/mcic-2.png "multi-person casualty incident 2")
-![Multi casualty incident](img/mcic-3.png "multi-person casualty incident 3")
-![Multi casualty incident](img/mcic-4.png "multi-person casualty incident 4")
-![Multi casualty incident](img/mcic-5.png "multi-person casualty incident 5")
+![Multi casualty incident](img/mcic.png "multi-person casualty incident")
 
 ­­­

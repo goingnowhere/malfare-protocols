@@ -2,6 +2,7 @@
 layout: page
 title: Adverse weather protocol
 description: Malfare protocol for adverse weather
+comments: true
 ---
 _Emergency Response Protocol:_
 

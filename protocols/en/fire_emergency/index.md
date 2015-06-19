@@ -2,6 +2,7 @@
 layout: page
 title: Fire protocol
 description: Malfare protocol for fire emergencies
+comments: true
 ---
 _Emergency Response Protocol:_
 

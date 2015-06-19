@@ -2,6 +2,7 @@
 layout: page
 title: Health outbreak
 description: Malfare protocol for Health incident outbreaks
+comments: true
 ---
 # Health Outbreak
 
@@ -24,5 +25,5 @@ insects, etc. with multiple casualties, or risk thereof.
     contained &mdash; all team members to actively assist in this.
 
 
-![Health Outbreak 1](img/ho-1.png "Health Outbreak 1") 
+![Health Outbreak](img/ho.png "Health Outbreak") 
 ­­­
