@@ -1,14 +1,7 @@
 “007s”
 
- - Malfare leads will know the full list
- - Have to have done a core role before
- - Long-term thinking
- - Needs to make a decision fair/equitable for participants and event
- - Automatic invocation of protocol for eviction/evacuation
+ - 
  - More guidelines / transparency / quicker action
- - Adam to have something prepared for next call
- - Selection criteria for the agents (reflective of the community)
- - Process for finding people: site lead; malfare shift lead; 007 (“break glass”).
 
 
 # 007s
@@ -28,6 +21,7 @@
 | community elder | A trusted member of the community, who meets these criteria: <li>is a serving company director</li><li>served a board, site lead, or malfare shift lead in the past or more than two occasions</li><li>been a themecamp / barrio lead for greater than three years</li><li>is, in the judgement of the Malfare Leads (collectively) to be good standing</li><li>sober (as defined above) |
 | quorum | 50 people | 
 | serious crime | an offence that may lead to imprisonment for five years|
+| convened trio | the on-duty site-lead, the on-duty malfare shift-lead, the on-rota 007 operative |
 
 
 ## Objective
@@ -69,13 +63,36 @@ The full list will only be known by the Malfare leads, although the on-duty pers
 
 007 Operatives will:
 
- * be in-good standing with the community;
- * be experienced (three or more years) participants;
- * have served as a lead in the past for greater than three years;
- * be as objective as possible, without being emotional;
- * have demonstrated, at Nowhere, the able to quickly form rational, logical, evidence-based decisions objectively, putting the longer-term needs of the event, ahead of anything else;
- * need to recuse themselves if they are involved in situations;
- * act in good faith;
- * representative (as a body) of the Nowhere community as a whole;
- * be empowered by the community, to act on behalf of the community;
- * be able to self-nominate themselves, if they feel they meet these criteria subject to the timelines published by Malfare from time to time;
+ * Be in-good standing with the community;
+ * Be indemnified for their actions whilst on duty, by Nowhere (Europe) Ltd.;
+ * Be experienced (three or more years) participants;
+ * Have served as a lead in the past for greater than three years;
+ * Be as objective as possible, without being emotional;
+ * Put aside religious, conscientious, and personal ethical views whilst on-duty;
+ * Have demonstrated, at Nowhere, the able to quickly form rational, logical, evidence-based decisions objectively, putting the longer-term needs of the event, ahead of anything else;
+ * Need to recuse themselves if they are involved in situations;
+ * Act in good faith;
+ * Be loosely representative (collectively) of the Nowhere community;
+ * Be empowered by the community, to act on behalf of the community;
+ * Be able to self-nominate themselves, if they feel they meet these criteria subject to the timelines published by Malfare from time to time;
+ * need to make decisions that are equitable for participants and the event.
+ 
+## Actions
+
+### Evictions
+If it's felt that a person needs to be evicted from the event, the convened trio will decide.
+
+All three must agree.
+
+### Calling the police
+Various events per our protocols already require calling the police; this protocol does not change that. In some situations, it may be the judgement call of the convened trio to request that the police assist us.
+
+Two-thirds majority is required for action to take place.
+
+### Requesting medical attention
+
+Two-thirds majority, although ideally it will be a decision all three are content to make.
+
+### Authorising use of restraint
+
+Two-thirds majority, although ideally it will be a decision all three are content to make.
