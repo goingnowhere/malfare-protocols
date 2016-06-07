@@ -12,14 +12,15 @@
 | ------ | -------- |
 | Malfare Lead | A person appointed by the directors to hold to role of "Malfare Lead", all year round |
 | Malfare Shift Lead | Person doing a malfare shit, on site |
-| Site Lead | xx |
+| Site Lead | The person, or persons scheduled or undertaking at the start of
+the process, the role of "Site Lead" |
 | Meta lead | xx |
 | Director | A person currently serving as a director of Nowhere (Europe) Ltd, as detailed at [opencorporates]()|
 | 007 | A person on shift to make decisions around sensitive matters |
 | Sober | Capable of forming logical and rational decisions |
 | Malfare Cabin | The Malfare on-site office |
 | community elder | A trusted member of the community, who meets these criteria: <li>is a serving company director</li><li>served a board, site lead, or malfare shift lead in the past or more than two occasions</li><li>been a themecamp / barrio lead for greater than three years</li><li>is, in the judgement of the Malfare Leads (collectively) to be good standing</li><li>sober (as defined above) |
-| quorum | 50 people | 
+| quorum | 50 people |
 | serious crime | an offence that may lead to imprisonment for five years|
 | convened trio | the on-duty site-lead, the on-duty malfare shift-lead, the on-rota 007 operative |
 
@@ -80,19 +81,19 @@ The full list will only be known by the Malfare leads, although the on-duty pers
 ## Actions
 
 ### Evictions
-If it's felt that a person needs to be evicted from the event, the convened trio will decide.
+If it's felt that a person needs to be evicted from the event, the convened members will decide.
 
-All three must agree.
+All members must be in agreement for an evicition to take place.
 
 ### Calling the police
-Various events per our protocols already require calling the police; this protocol does not change that. In some situations, it may be the judgement call of the convened trio to request that the police assist us.
+Various events per our protocols already require calling the police; this protocol does not change that. In some situations, it may be the judgement call of the convened members to request that the police assist us.
 
-Two-thirds majority is required for action to take place.
+A two-thirds or above majority is required for action to take place.
 
 ### Requesting medical attention
 
-Two-thirds majority, although ideally it will be a decision all three are content to make.
+Two-thirds or above majority, although ideally it will be a decision all involved are content to make.
 
 ### Authorising use of restraint
 
-Two-thirds majority, although ideally it will be a decision all three are content to make.
+Two-thirds or above majority, although ideally it will be a decision all members are content to make.
