@@ -61,10 +61,12 @@ For eight hours, you'll be responsible for everyone. As you might guess, we want
 
 Training's provided for this role, expanding on the Nomad training. You'll also need familiarity with the community, protocols, and procedures for Nowhere.
 
-###[Signup as an Malfare Shift Lead](https://malfare.typeform.com/to/IvEbiT)
+### [Signup as a Malfare Shift Lead](https://malfare.typeform.com/to/IvEbiT)
+
 
 ## <a name="assistant-malfare-shift-lead"></a>Assistant Malfare Shift Lead
 
 Support the Malfare Shift Lead, and get prepared for doing the role yourself! A step-up from the Nomads, this role's really about shadowing an experienced Malfare Shift Lead, and learning the ropes, so you can see if this role is something you want to do.
 
-###[Signup for an Assistant Malfare Shift Lead](https://malfare.typeform.com/to/IvEbiT)
+### [Signup for an Assistant Malfare Shift Lead](https://malfare.typeform.com/to/IvEbiT)
+
