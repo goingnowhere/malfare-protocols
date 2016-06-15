@@ -760,7 +760,7 @@
      <draw:text-box>
       <text:p>Defer to Red Cross on all medical decisions, verdicts and directives.</text:p>
       <text:p/>
-      <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Board member shall find the next available/most appropriate alternatives to take their places.</text:p>
+      <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Comms Lead member shall find the next available/most appropriate alternatives to take their places.</text:p>
       <text:p/>
       <text:p>If there is serious hazard or health risk, no-mads and everyone else stays clear – medical handles</text:p>
      </draw:text-box>
@@ -837,7 +837,7 @@
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="2.334cm" svg:x="10.17cm" svg:y="69.5cm">
      <draw:text-box>
-      <text:p>With Board: Coordinate follow-up including PR response</text:p>
+      <text:p>With Comms Lead: Coordinate follow-up including PR response</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.401cm" svg:height="1.625cm" svg:x="10.099cm" svg:y="72.075cm">
@@ -1052,7 +1052,7 @@
      <draw:text-box>
       <text:p>Defer to Red Cross on all medical decisions, verdicts and directives.</text:p>
       <text:p/>
-      <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Board member shall find the next available/most appropriate alternatives to take their places.</text:p>
+      <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Comms Lead member shall find the next available/most appropriate alternatives to take their places.</text:p>
       <text:p/>
       <text:p>If there is serious hazard or health risk, no-mads and everyone else stays clear – medical handles</text:p>
      </draw:text-box>
