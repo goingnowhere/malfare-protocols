@@ -997,7 +997,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:width="3.03cm" svg:height="2.4cm" svg:x="5.4cm" svg:y="11.045cm">
      <draw:text-box>
-      <text:p text:style-name="P4">With Board: Coordinate follow-up including PR response</text:p>
+      <text:p text:style-name="P4">With Comms Lead: Coordinate follow-up including PR response</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr18" draw:text-style-name="P1" draw:layer="layout" svg:width="3.001cm" svg:height="1.255cm" svg:x="5.429cm" svg:y="13.745cm">
