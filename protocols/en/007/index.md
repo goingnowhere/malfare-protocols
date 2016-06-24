@@ -81,12 +81,12 @@ The list of 007 Operatives will be published via the rota, exist as a shared doc
 
  * Be in-good standing with the community;
  * Be indemnified for their actions whilst on duty, by Nowhere (Europe) Ltd.;
- * Be experienced (three or more years) participants;
+ * Be experienced (five or more years) as a participant to any Burning Man related event;
  * Have served as a lead in the past for greater than three years;
  * Be as objective as possible, without being emotional;
  * Put aside religious, conscientious, and personal ethical views whilst on-duty;
  * Have demonstrated, at Nowhere, the able to quickly form rational, logical, evidence-based decisions objectively, putting the longer-term needs of the event, ahead of anything else;
- * Need to recuse themselves if they are involved in situations;
+ * Need to recuse themselves if they are involved in a situation which is under review;
  * Act in good faith;
  * Be loosely representative (collectively) of the Nowhere community;
  * Be empowered by the community, to act on behalf of the community;
@@ -113,4 +113,4 @@ Unanimous agreement should be sought, but if agreement can't be reached within a
 Unanimous agreement should be sought, but if agreement can't be reached within an hour of the meeting starting, a two-thirds or above majority may prevail.
 
 ### Authorising use of restraint
-Unanimous agreement should be sought, but if agreement can't be reached within an hour of the meeting starting, a two-thirds or above majority may prevail.
+If time permits, then unanimous agreement should be sought, but if agreement can't be reached within an hour of the meeting starting, a two-thirds or above majority may prevail.  If, due to the rapid nature of an incident, the on duty Malfare Shift Lead, On Duty Site Lead, or Malfare Leads may direct the on site secuirty to use restraints.
