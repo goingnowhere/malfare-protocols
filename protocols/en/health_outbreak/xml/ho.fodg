@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><dc:creator>adam mxgreggor</dc:creator><dc:date>2015-05-31T16:15:19.621303000</dc:date><meta:creation-date>2012-06-20T21:01:18Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:editing-duration>PT47M24S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:document-statistic meta:object-count="144"/></office:meta>
+ <office:meta><dc:date>2016-06-20T16:50:59.942451000</dc:date><meta:creation-date>2012-06-20T21:01:18Z</meta:creation-date><meta:initial-creator>alanl</meta:initial-creator><meta:generator>LibreOffice/4.4.3.2$MacOSX_X86_64 LibreOffice_project/88805f81e9fe61362df02b9941de8e38a9b5fd16</meta:generator><meta:editing-duration>PT51M4S</meta:editing-duration><meta:editing-cycles>8</meta:editing-cycles><meta:document-statistic meta:object-count="147"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-886</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-709</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">32033</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">20730</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">43608</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">4690</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">25114</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">22586</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-886</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-709</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">32034</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">20731</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">43608</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">4690</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">25115</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">22587</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -352,6 +352,13 @@
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="120%" fo:text-align="center" fo:text-indent="0cm"/>
    <style:text-properties fo:font-size="46pt" style:font-size-asian="46pt" style:font-size-complex="46pt"/>
   </style:style>
+  <style:style style:name="P7" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph">
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
@@ -359,7 +366,19 @@
    <style:text-properties fo:color="#000000" style:font-name="Calibri2" fo:font-size="46pt" fo:font-weight="bold" fo:background-color="#ffffff" style:font-name-asian="Calibri2" style:font-size-asian="46pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="46pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
    <style:text-properties style:font-name="Calibri2" style:font-name-asian="Calibri2" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-name-complex="Calibri2" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -426,22 +445,22 @@
       <text:p>MSL</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.084cm" svg:x="2cm" svg:y="44.316cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.084cm" svg:x="2cm" svg:y="44.016cm">
      <draw:text-box>
       <text:p>Oversee NMs, INTR and Drivers </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.134cm" svg:x="2cm" svg:y="47.466cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.134cm" svg:x="2cm" svg:y="47.066cm">
      <draw:text-box>
       <text:p>Keep record of all involved/evacuated</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.174cm" svg:x="2cm" svg:y="45.926cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.174cm" svg:x="2cm" svg:y="45.526cm">
      <draw:text-box>
-      <text:p>Coordinate with MEDTEAM</text:p>
+      <text:p>Coordinate with Red Cross &amp; our experts</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.907cm" svg:x="2cm" svg:y="50.993cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.907cm" svg:x="2cm" svg:y="50.593cm">
      <draw:text-box>
       <text:p>Coordinate transport off-site to medical facilities with Red Cross (including gate permissions and log of designated drivers and destinations)</text:p>
      </draw:text-box>
@@ -456,22 +475,22 @@
       <text:p>Create a <text:s/>perimeter barrier (per MSL instructions)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.682cm" svg:x="7cm" svg:y="45.818cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.682cm" svg:x="7cm" svg:y="45.618cm">
      <draw:text-box>
       <text:p>Take all those affected to Malfare or T&amp;E (depending on quarantine needs) (per Red Cross/ MSL instructions)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.27cm" svg:x="7cm" svg:y="48.93cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.27cm" svg:x="7cm" svg:y="48.73cm">
      <draw:text-box>
       <text:p>Identify witnesses who can help to identify what happened/identify source of outbreak</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.611cm" svg:x="7cm" svg:y="51.589cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.611cm" svg:x="7cm" svg:y="51.389cm">
      <draw:text-box>
       <text:p>Maintain perimeter; keep curious visitors clear </text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.691cm" svg:x="7cm" svg:y="53.509cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.691cm" svg:x="7cm" svg:y="53.309cm">
      <draw:text-box>
       <text:p>(per MSL instructions)<text:line-break/>Help identify others who may be affected</text:p>
      </draw:text-box>
@@ -513,12 +532,14 @@
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.502cm" svg:x="2cm" svg:y="5.998cm">
      <draw:text-box>
-      <text:p>Declare &quot;Radio Priority&quot; </text:p>
+      <text:p>Assess situation</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="2.103cm" svg:x="2cm" svg:y="7.897cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="3.603cm" svg:x="2cm" svg:y="7.897cm">
      <draw:text-box>
-      <text:p>All personnel with radios switch to earpieces until incident is over</text:p>
+      <text:p>Using a map, record outbreaks by camp, toilet used. Use colours for different symptoms.</text:p>
+      <text:p/>
+      <text:p>Record food eaten &amp; route taken to Nowhere</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="2.9cm" svg:height="1.57cm" svg:x="6cm" svg:y="3.997cm">
@@ -546,11 +567,6 @@
       <text:p>Welfaeries</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.897cm" svg:x="2cm" svg:y="10.403cm">
-     <draw:text-box>
-      <text:p>MSL directs all radio communications for duration of event</text:p>
-     </draw:text-box>
-    </draw:frame>
     <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="4cm" svg:height="1.57cm" svg:x="1.885cm" svg:y="22.025cm">
      <draw:text-box>
       <text:p>MSL</text:p>
@@ -566,9 +582,9 @@
       <text:p>INTR</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.115cm" svg:height="0.948cm" svg:x="1.885cm" svg:y="24.052cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.115cm" svg:height="0.948cm" svg:x="1.985cm" svg:y="24.052cm">
      <draw:text-box>
-      <text:p>Move to incident site</text:p>
+      <text:p>If necessary, move to incident site</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4.05cm" svg:height="1.953cm" svg:x="1.95cm" svg:y="25.347cm">
@@ -576,7 +592,7 @@
       <text:p>Receive update from NM at incident site (en-route via radio)</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="1.886cm" svg:y="27.703cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="1.9cm" svg:y="27.631cm">
      <draw:text-box>
       <text:p>Direct NMs to positions as needed</text:p>
      </draw:text-box>
@@ -598,12 +614,7 @@
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.867cm" svg:height="2cm" svg:x="19.433cm" svg:y="6cm">
      <draw:text-box>
-      <text:p>Instruct Welfaeries to prep WE for incident response</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.967cm" svg:height="1.85cm" svg:x="19.5cm" svg:y="8.35cm">
-     <draw:text-box>
-      <text:p>Take up position outside of Welfare Centre</text:p>
+      <text:p>Instruct Welfaeries to be on stand-by for possible incident response</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3cm" svg:height="1.57cm" svg:x="16cm" svg:y="22.025cm">
@@ -631,17 +642,21 @@
       <text:p>Coordinate with MSL to help with dissemination of information to general population</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.43cm" svg:x="2cm" svg:y="14.77cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.43cm" svg:x="2cm" svg:y="14.07cm">
      <draw:text-box>
       <text:p>Call Designated Drivers to Malfare</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.11cm" svg:x="2cm" svg:y="54.29cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="3.71cm" svg:x="2cm" svg:y="53.89cm">
      <draw:text-box>
-      <text:p>Coordinate with MSL to help with dissemination of information to general population</text:p>
+      <text:p>Start dissemination of information to general population: </text:p>
+      <text:p>brief team: </text:p>
+      <text:p>what&apos;s happened,</text:p>
+      <text:p>preventative steps, cordons,</text:p>
+      <text:p><text:s/>where to get help</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.794cm" svg:x="7.01cm" svg:y="55.5cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.794cm" svg:x="7.01cm" svg:y="55.3cm">
      <draw:text-box>
       <text:p>(per MSL instructions)<text:line-break/>Help spread information about outbreak </text:p>
      </draw:text-box>
@@ -681,9 +696,9 @@
       <text:p>DRIVER</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.635cm" svg:height="1.717cm" svg:x="26.365cm" svg:y="5.983cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.635cm" svg:height="2.717cm" svg:x="26.365cm" svg:y="5.983cm">
      <draw:text-box>
-      <text:p>Moves to Malfare to await instruction</text:p>
+      <text:p>On stand-by incase needed for transport, shopping, <text:s/>or transporting supplies to field hospital</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="Role_20_Name" draw:layer="layout" svg:width="3.555cm" svg:height="1.5cm" svg:x="12cm" svg:y="4.032cm">
@@ -701,7 +716,7 @@
       <text:p>NOMAD</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.615cm" svg:x="20cm" svg:y="23.985cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.115cm" svg:x="20cm" svg:y="23.985cm">
      <draw:text-box>
       <text:p>As per instructions from MSL</text:p>
      </draw:text-box>
@@ -713,7 +728,7 @@
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.8cm" svg:height="1.002cm" svg:x="25.1cm" svg:y="23.998cm">
      <draw:text-box>
-      <text:p>Wait at Malfare </text:p>
+      <text:p>Wait for more details</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="2.9cm" svg:height="1.033cm" svg:x="25.1cm" svg:y="25.5cm">
@@ -721,7 +736,7 @@
       <text:p>Prep Grab Bag and Car</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.448cm" svg:x="2cm" svg:y="49.052cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.448cm" svg:x="2cm" svg:y="48.652cm">
      <draw:text-box>
       <text:p>Coordinate with SL to make all non-medical decisions</text:p>
      </draw:text-box>
@@ -736,19 +751,9 @@
       <text:p>Drives if instructed to do so by MSL only</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="2cm" svg:y="56.796cm">
-     <draw:text-box>
-      <text:p>Full cooperation with Medical Teams</text:p>
-     </draw:text-box>
-    </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="1.269cm" svg:x="21.5cm" svg:y="48.596cm">
      <draw:text-box>
       <text:p>Full cooperation with Medical Teams</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="2.332cm" svg:x="21.5cm" svg:y="50.168cm">
-     <draw:text-box>
-      <text:p>If outside Medical Teams have been called in by Red Cross – go to Gate to meet them and bring them to Red Cross.</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.158cm" svg:height="3.231cm" svg:x="15.942cm" svg:y="25.969cm">
@@ -765,7 +770,7 @@
       <text:p>If there is serious hazard or health risk, no-mads and everyone else stays clear – medical handles</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.604cm" svg:x="2cm" svg:y="12.696cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.604cm" svg:x="2cm" svg:y="11.996cm">
      <draw:text-box>
       <text:p>Instruct GATE re closure if needed</text:p>
      </draw:text-box>
@@ -790,12 +795,12 @@
       <text:p>NOMAD</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.225cm" svg:x="1.729cm" svg:y="66.675cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.225cm" svg:x="1.729cm" svg:y="67.575cm">
      <draw:text-box>
       <text:p>Photograph site/damage for incident reports</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.7cm" svg:x="1.729cm" svg:y="68.3cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.7cm" svg:x="1.729cm" svg:y="69.2cm">
      <draw:text-box>
       <text:p>Liaise with WE and SL —assess needs for further actions together</text:p>
      </draw:text-box>
@@ -885,7 +890,7 @@
       <text:p>REMEMBER: Stay professional. Respect participants’ privacy and DO NOT TELL STORIES. Do not be a part of the rumour mill!</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.611cm" svg:x="1.67cm" svg:y="70.3cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.33cm" svg:height="1.611cm" svg:x="1.67cm" svg:y="71.2cm">
      <draw:text-box>
       <text:p>Together with SL, lead post-incident debrief + staff support</text:p>
      </draw:text-box>
@@ -969,7 +974,7 @@
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="1.8cm" svg:y="65.052cm">
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="1.8cm" svg:y="66.252cm">
      <draw:text-box>
       <text:p>Fills out an incident report.</text:p>
      </draw:text-box>
@@ -1050,7 +1055,7 @@
     </draw:g>
     <draw:frame draw:style-name="Critical_20_Info" draw:layer="layout" svg:width="14.9cm" svg:height="2.958cm" svg:x="13cm" svg:y="14cm">
      <draw:text-box>
-      <text:p>Defer to Red Cross on all medical decisions, verdicts and directives.</text:p>
+      <text:p><text:span text:style-name="T3">Defer to Red Cross on all medical decisions, verdicts and directives.</text:span></text:p>
       <text:p/>
       <text:p>If MSL or SL are themselves affected by the outbreak, on-duty Board member shall find the next available/most appropriate alternatives to take their places.</text:p>
       <text:p/>
@@ -1073,7 +1078,7 @@
     </draw:g>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P3" draw:layer="layout" svg:width="28.35cm" svg:height="1.485cm" svg:x="0.652cm" svg:y="0.721cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">Health Outbreak</text:span></text:p>
+      <text:p><text:span text:style-name="T4">Health Outbreak</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -1100,6 +1105,42 @@
       </draw:text-box>
      </draw:frame>
     </draw:g>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.83cm" svg:x="2cm" svg:y="15.97cm">
+     <draw:text-box>
+      <text:p>Request assistance and advice from key members and specialists within the community</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Bullets" draw:text-style-name="P7" draw:layer="layout" svg:width="7.955cm" svg:height="1.531cm" svg:x="20.9cm" svg:y="0.866cm">
+     <draw:text-box>
+      <text:p text:style-name="P7"><text:span text:style-name="T5">When five to ten people exhibit similar conditions that are of concern to the on-shift leadership team</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3cm" svg:height="1.2cm" svg:x="2cm" svg:y="18.2cm">
+     <draw:text-box>
+      <text:p>Receive briefing from Red Cross</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="3.3cm" svg:height="1.115cm" svg:x="1.8cm" svg:y="64.953cm">
+     <draw:text-box>
+      <text:p>Keeps map(s) updated</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="0.9cm" svg:x="12cm" svg:y="51.2cm">
+     <draw:text-box>
+      <text:p>Collect samples for analysis</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="standard" draw:layer="layout" svg:width="4cm" svg:height="0.9cm" svg:x="2cm" svg:y="57.9cm">
+     <draw:text-box>
+      <text:p>Collect samples for analysis</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="Critical_20_Info" draw:text-style-name="P8" draw:layer="layout" svg:width="13.9cm" svg:height="1.756cm" svg:x="14cm" svg:y="53.7cm">
+     <draw:text-box>
+      <text:p text:style-name="P8"><text:span text:style-name="T6">Our over-riding aim should be:</text:span></text:p>
+      <text:p text:style-name="P8"><text:span text:style-name="T7">Isolate. Treat. Neutralize. Inform</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
    </draw:page>
   </office:drawing>
  </office:body>
