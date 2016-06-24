@@ -57,9 +57,8 @@ or hinder access to the site.
  - Understand from those involved, their views on the cause. Ensure
  this is documented before turn-over.
 
- - If, in the views of both the on-duty Site Lead and Malfare Shift
- Lead, involve law enforcement. Should there be disagreement, the
- on-duty Board lead shall make a judgement call.
+ - The on-duty Site Lead(s) and Malfare Shift
+ Lead should make a decision whether to involve law enforcement or not. Should there be disagreement, the on-duty [007 operative](../007) should be included in making this decision (aim for unanimous; proceed to above ⅔ majority).
 
 ## Relevant roles
   * Nomads
@@ -68,7 +67,7 @@ or hinder access to the site.
   * Site Lead (to incident scene)
   * Interpreter
   * Welfare Enough (to support those involved)
-  * Board Lead
+  * 007 operative (if needed)
 
 ## Third parties
   * Red Cross
@@ -79,6 +78,7 @@ or hinder access to the site.
 ## Related protocols
   * [Death on-site](../death_on_site/)
   * [On/off-site fire](../fire_emergency/)
+  * [007](../007/)
 
 ![Vehicular accidents](img/vehicular_accidents.png "Vehicular accidents")
 

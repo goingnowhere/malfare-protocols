@@ -1002,7 +1002,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr16" draw:text-style-name="P1" draw:layer="layout" svg:width="3.03cm" svg:height="2.4cm" svg:x="9.97cm" svg:y="69.588cm">
      <draw:text-box>
-      <text:p text:style-name="P5">With Board: Coordinate follow-up including PR response</text:p>
+      <text:p text:style-name="P5">With Comms Lead: Coordinate follow-up including PR response</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr17" draw:text-style-name="P1" draw:layer="layout" svg:width="3.001cm" svg:height="1.255cm" svg:x="9.999cm" svg:y="72.288cm">
