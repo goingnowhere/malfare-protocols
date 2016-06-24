@@ -46,7 +46,7 @@ This protocol sets out the role of 007 and area in which they my be call in to e
 
 ## 007 selection criteria 
 
-Malfare Leads will, on behalf of the community, select from those who've purchased tickets, and are known to be coming, between 10 and 25 people in good standing, to act on behalf of the community, to make decisions, on-site about [certain events](#powers).
+Malfare Leads will, on behalf of the community, select from those who've purchased tickets, and are known to be coming, between 10 and 25 people in good standing, to act on behalf of the community, to make decisions, on-site about [certain events](../problematic_participant_process/#actions).
 
 The list of 007 Operatives will be published via the rota, exist as a shared document on Google Drive, as well as printed and displayed within the Malfare cabin.
 
