@@ -19,7 +19,7 @@ comments: true
 | Community elder | A trusted member of the community, who meets these criteria: |
 |      	 | - is a serving company director; |
 |      	 | - served a board, site lead, or malfare shift lead in the past or more than two occasions; |
-|      	 | - been a themecamp, barrio lead, or nowhere lead for greater than one year; |
+|      	 | - been a themecamp/barrio lead, or nowhere lead for greater than three years; |
 |      	 | - is, in the judgement of the Malfare Leads (collectively) to be good standing.|
 | ------ | -------- |
 | Convened members | the on-duty site-lead(s), the on-duty malfare shift-lead, the on-rota 007 operative |
@@ -32,7 +32,7 @@ comments: true
 | ------ | -------- |
 | Quorum | 50 people |
 | ------ | -------- |
-| Serious crime | an offence that may lead to imprisonment  |
+| Serious crime | an offence that may lead to imprisonment for five years or more |
 | ------ | -------- |
 | Site Lead | The person, or persons scheduled or undertaking at the start of the process, the role of "Site Lead" |
 | ------ | -------- |
@@ -42,7 +42,7 @@ comments: true
 
 ## Objective
 
-This protocol sets out the role of 007 and aera in which they my be call into to perfrom / discharge their station. 
+This protocol sets out the role of 007 and area in which they my be call in to execute their duties/discharge their station. 
 
 ## 007 selection criteria 
 
@@ -54,7 +54,8 @@ The list of 007 Operatives will be published via the rota, exist as a shared doc
 
  * Be in-good standing with the community;
  * Be indemnified for their actions whilst on duty, by Nowhere (Europe) Ltd.;
- * Be experienced (five or more years) as a participant to any Burning Man related event;
+ * Be experienced (five or more years) as a participant;
+ * Be experienced (five or more years) as a participant at any authorized Burning Man related event and having attended at least two Nowhere festivals in the past;
  * Have served as a lead in the past for greater than three years;
  * Be as objective as possible, without being emotional;
  * Put aside religious, conscientious, and personal ethical views whilst on-duty;
@@ -73,19 +74,19 @@ Should there be a conflict of interest or emotional triggers, from any person in
 
 ## Automatic triggers
 
-The 007 may be called in:
+The 007 must be called if:
 
- * When a theft, sexual assault, negligence, carelessness incident is reported;
- * Reports of menacing and/or predatory behaviors.
- * When a serious crime is reported;
- * Breach of the fire regulations;
+ * A theft, sexual assault, negligence, carelessness incident is reported;
+ * Reports of menacing and/or predatory behaviors are made;
+ * A serious crime is reported;
+ * Fire regulations are breached or believed to be breached;
  * Third substantiated / actioned noise complaints for individuals, camps, installations &c;
- * Actions & incidents that jeopardize the future of the event;
- * Continual risks to self;
- * Continual risks to others;
- * When one (or more) participant or incident consumes greater than five hours of any on-duty person's time (including when said person is off-rota);
- * When attention is brought to Malfare, of a participant who may be vulnerable (in the views of either laymen, or appropriately qualified professionals);
- * Situations when greater than 100 participants from beginning to end of the festival are exhibiting common symptoms (see also: [health outbreak protocol](/en/health-outbreak))
+ * Actions & incidents that jeopardize the future of the event are noted;
+ * Continual risks to self are happening;
+ * Continual risks to others are happening;
+ * One (or more) participant or incident consumes greater than five hours of any on-duty person's time (including when said person is off-rota);
+ * Attention is brought to Malfare, of a participant who may be vulnerable (in the views of either laymen, or appropriately qualified professionals);
+ * Situations when greater than 100 participants from beginning to end of the festival are exhibiting common symptoms (see also: [health outbreak protocol](/en/health-outbreak)).
  
  
 ## Manual triggers
