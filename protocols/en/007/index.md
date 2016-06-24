@@ -75,17 +75,18 @@ Should there be a conflict of interest or emotional triggers, from any person in
 
 The 007 may be called in:
 
- * When one (or more) participant or incident consumes greater than five hours of any on-duty person's time (including when said person is off-rota);
- * When attention is brought to Malfare, of a participant who may be vulnerable (in the views of either laymen, or appropriately qualified professionals);
- * Situations when greater than 100 participants from beginning to end of the festival are exhibiting common symptoms (see also: [health outbreak protocol](/en/health-outbreak))
  * When a theft, sexual assault, negligence, carelessness incident is reported;
- * When a serious crime is reported to Malfare or a on-duty lead;
+ * Reports of menacing and/or predatory behaviors.
+ * When a serious crime is reported;
  * Breach of the fire regulations;
  * Third substantiated / actioned noise complaints for individuals, camps, installations &c;
  * Actions & incidents that jeopardize the future of the event;
  * Continual risks to self;
  * Continual risks to others;
- * Reports of menacing and/or predatory behaviours.
+ * When one (or more) participant or incident consumes greater than five hours of any on-duty person's time (including when said person is off-rota);
+ * When attention is brought to Malfare, of a participant who may be vulnerable (in the views of either laymen, or appropriately qualified professionals);
+ * Situations when greater than 100 participants from beginning to end of the festival are exhibiting common symptoms (see also: [health outbreak protocol](/en/health-outbreak))
+ 
  
 ## Manual triggers
 
