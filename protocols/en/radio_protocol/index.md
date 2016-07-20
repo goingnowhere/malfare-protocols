@@ -22,8 +22,7 @@ comments: true
 ### Definitions
 | Term             | Meaning |
 |---               |---      |
-| Now-Call         | A critical-priority radio call that has used the *procedure word* `Now` |
-|Procedure Word    | A word or phrase that carries a specific meaning when used on the radio — see [Procedure Words](#reserved-words-and-phrases) for details.     |
+|Procedure Word    | A word or phrase that carries a specific meaning when used on the radio — see [Procedure Words](#procedure-words) for details.     |
 
 ### The Basics
 
@@ -32,7 +31,7 @@ When initiating a call, remember the following:
 - **Check** that you are on the correct channel.
     - See the [Channel List](#channel-list) for more information.
 - **Listen** to the radio before you transmit.
-    - If the channel is busy and you have *critical traffic* to transmit, consider using the [procedure word](#reserved-words-and-phrases) `break break break`
+    - If the channel is busy and you have *critical traffic* to transmit, consider using the [procedure word](#procedure-words) `break break break`
 - **Push** the large push-to-talk button the side of your radio.
 - **Pause** for one second.
 - **Speak** briefly and clearly.
@@ -53,22 +52,36 @@ When initiating a call, remember the following:
 
 - **Don't** use the terms `affirmative` or `negative`.
     - These terms can be confused with each other if the start of your transmission is missed.
-    - Use `yes-yes` and `no-no` instead.
+    - Use `yes yes` and `no no` instead.
 
 ## Procedure Words
 The following is a list of recognized *procedure words* that are in use at Nowhere.
 
 |Term   | Meaning  |
 | ---   |   ---    |
+| `All-Com` | This transmission is for everyone on this channel. Generally repeated twice.
+| `Break Break Break` | Stop talking on this channel, the message I have to deliver is of higher importance. *Make sure the message you have is definitely more important when using this.* |
+| `Cancel Cancel` | The request being made is not longer required. The word is repeated to be clear an unambiguous. |
+| `Copy` / `Copy That` | I have received and understood your message. |
+| `No No` | A negative response. The word is repeated to be clear and unambiguous. |
+| `No Play` | (Used during a drill or exercise) This transmission is not part of the drill/exercise being run and must be taken as genuine. Typically repeated two to three times.
 | `Now` | This is of critical priority and presents a risk to life or safety. If you are responding to this call *you are dropping everything and running*.|
+| `Off-Com` | I am turning off my radio and will not be available. |
+| `On-Com` | I am available on this channel |
+| `Over` | I have finished transmitting and I await your response. |
+| `Out`  | I have finished transmitting and no answer is required or expected. |
+| `Radio Check` | I am testing that my radio works, please acknowledge receipt of this transmission. |
+|`Roger`| See `Copy` |
+| `Standby` | I am busy or otherwise engaged, wait for me to get back to you. |
+| `Yes Yes` | An affirmative response. The word is repeated to be clear and unambiguous. |
 
 
 ## Channel List
 Number  | Name        | Purpose | Frequency | CTCSS Frequency  | Notes
 --      |---          |---      |---        |---          |--
  1      | NORG        |         |           |             |   
- 2      | MalfareTAC1 |         |           |             |   
- 3      | MalfareTAC2 |         |           |             |   
+ 2      | TAC1        |         |           |             |   
+ 3      | TAC2        |         |           |             |   
  4      | Security    |         |           |             |     
  5      | Chat        |         |           |             |     
  6      | Yellow      |         |           |             |     
