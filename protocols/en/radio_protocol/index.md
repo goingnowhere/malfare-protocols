@@ -26,19 +26,17 @@ comments: true
 
 ### The Basics
 
-When initiating a call, remember the following:
-- **Think** about what you're going to say.
-- **Check** that you are on the correct channel.
-    - See the [Channel List](#channel-list) for more information.
-- **Listen** to the radio before you transmit.
-    - If the channel is busy and you have *critical traffic* to transmit, consider using the [procedure word](#procedure-words) `break break break`
-- **Push** the large push-to-talk button the side of your radio.
-- **Pause** for one second.
-- **Speak** briefly and clearly.
-- **Release** the push-to-talk button.
-
+- When initiating a call, remember the following:
+    - **Think** about what you're going to say.
+    - **Check** that you are on the correct channel.
+        - See the [Channel List](#channel-list) for more information.
+    - **Listen** to the radio before you transmit.
+        - If the channel is busy and you have *critical traffic* to transmit, consider using the [procedure word](#procedure-words) `break break break`
+    - **Push** the large push-to-talk button the side of your radio.
+    - **Pause** for one second.
+    - **Speak** briefly and clearly.
+    - **Release** the push-to-talk button.
 - **Don't** use operational event-time channels for social use.
-
 - **Don't** use names on the radio.
     - Bad Examples:
 
@@ -60,11 +58,11 @@ When initiating a call, remember the following:
 The following is a list of recognized *procedure words* that are in use at Nowhere.
 
 |Term   | Meaning  |
-| ---   |   ---    |
+| ------------------   |   ---    |
 | `All-Com` | This transmission is for everyone on this channel. Generally repeated twice.
 | `Break Break Break` | Stop talking on this channel, the message I have to deliver is of higher importance. *Make sure the message you have is definitely more important when using this.* |
 | `Cancel Cancel` | The request being made is not longer required. The word is repeated to be clear an unambiguous. |
-| `Copy` / `Copy That` | I have received and understood your message. |
+| `Copy` /  `Copy That` | I have received and understood your message. |
 | `No No` | A negative response. The word is repeated to be clear and unambiguous. |
 | `No Play` | (Used during a drill or exercise) This transmission is not part of the drill/exercise being run and must be taken as genuine. Typically repeated two to three times.
 | `Now` | This is of critical priority and presents a risk to life or safety. If you are responding to this call *you are dropping everything and running*.|
