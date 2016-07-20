@@ -20,6 +20,7 @@ comments: true
 ## Guidelines for Radio Use
 
 ### Definitions
+
 | Term             | Meaning |
 |---               |---      |
 |Procedure Word    | A word or phrase that carries a specific meaning when used on the radio — see [Procedure Words](#procedure-words) for details.     |
@@ -36,6 +37,15 @@ comments: true
     - **Pause** for one second.
     - **Speak** briefly and clearly.
     - **Release** the push-to-talk button.
+- **Do** be clear and concise.
+    - Bad Examples:
+
+    > ""
+
+    - Good Examples:
+
+    > ""
+
 - **Don't** use operational event-time channels for social use.
 - **Don't** use names on the radio.
     - Bad Examples:
@@ -63,6 +73,7 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 | `Break Break Break` | Stop talking on this channel, the message I have to deliver is of higher importance. *Make sure the message you have is definitely more important when using this.* |
 | `Cancel Cancel` | The request being made is not longer required. The word is repeated to be clear an unambiguous. |
 | `Copy` /  `Copy That` | I have received and understood your message. |
+| `Exercise Exercise` | This transmission is part of a drill or exercise and should not be interpreted as genuine. |
 | `No No` | A negative response. The word is repeated to be clear and unambiguous. |
 | `No Play` | (Used during a drill or exercise) This transmission is not part of the drill/exercise being run and must be taken as genuine. Typically repeated two to three times.
 | `Now` | This is of critical priority and presents a risk to life or safety. If you are responding to this call *you are dropping everything and running*.|
@@ -72,31 +83,32 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 | `Out`  | I have finished transmitting and no answer is required or expected. |
 | `Radio Check` | I am testing that my radio works, please acknowledge receipt of this transmission. |
 |`Roger`| See `Copy` |
-| `Standby` | I am busy or otherwise engaged, wait for me to get back to you. |
+| `Stand By` | I am busy or otherwise engaged, wait for me to get back to you. |
 | `Yes Yes` | An affirmative response. The word is repeated to be clear and unambiguous. |
 
 
 ## Channel List
 
-| Number  | Name        | Purpose | Frequency | CTCSS Frequency  | Notes |
-|---      |---          |---      |---        |---          |---          |
-| 1      | NORG        |         |           |             |            |
-| 2      | TAC1        |         |           |             |            |
-| 3      | TAC2        |         |           |             |            |
-| 4      | Security    |         |           |             |            |   
-| 5      | Chat        |         |           |             |            |   
-| 6      | Yellow      |         |           |             |            |   
-| 7      | Art         |         |           |             |            |   
-| 8      | Gate        |         |           |             |            |   
-| 9      | Placement   |         |           |             |            |   
-| 10     | Production  |         |           |             |            |   
-| 11     | Kitchen     |         |           |             |            |   
-| 12     | SLAP        |         |           |             |            |   
-| 13     | Volunteers  |         |           |             |            |   
-| 14     | Werkhaus    |         |           |             |            |   
-| 15     | Deep Sleep  |         |           |             |            |   
-| 16     | Off Duty    |         |           |             |            |   
-| 17     | On Call     |         |           |             |            |
+| Number  | Name        | Purpose | Frequency | DCS Code | Notes |
+|:---:    |---          |---      |---        |---          |---          |
+| 1       | NORG        |         |           |             |            |
+| 2       | TAC1        |         |           |             |            |
+| 3       | TAC2        |         |           |             |            |
+| 4       | Security    |         |           |             |            |   
+| 5       | Chat        |         |           |             |            |   
+| 6       | Yellow      |         |           |             |            |   
+| 7       | Art         |         |           |             |            |   
+| 8       | Gate        |         |           |             |            |   
+| 9       | Placement   |         |           |             |            |   
+| 10      | Production  |         |           |             |            |   
+| 11      | Kitchen     |         |           |             |            |   
+| 12      | SLAP        |         |           |             |            |   
+| 13      | Volunteers  |         |           |             |            |   
+| 14      | Werkhaus    |         |           |             |            |   
+| 15      | Deep Sleep  |         |           |             |            |   
+| 16      | Off Duty    |         |           |             |            |   
+| 17      | On Call     |         |           |             |            |
 
- ## References
- Some material courtesy of the [Black Rock Ranger Manual](http://rangers.burningman.org/wp-content/uploads/ranger-manual-2014.pdf)  
+## References
+
+ Some material and ideas courtesy of the [Black Rock Ranger Manual](http://rangers.burningman.org/wp-content/uploads/ranger-manual-2014.pdf)  
