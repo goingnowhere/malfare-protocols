@@ -41,11 +41,13 @@ When initiating a call, remember the following:
 
 - **Don't** use names on the radio.
     - Bad Examples:
+
     > "Sandy, Sandy, Sandy, come in for Bob"
 
     > "James has tripped and hurt his knee"
 
     - Good Examples:
+
     > "Malfare, Malfare, Malfare, come in for Gate"
 
     > "A participant requires medical assistance with a knee injury"
@@ -77,25 +79,25 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 
 
 ## Channel List
-Number  | Name        | Purpose | Frequency | CTCSS Frequency  | Notes
---      |---          |---      |---        |---          |--
- 1      | NORG        |         |           |             |   
- 2      | TAC1        |         |           |             |   
- 3      | TAC2        |         |           |             |   
- 4      | Security    |         |           |             |     
- 5      | Chat        |         |           |             |     
- 6      | Yellow      |         |           |             |     
- 7      | Art         |         |           |             |     
- 8      | Gate        |         |           |             |     
- 9      | Placement   |         |           |             |     
- 10     | Production  |         |           |             |     
- 11     | Kitchen     |         |           |             |     
- 12     | SLAP        |         |           |             |     
- 13     | Volunteers  |         |           |             |     
- 14     | Werkhaus    |         |           |             |     
- 15     | Deep Sleep  |         |           |             |     
- 16     | Off Duty    |         |           |             |     
- 17     | On Call     |         |           |             |   
+| Number  | Name        | Purpose | Frequency | CTCSS Frequency  | Notes |
+|--      |---          |---      |---        |---          |--          |
+| 1      | NORG        |         |           |             |            | 
+| 2      | TAC1        |         |           |             |            | 
+| 3      | TAC2        |         |           |             |            | 
+| 4      | Security    |         |           |             |            |   
+| 5      | Chat        |         |           |             |            |   
+| 6      | Yellow      |         |           |             |            |   
+| 7      | Art         |         |           |             |            |   
+| 8      | Gate        |         |           |             |            |   
+| 9      | Placement   |         |           |             |            |   
+| 10     | Production  |         |           |             |            |   
+| 11     | Kitchen     |         |           |             |            |   
+| 12     | SLAP        |         |           |             |            |   
+| 13     | Volunteers  |         |           |             |            |   
+| 14     | Werkhaus    |         |           |             |            |   
+| 15     | Deep Sleep  |         |           |             |            |   
+| 16     | Off Duty    |         |           |             |            |   
+| 17     | On Call     |         |           |             |            | 
 
  ## References
  Some material courtesy of the [Black Rock Ranger Manual](http://rangers.burningman.org/wp-content/uploads/ranger-manual-2014.pdf)  
