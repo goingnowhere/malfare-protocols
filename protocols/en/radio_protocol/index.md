@@ -79,11 +79,12 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 
 
 ## Channel List
+
 | Number  | Name        | Purpose | Frequency | CTCSS Frequency  | Notes |
-|--      |---          |---      |---        |---          |--          |
-| 1      | NORG        |         |           |             |            | 
-| 2      | TAC1        |         |           |             |            | 
-| 3      | TAC2        |         |           |             |            | 
+|---      |---          |---      |---        |---          |---          |
+| 1      | NORG        |         |           |             |            |
+| 2      | TAC1        |         |           |             |            |
+| 3      | TAC2        |         |           |             |            |
 | 4      | Security    |         |           |             |            |   
 | 5      | Chat        |         |           |             |            |   
 | 6      | Yellow      |         |           |             |            |   
@@ -97,7 +98,7 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 | 14     | Werkhaus    |         |           |             |            |   
 | 15     | Deep Sleep  |         |           |             |            |   
 | 16     | Off Duty    |         |           |             |            |   
-| 17     | On Call     |         |           |             |            | 
+| 17     | On Call     |         |           |             |            |
 
  ## References
  Some material courtesy of the [Black Rock Ranger Manual](http://rangers.burningman.org/wp-content/uploads/ranger-manual-2014.pdf)  
