@@ -58,12 +58,12 @@ comments: true
 
     > "Malfare, Malfare, Malfare, come in for Gate"
 
-    > "A participant requires medical assistance with a knee injury"
+    > "A participant requires medical assistance with a suspected knee injury"
 
 - **Don't** so the following over the radio:
     - Mentioning **Death** or **dead** — instead, call for medication assistance for a person who is *unconscious and not breathing*. Request a face-to-face with the malfare shift lead *now*. Refer to the death on site protocol for more information.
     - **Diagnosing** a participant's condition — instead focus on what is needed (Malfare / Welfare / Red Cross), and describe symptoms and severity.
-    - **Drugs**, "high", "overdose" — again, *do not attempt to diagnose*. Instead describe a participant as "altered", "disorientated", "unresponsive" or "unconscious" as appropriate.
+    - **Drugs**, "high", "overdose", "drunk" — again, *do not attempt to diagnose*. Instead describe a participant as "overly refreshed", "disorientated", "unresponsive" or "unconscious" as appropriate.
     - Mentioning **Sexual Assaults** or **Rapes**. See the Sexual Assault / Rape protocol for more information.
     - Discussing **Eviction** from site - this is face-to-face matter to be referred up to the malfare shift lead.
 
@@ -86,15 +86,15 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 | `Fire Fire Fire` | Fire alert. This is followed by the location of the fire. |
 | `No No` | A negative response. The word is repeated to be clear and unambiguous. |
 | `No Play` | (Used during a drill or exercise) This transmission is not part of the drill/exercise being run and must be taken as genuine. Typically repeated two to three times.
-| `Now` | This is of critical priority and presents a risk to life or safety. If you are responding to this call *you are dropping everything and running*.|
+| `Now` | This is of **critical priority** and presents a risk to life or safety. If you are responding to this call *you are dropping everything and running*.|
 | `Off-Com` | I am turning off my radio and will not be available. |
 | `On-Com` | I am available on this channel |
 | `Over` | I have finished transmitting and I await your response. |
 | `Out`  | I have finished transmitting and no answer is required or expected. |
 | `Radio Check` | I am testing that my radio works, please acknowledge receipt of this transmission. |
-| `Priority Priority Priority` | Radio priority is being declared. All non-critical messages are to be held until priority has been lifted. |
+| `Priority Priority Priority` | Radio priority is being declared. All non-critical messages are to be held until priority has been lifted. **This is invoked by the malfare shift lead or assistant shift lead only.** |
 | `Priority Lifted` | Radio priority has been lifted. Generally repeated twice. |
-|`Roger`| See `Copy` |
+|`Received` / `Roger`| See `Copy` |
 | `Stand By` | I am busy or otherwise engaged, wait for me to get back to you. |
 | `Yes Yes` | An affirmative response. The word is repeated to be clear and unambiguous. |
 
