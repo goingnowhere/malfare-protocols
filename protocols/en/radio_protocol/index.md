@@ -61,7 +61,7 @@ comments: true
     > "A participant requires medical assistance with a suspected knee injury"
 
 - **Don't** do the following over the radio:
-    - Mention **Death** or **dead** — instead, call for medication assistance for a person who is *unconscious and not breathing*. Request a face-to-face with the malfare shift lead *now*. Refer to the death on site protocol for more information.
+    - Mention **Death** or **dead** — instead, call for medical assistance for a person who is *unconscious and not breathing*. Request a face-to-face with the malfare shift lead *now*. Refer to the death on site protocol for more information.
     - **Diagnosing** a participant's condition — instead focus on what is needed (Malfare / Welfare / Red Cross), and describe symptoms and severity.
     - **Drugs**, "high", "overdose", "drunk" — again, *do not attempt to diagnose*. Instead describe a participant as "overly refreshed", "disorientated", "unresponsive" or "unconscious" as appropriate.
     - Mention **Sexual Assaults** or **Rapes**. See the Sexual Assault / Rape protocol for more information.
