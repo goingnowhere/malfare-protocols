@@ -37,9 +37,13 @@ comments: true
     - **Pause** for one second.
     - **Speak** briefly and clearly.
     - **Release** the push-to-talk button.
+
 - **Do** be clear and concise.
+
 - **Don't** use operational event-time channels for social use.
+
 - **Don't** use profanity of any kind on operational event-time channels.
+
 - **Don't** use names or personally identifiable information on the radio.
     - Bad Examples:
 
@@ -56,9 +60,9 @@ comments: true
 - **Don't** do the following over the radio:
     - Mention **Death** or **dead** — instead, call for medical assistance for a person who is *unconscious and not breathing*. Request a face-to-face with the malfare shift lead **now**. Refer to the death on site protocol for more information.
     - **Diagnose** a participant's condition — instead focus on what is needed (Malfare / Welfare / Red Cross), and describe symptoms and severity.
-    - **Drugs**, "high", "overdose", "drunk" — again, *do not attempt to diagnose*. Instead describe a participant as "overly refreshed", "disorientated", "unresponsive" or "unconscious" as appropriate.
-    - Mention **Sexual Assaults** or **Rapes**. See the Sexual Assault / Rape protocol for more information.
-    - Discuss **Eviction** from site - this is face-to-face matter to be referred up to the malfare shift lead.
+    - **Drugs**, "high", "overdose", "drunk" — again, *do not attempt to diagnose*. Instead describe a participant as "overly refreshed", "disorientated", "unresponsive" or "unconscious" as appropriate. Focus on symptoms, not causes.
+    - Mention **Sexual Assaults** or **Rapes** - call for a face-to-face with the malfare shift lead. See the Sexual Assault / Rape protocol for more information.
+    - Discuss **Eviction** from site - call for a face-to-face with the malfare shift lead.
 
 - **Don't** use the term `affirmative`.
     - These terms can be confused `negative` if the start of your transmission is missed.
