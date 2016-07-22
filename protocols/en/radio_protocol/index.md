@@ -38,21 +38,14 @@ comments: true
     - **Speak** briefly and clearly.
     - **Release** the push-to-talk button.
 - **Do** be clear and concise.
-    - Bad Examples:
-
-    > ""
-
-    - Good Examples:
-
-    > ""
-
 - **Don't** use operational event-time channels for social use.
-- **Don't** use names on the radio.
+- **Don't** use profanity of any kind on operational event-time channels.
+- **Don't** use names or personally identifiable information on the radio.
     - Bad Examples:
 
     > "Sandy, Sandy, Sandy, come in for Bob"
 
-    > "James has tripped and hurt his knee"
+    > "Bob has tripped and hurt his knee"
 
     - Good Examples:
 
@@ -61,15 +54,15 @@ comments: true
     > "A participant requires medical assistance with a suspected knee injury"
 
 - **Don't** do the following over the radio:
-    - Mention **Death** or **dead** — instead, call for medical assistance for a person who is *unconscious and not breathing*. Request a face-to-face with the malfare shift lead *now*. Refer to the death on site protocol for more information.
-    - **Diagnosing** a participant's condition — instead focus on what is needed (Malfare / Welfare / Red Cross), and describe symptoms and severity.
+    - Mention **Death** or **dead** — instead, call for medical assistance for a person who is *unconscious and not breathing*. Request a face-to-face with the malfare shift lead **now**. Refer to the death on site protocol for more information.
+    - **Diagnose** a participant's condition — instead focus on what is needed (Malfare / Welfare / Red Cross), and describe symptoms and severity.
     - **Drugs**, "high", "overdose", "drunk" — again, *do not attempt to diagnose*. Instead describe a participant as "overly refreshed", "disorientated", "unresponsive" or "unconscious" as appropriate.
     - Mention **Sexual Assaults** or **Rapes**. See the Sexual Assault / Rape protocol for more information.
-    - Discus **Eviction** from site - this is face-to-face matter to be referred up to the malfare shift lead.
+    - Discuss **Eviction** from site - this is face-to-face matter to be referred up to the malfare shift lead.
 
-- **Don't** use the terms `affirmative` or `negative`.
-    - These terms can be confused with each other if the start of your transmission is missed.
-    - Use `yes yes` and `no no` instead.
+- **Don't** use the term `affirmative`.
+    - These terms can be confused `negative` if the start of your transmission is missed.
+    - Use `yes yes` instead.
 
 
 
@@ -84,7 +77,7 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 | `Copy` /  `Copy That` | I have received and understood your message. |
 | `Exercise Exercise` | This transmission is part of a drill or exercise and should not be interpreted as genuine. |
 | `Fire Fire Fire` | Fire alert. This is followed by the location of the fire. |
-| `No No` | A negative response. The word is repeated to be clear and unambiguous. |
+| `No No` / `Negative` | A negative response. |
 | `No Play` | (Used during a drill or exercise) This transmission is not part of the drill/exercise being run and must be taken as genuine. Typically repeated two to three times.
 | `Now` | This is of **critical priority** and presents a risk to life or safety. If you are responding to this call *you are dropping everything and running*.|
 | `Off-Com` | I am turning off my radio and will not be available. |
