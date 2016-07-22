@@ -10,7 +10,8 @@ comments: true
 ## Contents
 - [Introduction](#introduction)
 - [Guidelines for Radio Use](#guidelines-for-radio-use)
-    - [The Basics](#the-basics)
+    - [Basic Tips](#basic-tips) 
+    - [Dos and Don'ts](#dos-and-donts)
 - [Procedure Words](#procedure-words)
 - [Channel List](#channel-list)
 - [References](#references)
@@ -25,7 +26,7 @@ comments: true
 |---               |---      |
 |Procedure Word    | A word or phrase that carries a specific meaning when used on the radio — see [Procedure Words](#procedure-words) for details.     |
 
-### The Basics
+### Basic Tips
 
 - When initiating a call, remember the following:
     - **Think** about what you're going to say.
@@ -37,6 +38,9 @@ comments: true
     - **Pause** for one second.
     - **Speak** briefly and clearly.
     - **Release** the push-to-talk button.
+
+
+### Dos and Don'ts
 
 - **Do** be clear and concise.
 
