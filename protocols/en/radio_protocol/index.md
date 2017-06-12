@@ -108,8 +108,8 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 | 2 | TAC1 | Tactical channel. |
 | 3 | TAC2 | Tactical channel. |
 | 4 | TAC3 | Tactical channel. |
-| 5 | Seguridad | Channel dedicated for communications with security. |
-| 6 | Perimeter | Perimeter team |
+| 5 | Seguridad | Channel dedicated for communications with security. Malfare use only. |
+| 6 | Perimeter | Perimeter team. Malfare use only. |
 | 7 | SLAP | Sound, Light and Power enquiries. |
 | 8 | Gate | Gate crew |
 | 9 | Yellow | Funcomms: Off-duty social communications. |
