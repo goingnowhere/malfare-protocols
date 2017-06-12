@@ -102,25 +102,24 @@ The following is a list of recognized *procedure words* that are in use at Nowhe
 
 ## Channel List
 
-| Number  | Name        | Purpose | Frequency | DCS Code | Notes |
-|:---:    |---          |---      |---        |---          |---          |
-| 1       | NORG        |         |           |             |            |
-| 2       | TAC1        |         |           |             |            |
-| 3       | TAC2        |         |           |             |            |
-| 4       | Security    |         |           |             |            |   
-| 5       | Chat        |         |           |             |            |   
-| 6       | Yellow      |         |           |             |            |   
-| 7       | Art         |         |           |             |            |   
-| 8       | Gate        |         |           |             |            |   
-| 9       | Placement   |         |           |             |            |   
-| 10      | Production  |         |           |             |            |   
-| 11      | Kitchen     |         |           |             |            |   
-| 12      | SLAP        |         |           |             |            |   
-| 13      | Volunteers  |         |           |             |            |   
-| 14      | Werkhaus    |         |           |             |            |   
-| 15      | Deep Sleep  |         |           |             |            |   
-| 16      | Off Duty    |         |           |             |            |   
-| 17      | On Call     |         |           |             |            |
+| Nº | Channel Name | Purpose |
+|:----:|--------------|-----------------------------------------------------------------------------------------------|
+| 1 | NORG | Malfare comms and default channel for all radios. |
+| 2 | TAC1 | Tactical channel. |
+| 3 | TAC2 | Tactical channel. |
+| 4 | TAC3 | Tactical channel. |
+| 5 | Seguridad | Channel dedicated for communications with security. Malfare use only. |
+| 6 | Perimeter | Perimeter team. Malfare use only. |
+| 7 | SLAP | Sound, Light and Power enquiries. |
+| 8 | Gate | Gate crew |
+| 9 | Yellow | Funcomms: Off-duty social communications. |
+| 10 | Production | Production team doing production things. |
+| 11 | Volunteers | Volunteers co-ordination. |
+| 12 | Placement | Channel dedicated for placement crew. |
+| 13 | Art | Channel for art crew |
+| 14 | Deep Sleep | Channel for off-duty personnel while asleep, who can be raised in event of extreme emergency. |
+| 15 | Off Duty | Channnel for off-duty personnel who are resting, but can be raised if needed. |
+| 16 | On Call | Channel for personnel who are on stand-by (e.g. designated driver, interpreters) |
 
 ## References
 
