@@ -80,7 +80,7 @@ The 007 must be called if:
  * Reports of menacing and/or predatory behaviors are made;
  * A serious crime is reported;
  * Fire regulations are breached or believed to be breached;
- * Third substantiated / actioned noise complaints for individuals, camps, installations;
+ * Third substantiated / actioned noise complaints for individuals, camps, installations etc.;
  * Actions & incidents that jeopardize the future of the event are noted;
  * Continual risks to self are happening;
  * Continual risks to others are happening;
