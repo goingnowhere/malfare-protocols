@@ -59,7 +59,7 @@ The list of 007 Operatives will be published via the rota, exist as a shared doc
  * Have served as a lead in the past for greater than three years;
  * Be as objective as possible, without being emotional;
  * Put aside religious, conscientious, and personal ethical views whilst on-duty;
- * Have demonstrated, at Nowhere, the able to quickly form rational, logical, evidence-based decisions objectively, putting the longer-term needs of the event, ahead of anything else;
+ * Have demonstrated, at Nowhere, the ability to quickly form rational, logical, evidence-based decisions objectively, putting the longer-term needs of the event, ahead of anything else;
  * Need to recuse themselves if they are involved in a situation which is under review;
  * Act in good faith;
  * Be loosely representative (collectively) of the Nowhere community;
@@ -80,7 +80,7 @@ The 007 must be called if:
  * Reports of menacing and/or predatory behaviors are made;
  * A serious crime is reported;
  * Fire regulations are breached or believed to be breached;
- * Third substantiated / actioned noise complaints for individuals, camps, installations &c;
+ * Third substantiated / actioned noise complaints for individuals, camps, installations etc.;
  * Actions & incidents that jeopardize the future of the event are noted;
  * Continual risks to self are happening;
  * Continual risks to others are happening;
